@@ -77,3 +77,8 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Altspace](https://altvr.com/) - AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world
 * [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hangout with friends in virtual reality
+
+#### Remote Rendering
+
+* [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render high-quality, interactive 3D content, and stream it to your devices in real time
+* [Innoactive](https://www.innoactive.io/cloud-xr-rendering-streaming) - Cloud XR Solution
