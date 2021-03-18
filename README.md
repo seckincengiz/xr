@@ -39,16 +39,24 @@ Solution-oriented links. The same company may have more than one solution.
 #### Training & Simulation
 
 * [Virtalis](https://www.virtalis.com/) - Put your digital assets in the hands of your entire organisation
+* [Acadicus](https://acadicus.com/) - Acadicus provides an expansive library of ready-to-use virtual simulation content for training and education
+* [EngageVR](https://engagevr.io/) - Ideal for collaboration, education, simulated training and virtual events
 
 #### Remote Assistant
 
 * [Vuforia Chalk](https://www.ptc.com/en/products/vuforia/vuforia-chalk) - Remote Assistance Powered by Augmented Reality
 
-#### Meeting
+#### Meeting & Remote Work
 
 * [Spatial](https://spatial.io/) - Popular cross-platform XR meeting app
+* [MeetinVR](https://www.meetinvr.com/) - Optimized for exceptional collaboration
+* [improov](http://www.improovr.com/home-v2/) - Collaborate in VR around your CAD model
 
 #### Medical
+
+* [Surgical Theater](https://surgicaltheater.net/) - Seamlessly integrating patient-specific surgical planning and navigation
+* [Ghost Productions](https://ghostproductions.com/medical-vr-virtual-reality/) - Highly Functional Surgical Simulations in Virtual Reality
+* [Oxford Medical Simulation](https://oxfordmedicalsimulation.com/) - Oxford Medical Simulation delivers award-winning virtual reality medical and nursing simulation.
 
 #### Art & Design
 
@@ -64,3 +72,8 @@ Solution-oriented links. The same company may have more than one solution.
 #### Essential
 
 * [Mojo](https://www.mojo.vision/) - World's only contact lens that elevates your vision
+
+#### Social VR
+
+* [Altspace](https://altvr.com/) - AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world
+* [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hangout with friends in virtual reality
