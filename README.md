@@ -9,6 +9,19 @@ XR Links
 * [What is mixed reality?](https://www.youtube.com/watch?v=P_I873tL3jw&ab_channel=BernardMarr) - A Simple explanation for anyone
 * [History of Virtual Reality](https://www.youtube.com/watch?v=43mA_ypfwKg&ab_channel=GameSpot) - From Original Retro to Oculus Rift
 
+### Popular Devices
+
+#### VR Headsets
+
+* [Oculus Rift](https://www.oculus.com/rift/) - First Oculus VR Headset
+* [Oculus Go](https://www.oculus.com/go/) - First Standalone Oculus VR Headset
+* [Oculus Quest](https://www.oculus.com/quest/) - Great Standalone VR Headset
+* [Oculus Quest 2](https://www.oculus.com/quest-2/) - Second Gen Quest
+* [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
+* [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of Vive
+* [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
+* [Varjo](https://varjo.com/) - Most advanced virtual and mixed reality solutions for professionals
+
 ### Development
 
 #### XR SDKs
@@ -45,4 +58,9 @@ Solution-oriented links. The same company may have more than one solution.
 #### Wearables
 
 * [Manus VR](https://www.manus-vr.com/) - VR Gloves
-* [Full Body VR](https://sandboxvr.com/losangeles/) - 
+* [Sense Glove](https://www.senseglove.com/) - The New Sense for VR Training
+* [Full Body VR](https://sandboxvr.com/losangeles/) - Full Body VR Gaming Experience
+
+#### Essential
+
+* [Mojo](https://www.mojo.vision/) - World's only contact lens that elevates your vision
