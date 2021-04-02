@@ -44,13 +44,24 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Remote Assistant
 
+* [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/) - Work together from anywhere
 * [Vuforia Chalk](https://www.ptc.com/en/products/vuforia/vuforia-chalk) - Remote Assistance Powered by Augmented Reality
+* [ScopeAR](https://www.scopear.com/solutions/ar-remote-assistance/) - Instant access to company experts and up-to-date instructions in one app
 
 #### Meeting & Remote Work
 
 * [Spatial](https://spatial.io/) - Popular cross-platform XR meeting app
 * [MeetinVR](https://www.meetinvr.com/) - Optimized for exceptional collaboration
 * [improov](http://www.improovr.com/home-v2/) - Collaborate in VR around your CAD model
+* [MootUp](https://mootup.com/) - Accessible 3D Virtual and Hybrid Event Platform
+* [The Wild](https://thewild.com/) - Bring your work to life before it’s built
+* [Mozilla Hubs](https://hubs.mozilla.com/) - Share a virtual room with friends
+
+#### Social VR
+
+* [Altspace](https://altvr.com/) - AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world
+* [Rec Room](https://recroom.com/) - Rec Room is free, and cross plays on everything from phones to VR headsets.
+* [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hangout with friends in virtual reality
 
 #### Medical
 
@@ -72,11 +83,6 @@ Solution-oriented links. The same company may have more than one solution.
 #### Essential
 
 * [Mojo](https://www.mojo.vision/) - World's only contact lens that elevates your vision
-
-#### Social VR
-
-* [Altspace](https://altvr.com/) - AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world
-* [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hangout with friends in virtual reality
 
 #### Remote Rendering
 
