@@ -22,6 +22,14 @@ XR Links
 * [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
 * [Varjo](https://varjo.com/) - Most advanced virtual and mixed reality solutions for professionals
 
+#### AR Headsets
+
+* [Varjo](https://varjo.com/) - Highest-performance XR for every workplace
+* [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) - Mixed reality device with apps and solutions that enhance collaboration
+* [Magic Leap](https://www.magicleap.com/en-us) - A lightweight, wearable computer to enhance productivity
+* [Realwear](https://realwear.com/) - Voice Controlled Fully Rugged Headset
+* [Vuzix](https://www.vuzix.com/) - Provides hands-free ar glasses to defense, security, enterprise and consumers
+
 ### Development
 
 #### XR SDKs
@@ -60,7 +68,7 @@ Solution-oriented links. The same company may have more than one solution.
 #### Social VR
 
 * [Altspace](https://altvr.com/) - Attend live shows, meetups, cool classes, and more with friendly people from around the world
-* [Rec Room](https://recroom.com/) - Rec Room is free, and cross plays on everything from phones to VR headsets
+* [Rec Room](https://recroom.com/) - Party up with friends from all around the world to chat, hang out and play
 * [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hangout with friends in virtual reality
 
 #### Medical
