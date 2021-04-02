@@ -1,15 +1,20 @@
 # XR
 
-XR Links
+XR Links & Resources
 
 ## Index
+
+* [Fundamentals](https://seckin.dev/blog/XR/#fundamentals)
+* [Devices](https://seckin.dev/blog/XR/#devices)
+* [Development](https://seckin.dev/blog/XR/#development)
+* [Solutions](https://seckin.dev/blog/XR/#solutions)
 
 ### Fundamentals
 
 * [What is mixed reality?](https://www.youtube.com/watch?v=P_I873tL3jw&ab_channel=BernardMarr) - A Simple explanation for anyone
 * [History of Virtual Reality](https://www.youtube.com/watch?v=43mA_ypfwKg&ab_channel=GameSpot) - From Original Retro to Oculus Rift
 
-### Popular Devices
+### Devices
 
 #### VR Headsets
 
@@ -32,7 +37,7 @@ XR Links
 
 ### Development
 
-#### XR SDKs
+#### SDKs
 
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - Most popular VR SDK
 * [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
@@ -40,7 +45,7 @@ XR Links
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
 * [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
 
-### XR Solutions
+### Solutions
 
 Solution-oriented links. The same company may have more than one solution.
 
