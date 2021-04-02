@@ -4,10 +4,10 @@ XR Links & Resources
 
 ## Index
 
-* [Fundamentals](https://seckin.dev/blog/XR/#fundamentals)
-* [Devices](https://seckin.dev/blog/XR/#devices)
-* [Development](https://seckin.dev/blog/XR/#development)
-* [Solutions](https://seckin.dev/blog/XR/#solutions)
+* [Fundamentals](https://github.com/seckincengiz/XR#fundamentals)
+* [Devices](https://github.com/seckincengiz/XR#devices)
+* [Development](https://github.com/seckincengiz/XR#development)
+* [Solutions](https://github.com/seckincengiz/XR#solutions)
 
 ### Fundamentals
 
