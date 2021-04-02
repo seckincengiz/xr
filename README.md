@@ -39,7 +39,7 @@ Solution-oriented links. The same company may have more than one solution.
 #### Training & Simulation
 
 * [Virtalis](https://www.virtalis.com/) - Put your digital assets in the hands of your entire organisation
-* [Acadicus](https://acadicus.com/) - Acadicus provides an expansive library of ready-to-use virtual simulation content for training and education
+* [Acadicus](https://acadicus.com/) - Provides a library of ready-to-use virtual simulation content for training and education
 * [EngageVR](https://engagevr.io/) - Ideal for collaboration, education, simulated training and virtual events
 
 #### Remote Assistant
@@ -59,15 +59,15 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Social VR
 
-* [Altspace](https://altvr.com/) - AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world
-* [Rec Room](https://recroom.com/) - Rec Room is free, and cross plays on everything from phones to VR headsets.
+* [Altspace](https://altvr.com/) - Attend live shows, meetups, cool classes, and more with friendly people from around the world
+* [Rec Room](https://recroom.com/) - Rec Room is free, and cross plays on everything from phones to VR headsets
 * [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hangout with friends in virtual reality
 
 #### Medical
 
 * [Surgical Theater](https://surgicaltheater.net/) - Seamlessly integrating patient-specific surgical planning and navigation
 * [Ghost Productions](https://ghostproductions.com/medical-vr-virtual-reality/) - Highly Functional Surgical Simulations in Virtual Reality
-* [Oxford Medical Simulation](https://oxfordmedicalsimulation.com/) - Oxford Medical Simulation delivers award-winning virtual reality medical and nursing simulation.
+* [Oxford Medical Simulation](https://oxfordmedicalsimulation.com/) - Delivers award-winning virtual reality medical and nursing simulation
 
 #### Art & Design
 
@@ -86,5 +86,5 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Remote Rendering
 
-* [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render high-quality, interactive 3D content, and stream it to your devices in real time
+* [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render HQ, interactive 3D content, and stream it to your devices in real-time
 * [Innoactive](https://www.innoactive.io/cloud-xr-rendering-streaming) - Cloud XR Solution
