@@ -2,12 +2,7 @@
 
 XR Links & Resources
 
-## Index
-
-* [Fundamentals](https://github.com/seckincengiz/XR#fundamentals)
-* [Devices](https://github.com/seckincengiz/XR#devices)
-* [Development](https://github.com/seckincengiz/XR#development)
-* [Solutions](https://github.com/seckincengiz/XR#solutions)
+**Index:** [Fundamentals](https://github.com/seckincengiz/XR#fundamentals) - [Devices](https://github.com/seckincengiz/XR#devices) - [Development](https://github.com/seckincengiz/XR#development) - [Solutions](https://github.com/seckincengiz/XR#solutions)
 
 ### Fundamentals
 
