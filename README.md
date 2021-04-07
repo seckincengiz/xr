@@ -45,9 +45,9 @@ XR Links & Resources
 
 #### DIY
 
-* [Relativty](https://www.relativty.com/)
+* [Relativty](https://www.relativty.com/) - Open source VR Hardware
 * [CheApR](https://www.instructables.com/CheApR-Open-Source-Augmented-Reality-Smart-Glasses/) - Open Source DIY AR Glass
-* [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/)
+* [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/) - AR Glass Hack
 
 ### Development
 
