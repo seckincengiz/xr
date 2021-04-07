@@ -81,6 +81,11 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Gravity Sketch](https://www.gravitysketch.com/) - Intuitive 3D design platform for cross-disciplinary teams
 * [Tilt Brush](https://www.tiltbrush.com/) - It lets you paint in 3D space with virtual reality
+* [Quill](https://quill.fb.com/) - It is a VR illustration and animation tool empowering creators to tell immersive stories
+* [Blocks](https://arvr.google.com/blocks/) - Create beautiful 3D models in no time
+* [Sketchbox](https://design.sketchbox3d.com/) - Instantly bring your 3D content into an infinite, collaborative workspace
+* [Kingspray Graffiti](http://infectiousape.com/) - Kingspray is a battle-tested VR Graffiti Simulator, with realistic spray
+* [AnimVR](https://nvrmind.io/#features) - 3D production with a powerful timeline, virtual cameras, audio recording, fading & editing
 
 #### Wearables
 
