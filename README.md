@@ -18,7 +18,7 @@ XR Links & Resources
 * [RoadtoVR](https://www.roadtovr.com/) - Good XR Feed
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
 * [Wired](https://www.wired.com/tag/augmented-reality/) - Wired XR Tag
-* [Venturebear](https://venturebeat.com/category/arvr/) - Venturebeat ARVR Tag
+* [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR Tag
 * [ARPost](https://arpost.co/) - AR Post XR News
 
 
@@ -105,11 +105,13 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Gravity Sketch](https://www.gravitysketch.com/) - Intuitive 3D design platform for cross-disciplinary teams
 * [Tilt Brush](https://www.tiltbrush.com/) - It lets you paint in 3D space with virtual reality
-* [Quill](https://quill.fb.com/) - It is a VR illustration and animation tool empowering creators to tell immersive stories
+* [Facebook Quill](https://quill.fb.com/) - It is a VR illustration and animation tool empowering creators to tell immersive stories
+* [Medium by Adobe](https://www.adobe.com/products/medium.html) - Provides you with a limitless VR canvas, so you can sketch ideas out of thin air in any direction
 * [Blocks](https://arvr.google.com/blocks/) - Create beautiful 3D models in no time
 * [Sketchbox](https://design.sketchbox3d.com/) - Instantly bring your 3D content into an infinite, collaborative workspace
 * [Kingspray Graffiti](http://infectiousape.com/) - Kingspray is a battle-tested VR Graffiti Simulator, with realistic spray
 * [AnimVR](https://nvrmind.io/#features) - 3D production with a powerful timeline, virtual cameras, audio recording, fading & editing
+* [Tvori](https://tvori.co/) - Prototype XR apps & games
 
 #### Wearables
 
