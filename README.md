@@ -2,7 +2,7 @@
 
 XR Links & Resources
 
-**Index:** [Fundamentals](https://github.com/seckincengiz/XR#fundamentals) - [Devices](https://github.com/seckincengiz/XR#devices) - [Development](https://github.com/seckincengiz/XR#development) - [Solutions](https://github.com/seckincengiz/XR#solutions)
+**Index:** [Fundamentals](https://github.com/seckincengiz/XR#fundamentals) - [Devices](https://github.com/seckincengiz/XR#devices) - [Development](https://github.com/seckincengiz/XR#development) - [Solutions](https://github.com/seckincengiz/XR#solutions) - [About](https://github.com/seckincengiz/XR#about)
 
 ### Fundamentals
 
@@ -136,3 +136,9 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render HQ, interactive 3D content, and stream it to your devices in real-time
 * [Innoactive](https://www.innoactive.io/cloud-xr-rendering-streaming) - Cloud XR Solution
+
+### About
+
+#### License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
