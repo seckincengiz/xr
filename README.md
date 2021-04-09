@@ -14,34 +14,39 @@ XR Links & Resources
 
 #### News Sources
 
-* [VR Scout](https://vrscout.com/) - Latest XR News
-* [RoadtoVR](https://www.roadtovr.com/) - Good XR Feed
+* [VR Scout](https://vrscout.com/) - Latest XR news
+* [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
-* [Wired](https://www.wired.com/tag/augmented-reality/) - Wired XR Tag
-* [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR Tag
-* [ARPost](https://arpost.co/) - AR Post XR News
-
+* [VR Focus](https://www.vrfocus.com/) - Immersive tech news, updates, interviews and more
+* [VR on Reddit](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
+* [Wired](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
+* [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR category page
+* [ARPost](https://arpost.co/) - Publication dedicated to the consumer & enterprise
+* [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
 
 ### Devices
 
 #### VR Headsets
 
+* [Varjo VR-3](https://varjo.com/products/vr-3/) - Highest resolution across the widest field of view
+* [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
+* [Oculus Quest 2](https://www.oculus.com/quest-2/) - Great Standalone VR Headset
+* [Oculus Quest](https://www.oculus.com/quest/) - Great Standalone VR Headset
+* [Oculus Rift S](https://www.oculus.com/rift-s/) - Great PC Powered VR Headset
 * [Oculus Rift](https://www.oculus.com/rift/) - First Oculus VR Headset
 * [Oculus Go](https://www.oculus.com/go/) - First Standalone Oculus VR Headset
-* [Oculus Quest](https://www.oculus.com/quest/) - Great Standalone VR Headset
-* [Oculus Quest 2](https://www.oculus.com/quest-2/) - Second Gen Quest
 * [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
-* [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of Vive
-* [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
-* [Varjo](https://varjo.com/) - Most advanced virtual and mixed reality solutions for professionals
+* [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of HTC Vive
 
-#### AR Headsets
+#### AR Headsets & Glasses
 
-* [Varjo](https://varjo.com/) - Highest-performance XR for every workplace
-* [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) - Mixed reality device with apps and solutions that enhance collaboration
-* [Magic Leap](https://www.magicleap.com/en-us) - A lightweight, wearable computer to enhance productivity
+* [Varjo XR-3](https://varjo.com/products/xr-3/) - Highest performance XR for every workplace
+* [Microsoft HoloLens 2](https://www.microsoft.com/en-us/hololens) - Mixed reality device with apps and solutions that enhance collaboration
+* [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - A lightweight, wearable computer to enhance productivity
 * [Realwear](https://realwear.com/) - Voice Controlled Fully Rugged Headset
-* [Vuzix](https://www.vuzix.com/) - Provides hands-free ar glasses to defense, security, enterprise and consumers
+* [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
+* [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
+* [Google Glass Enterprise Edition 2](https://www.google.com/glass/tech-specs/) - A hands-free device for smarter and faster hands-on work
 
 #### DIY
 
