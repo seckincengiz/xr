@@ -30,6 +30,7 @@ XR Links & Resources
 * [Clutch](https://clutch.co/developers/virtual-reality) - Helps you to find companies in XR domain
 * [Business](https://www.business.com/) - Resources on finance, marketing, HR and more
 * [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
+* [The Manifest](https://themanifest.com/virtual-reality/companies) - Top 100 AR/VR Development Companies
 
 ### Devices
 
@@ -95,6 +96,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Aucta](https://aucta.io/) - Create and deploy 3D instructions anywhere, on any device
 * [HTX Labs](https://www.htxlabs.com/) - Immersive training platform
 * [3Spin-Dream](https://3spin-dream.com/de/learning#vr-ar-learning-is-superior) - Create & carry out augmented & virtual reality trainings
+* [VR Vision Group](https://vrvisiongroup.com/virtual-reality-training/) - Offers VR Training App Development Service
 
 #### Remote Assistant
 
@@ -161,6 +163,11 @@ Solution-oriented links. The same company may have more than one solution.
 * [Nomtek](https://www.nomtek.com/xr-ar-development) - Nomtek is a world-class Magic Leap development partner
 * [Elmparklabs](https://www.elmparklabs.com/services) - Offers you to plan and execute your XR strategy and applications
 * [Innovation Rock](https://innovation-rocks.com/) - Offers you to transform businesses through new realities
+* [Next / Now](https://nextnowagency.com/) - It is an award-winning digital experience agency
+* [Cemtrex Labs](https://cemtrexlabs.com/) - Offers you to transform your brand with a help of immersive technology
+* [Lucid Reality Labs](https://lucidrealitylabs.com/) - XR solutions from concept & design to development and support
+* [Three View Studio](https://treeview.studio/) - Immersive Technology Development Studio
+* [CM&D](https://chocolatemilkdonuts.com/) - Offers you XR experience development service with the latest tech
 
 ### About
 
