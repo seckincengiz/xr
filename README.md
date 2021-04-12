@@ -24,6 +24,13 @@ XR Links & Resources
 * [ARPost](https://arpost.co/) - Publication dedicated to the consumer & enterprise
 * [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
 
+#### Search & Browse Companies
+
+* [Crucnhbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them
+* [Clutch](https://clutch.co/developers/virtual-reality) - Helps you to find companies in XR domain
+* [Business](https://www.business.com/) - Resources on finance, marketing, HR and more
+* [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
+
 ### Devices
 
 #### VR Headsets
@@ -61,11 +68,13 @@ XR Links & Resources
 * [AR Kit](https://developer.apple.com/augmented-reality/arkit/) - Apple AR SDK
 * [AR Core](https://developers.google.com/ar) - Android AR SDK
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - Most popular VR SDK
+* [Oculus SDK](https://developer.oculus.com/downloads/) - Samples, and asset packs are built to help you develop your VR app
 * [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - Vuforia is a comprehensive, scalable enterprise AR platform
 * [VRTK](https://github.com/ExtendRealityLtd/VRTK) - Open Source Crossplatform VR Toolkit
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
 * [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
+* [SparkAR](https://sparkar.facebook.com/ar-studio/) - Let's you create interactive AR experiences, with or without code
 
 ### Solutions
 
@@ -77,6 +86,12 @@ Solution-oriented links. The same company may have more than one solution.
 * [Acadicus](https://acadicus.com/) - Provides a library of ready-to-use virtual simulation content for training and education
 * [EngageVR](https://engagevr.io/) - Ideal for collaboration, education, simulated training and virtual events
 * [Reflekt-One](https://www.re-flekt.com/reflekt-one) - Step-by-step instructions and digital training guides
+* [VR Direct](https://www.vrdirect.com/solutions/vr-training/) - Offers you a platform to build your own web-based VR Trainings
+* [Sixense Full-Presence System](https://www.sixense.com/solutions/training/) - Provide realistic, full-body training
+* [Aucta](https://aucta.io/) - Create and deploy 3D instructions anywhere, on any device
+* [HTX Labs](https://www.htxlabs.com/) - Immersive training platform
+* [3Spin-Dream](https://3spin-dream.com/de/learning#vr-ar-learning-is-superior) - Create & carry out augmented & virtual reality trainings
+* [Elmparklabs]()
 
 #### Remote Assistant
 
@@ -98,13 +113,14 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Altspace](https://altvr.com/) - Attend live shows, meetups, cool classes, and more with friendly people from around the world
 * [Rec Room](https://recroom.com/) - Party up with friends from all around the world to chat, hang out and play
-* [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hangout with friends in virtual reality
+* [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hang out with friends in virtual reality
 
 #### Medical
 
 * [Surgical Theater](https://surgicaltheater.net/) - Seamlessly integrating patient-specific surgical planning and navigation
 * [Ghost Productions](https://ghostproductions.com/medical-vr-virtual-reality/) - Highly Functional Surgical Simulations in Virtual Reality
 * [Oxford Medical Simulation](https://oxfordmedicalsimulation.com/) - Delivers award-winning virtual reality medical and nursing simulation
+* [Sixense Full-Presence System](https://www.sixense.com/solutions/healthcare/) - Provides medical training, treatments, and therapies
 
 #### Art & Design
 
@@ -136,6 +152,12 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render HQ, interactive 3D content, and stream it to your devices in real-time
 * [Innoactive](https://www.innoactive.io/cloud-xr-rendering-streaming) - Cloud XR Solution
+
+#### Custom Software Development Service Providers
+
+* [Nomtek](https://www.nomtek.com/xr-ar-development) - Nomtek is a world-class Magic Leap development partner
+* [Elmparklabs](https://www.elmparklabs.com/services) - Offers you to plan and execute your XR strategy and applications
+* [Innovation Rock](https://innovation-rocks.com/) - Offers you to transform businesses through new realities
 
 ### About
 
