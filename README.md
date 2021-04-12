@@ -167,10 +167,11 @@ Solution-oriented links. The same company may have more than one solution.
 * [Next / Now](https://nextnowagency.com/) - It is an award-winning digital experience agency
 * [Cemtrex Labs](https://cemtrexlabs.com/) - Offers you to transform your brand with a help of immersive technology
 * [Lucid Reality Labs](https://lucidrealitylabs.com/) - XR solutions from concept & design to development and support
-* [Three View Studio](https://treeview.studio/) - Immersive Technology Development Studio
+* [Three View Studio](https://treeview.studio/) - Immersive technology development studio
 * [Subvrsive](https://subvrsive.com/) - Offers virtual events and immersive experiences that drive results
 * [CM&D](https://chocolatemilkdonuts.com/) - Offers you XR experience development service with the latest tech
 * [Saritasa](https://www.saritasa.com/) - AR/VR, and IoT technology solutions
+* [Softengi](https://softengi.com/services/extended-reality/) - Provides XR development services
 
 ### About
 
