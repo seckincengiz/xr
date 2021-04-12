@@ -74,7 +74,11 @@ XR Links & Resources
 * [VRTK](https://github.com/ExtendRealityLtd/VRTK) - Open Source Crossplatform VR Toolkit
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
 * [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
+
+#### Platforms
+
 * [SparkAR](https://sparkar.facebook.com/ar-studio/) - Let's you create interactive AR experiences, with or without code
+* [Metavrse](https://metavrse.com/) - It is a web platform that makes it easy to Create, Curate & Consume interactive 3D Experiences
 
 ### Solutions
 
@@ -91,7 +95,6 @@ Solution-oriented links. The same company may have more than one solution.
 * [Aucta](https://aucta.io/) - Create and deploy 3D instructions anywhere, on any device
 * [HTX Labs](https://www.htxlabs.com/) - Immersive training platform
 * [3Spin-Dream](https://3spin-dream.com/de/learning#vr-ar-learning-is-superior) - Create & carry out augmented & virtual reality trainings
-* [Elmparklabs]()
 
 #### Remote Assistant
 
