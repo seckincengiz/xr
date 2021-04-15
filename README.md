@@ -1,6 +1,6 @@
 # XR
 
-XR Links & Resources
+XR (AR, VR & MR) Links & Resources
 
 **Index:** [Fundamentals](https://github.com/seckincengiz/XR#fundamentals) - [Devices](https://github.com/seckincengiz/XR#devices) - [Development](https://github.com/seckincengiz/XR#development) - [Solutions](https://github.com/seckincengiz/XR#solutions) - [About](https://github.com/seckincengiz/XR#about)
 
