@@ -87,6 +87,7 @@ XR Links & Resources
 * [Metavrse](https://metavrse.com/) - It is a web platform that makes it easy to Create, Curate & Consume interactive 3D Experiences
 * [Exokit](https://exokit.org/) - Tools for virtual worlds in the browser
 * [AWS Sumerian](https://aws.amazon.com/sumerian/) - Easily create and run browser-based 3D, AR, and VR applications
+* [WebXR](https://immersiveweb.dev/) - It allows you develop and host VR and AR experiences on the web
 
 ### Solutions
 
