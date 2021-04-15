@@ -19,6 +19,7 @@ XR Links & Resources
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
 * [VR Focus](https://www.vrfocus.com/) - Immersive tech news, updates, interviews and more
 * [VR on Reddit](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
+* [AR on Reddit](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
 * [Wired](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
 * [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR category page
 * [ARPost](https://arpost.co/) - Publication dedicated to the consumer & enterprise
@@ -58,28 +59,34 @@ XR Links & Resources
 
 #### DIY
 
-* [Relativty](https://www.relativty.com/) - Open source VR Hardware
-* [CheApR](https://www.instructables.com/CheApR-Open-Source-Augmented-Reality-Smart-Glasses/) - Open Source DIY AR Glass
-* [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/) - AR Glass Hack
+* [Relativty](https://www.relativty.com/) - Open source VR hardware
+* [CheApR](https://www.instructables.com/CheApR-Open-Source-Augmented-Reality-Smart-Glasses/) - Open source DIY AR glass
+* [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/) - AR glass hack
+* [$22 Virtual Reality Gloves](https://www.youtube.com/watch?v=nmP8iGaPbeI&ab_channel=LucasVRTech) - Making VR haptic gloves
 
 ### Development
 
 #### SDKs
 
 * [AR Kit](https://developer.apple.com/augmented-reality/arkit/) - Apple AR SDK
+* [Apple Reality Kit](https://developer.apple.com/documentation/realitykit) - Simulate and render 3D content for use in your augmented reality apps
 * [AR Core](https://developers.google.com/ar) - Android AR SDK
+* [AR Foundation](https://github.com/Unity-Technologies/arfoundation-samples) - Example content for Unity projects based on AR Foundation
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - Most popular VR SDK
 * [Oculus SDK](https://developer.oculus.com/downloads/) - Samples, and asset packs are built to help you develop your VR app
 * [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - Vuforia is a comprehensive, scalable enterprise AR platform
 * [VRTK](https://github.com/ExtendRealityLtd/VRTK) - Open Source Crossplatform VR Toolkit
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
-* [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
+* [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
+* [Microsoft MR Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity) - Accelerate cross-platform MR app development in Unity.
 
-#### Platforms
+#### Platforms & Services
 
 * [SparkAR](https://sparkar.facebook.com/ar-studio/) - Let's you create interactive AR experiences, with or without code
 * [Metavrse](https://metavrse.com/) - It is a web platform that makes it easy to Create, Curate & Consume interactive 3D Experiences
+* [Exokit](https://exokit.org/) - Tools for virtual worlds in the browser
+* [AWS Sumerian](https://aws.amazon.com/sumerian/) - Easily create and run browser-based 3D, AR, and VR applications
 
 ### Solutions
 
@@ -97,6 +104,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [HTX Labs](https://www.htxlabs.com/) - Immersive training platform
 * [3Spin-Dream](https://3spin-dream.com/de/learning#vr-ar-learning-is-superior) - Create & carry out augmented & virtual reality trainings
 * [VR Vision Group](https://vrvisiongroup.com/virtual-reality-training/) - Offers VR Training App Development Service
+* [Taqtile](https://taqtile.com/) - Provides toolset to get step-by-step guidance from your experts anywhere, anytime
 
 #### Remote Assistant
 
@@ -119,6 +127,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Altspace](https://altvr.com/) - Attend live shows, meetups, cool classes, and more with friendly people from around the world
 * [Rec Room](https://recroom.com/) - Party up with friends from all around the world to chat, hang out and play
 * [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hang out with friends in virtual reality
+* [Mozilla Hubs](https://hubs.mozilla.com/) - Share a virtual room with friends
 
 #### Medical
 
@@ -138,6 +147,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Kingspray Graffiti](http://infectiousape.com/) - Kingspray is a battle-tested VR Graffiti Simulator, with realistic spray
 * [AnimVR](https://nvrmind.io/#features) - 3D production with a powerful timeline, virtual cameras, audio recording, fading & editing
 * [Tvori](https://tvori.co/) - Prototype XR apps & games
+* [Maquette](https://www.maquette.ms/) - Maquette makes spatial prototyping easy, quick, and immersive
 
 #### Wearables
 
