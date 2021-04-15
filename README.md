@@ -2,9 +2,9 @@
 
 XR (AR, VR & MR) Links & Resources
 
-**Index:** [Fundamentals](https://github.com/seckincengiz/XR#fundamentals) - [Devices](https://github.com/seckincengiz/XR#devices) - [Development](https://github.com/seckincengiz/XR#development) - [Solutions](https://github.com/seckincengiz/XR#solutions) - [About](https://github.com/seckincengiz/XR#about)
+**Index:** [FUNDAMENTALS](https://github.com/seckincengiz/XR#fundamentals) - [DEVICES](https://github.com/seckincengiz/XR#devices) - [DEVELOPMENT](https://github.com/seckincengiz/XR#development) - [SOLUTIONS](https://github.com/seckincengiz/XR#solutions) - [ABOUT](https://github.com/seckincengiz/XR#about)
 
-### Fundamentals
+### FUNDAMENTALS
 
 #### XR 101
 
@@ -33,7 +33,7 @@ XR (AR, VR & MR) Links & Resources
 * [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
 * [The Manifest](https://themanifest.com/virtual-reality/companies) - Top 100 AR/VR Development Companies
 
-### Devices
+### DEVICES
 
 #### VR Headsets
 
@@ -64,7 +64,7 @@ XR (AR, VR & MR) Links & Resources
 * [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/) - AR glass hack
 * [$22 Virtual Reality Gloves](https://www.youtube.com/watch?v=nmP8iGaPbeI&ab_channel=LucasVRTech) - Making VR haptic gloves
 
-### Development
+### DEVELOPMENT
 
 #### SDKs
 
@@ -89,7 +89,7 @@ XR (AR, VR & MR) Links & Resources
 * [AWS Sumerian](https://aws.amazon.com/sumerian/) - Easily create and run browser-based 3D, AR, and VR applications
 * [WebXR](https://immersiveweb.dev/) - It allows you develop and host VR and AR experiences on the web
 
-### Solutions
+### SOLUTIONS
 
 Solution-oriented links. The same company may have more than one solution.
 
@@ -184,7 +184,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Saritasa](https://www.saritasa.com/) - AR/VR, and IoT technology solutions
 * [Softengi](https://softengi.com/services/extended-reality/) - Provides XR development services
 
-### About
+### ABOUT
 
 #### License
 
