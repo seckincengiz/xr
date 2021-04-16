@@ -16,12 +16,19 @@
 * [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
 * [VR Focus](https://www.vrfocus.com/) - Immersive tech news, updates, interviews and more
-* [VR on Reddit](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
-* [AR on Reddit](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
-* [Wired](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
+* [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
+* [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
+* [Reddit/VR](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
+* [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
+* [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
 * [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR category page
+* [AngelList/VR](https://angel.co/virtual-reality-3) - Angel List VR Startups
+* [AngelList/AR](https://angel.co/augmented-reality) - Angel List AR Startups
 * [ARPost](https://arpost.co/) - Publication dedicated to the consumer & enterprise
 * [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
+* [BBC/VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality) - BBC VR Tag
+* [VR/AR Association](https://www.thevrara.com/blog) - VR/AR Association Blog Page
+* [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - New Scientist VR Tag
 
 #### Search & Browse Companies
 
@@ -86,6 +93,7 @@
 * [Exokit](https://exokit.org/) - Tools for virtual worlds in the browser
 * [AWS Sumerian](https://aws.amazon.com/sumerian/) - Easily create and run browser-based 3D, AR, and VR applications
 * [WebXR](https://immersiveweb.dev/) - It allows you develop and host VR and AR experiences on the web
+* [Simlab](https://www.simlab-soft.com/index.html) - A revolutionary visualization and VR creation software
 
 ### SOLUTIONS
 
