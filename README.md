@@ -22,8 +22,6 @@
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
 * [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
 * [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR category page
-* [AngelList/VR](https://angel.co/virtual-reality-3) - Angel List VR Startups
-* [AngelList/AR](https://angel.co/augmented-reality) - Angel List AR Startups
 * [ARPost](https://arpost.co/) - Publication dedicated to the consumer & enterprise
 * [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
 * [BBC/VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality) - BBC VR Tag
@@ -34,6 +32,8 @@
 
 * [Crucnhbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them
 * [Clutch](https://clutch.co/developers/virtual-reality) - Helps you to find companies in XR domain
+* [AngelList/VR](https://angel.co/virtual-reality-3) - Angel List VR Startups
+* [AngelList/AR](https://angel.co/augmented-reality) - Angel List AR Startups
 * [Business](https://www.business.com/) - Resources on finance, marketing, HR and more
 * [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
 * [The Manifest](https://themanifest.com/virtual-reality/companies) - Top 100 AR/VR Development Companies
@@ -68,6 +68,14 @@
 * [CheApR](https://www.instructables.com/CheApR-Open-Source-Augmented-Reality-Smart-Glasses/) - Open source DIY AR glass
 * [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/) - AR glass hack
 * [$22 Virtual Reality Gloves](https://www.youtube.com/watch?v=nmP8iGaPbeI&ab_channel=LucasVRTech) - Making VR haptic gloves
+
+#### Stores
+
+* [UnboundVR](https://unboundvr.co.uk/) - User-friendly webshop, super fast deliveries & good prices
+* [Amazon/Wearable/VR](https://www.amazon.com/Wearable-Tech-Virtual-Reality-Gear/b?ie=UTF8&node=14775003011) - Amazon Wearable Tech VR
+* [Amazon/VR](https://www.amazon.com/vr-headset/s?k=vr+headset) - Amazon VR Headsets
+* [AmazonBest/VR](https://www.amazon.com/Best-Sellers-Electronics-Wearable-Tech-Virtual-Reality-Gear/zgbs/electronics/14775003011) - Amazon Best Sellers VR
+* [Oculus Store](https://www.oculus.com/compare/) - Oculus VR Headsets
 
 ### DEVELOPMENT
 
@@ -160,6 +168,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Manus VR](https://www.manus-vr.com/) - VR Gloves
 * [Sense Glove](https://www.senseglove.com/) - The New Sense for VR Training
+* [BHaptics](https://www.bhaptics.com/tactsuit/tactsuit-x40) - Haptic vest that packs 40 individually controllable vibro-tactile motors
 * [Full Body VR](https://sandboxvr.com/losangeles/) - Full Body VR Gaming Experience
 
 #### Essential
