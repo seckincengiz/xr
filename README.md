@@ -120,6 +120,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [3Spin-Dream](https://3spin-dream.com/de/learning#vr-ar-learning-is-superior) - Create & carry out augmented & virtual reality trainings
 * [VR Vision Group](https://vrvisiongroup.com/virtual-reality-training/) - Offers VR Training App Development Service
 * [Taqtile](https://taqtile.com/) - Provides toolset to get step-by-step guidance from your experts anywhere, anytime
+* [Halldale](https://www.halldale.com/) - Training and simulation company
 
 #### Remote Assistant
 
