@@ -92,9 +92,9 @@
 * [VRTK](https://github.com/ExtendRealityLtd/VRTK) - Open Source Crossplatform VR Toolkit
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
 * [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
-* [Microsoft MR Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity) - Accelerate cross-platform MR app development in Unity.
+* [Microsoft MR Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity) - Accelerate cross-platform MR app development in Unity
 
-#### Platforms & Services
+#### Web
 
 * [SparkAR](https://sparkar.facebook.com/ar-studio/) - Let's you create interactive AR experiences, with or without code
 * [Metavrse](https://metavrse.com/) - It is a web platform that makes it easy to Create, Curate & Consume interactive 3D Experiences
@@ -102,6 +102,7 @@
 * [AWS Sumerian](https://aws.amazon.com/sumerian/) - Easily create and run browser-based 3D, AR, and VR applications
 * [WebXR](https://immersiveweb.dev/) - It allows you develop and host VR and AR experiences on the web
 * [Simlab](https://www.simlab-soft.com/index.html) - A revolutionary visualization and VR creation software
+* [Google Model Viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web & in AR
 
 ### SOLUTIONS
 
