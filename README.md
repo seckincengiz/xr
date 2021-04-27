@@ -184,7 +184,9 @@ Solution-oriented links. The same company may have more than one solution.
 #### Remote Rendering
 
 * [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render HQ, interactive 3D content, and stream it to your devices in real-time
+* [NVidia Cloud XR](https://www.nvidia.com/en-us/design-visualization/solutions/cloud-xr/) - Streaming for VR and AR
 * [Innoactive](https://www.innoactive.io/cloud-xr-rendering-streaming) - Cloud XR Solution
+* [Theorem AR Remote Rendering](https://www.theorem.com/theorem-xr/microsoft-azure-remote-rendering) - Microsoft Azure Remote Rendering ARR for HoloLens 2
 
 #### Custom Software Development Service Providers
 
