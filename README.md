@@ -61,6 +61,7 @@
 * [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
 * [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
 * [Google Glass Enterprise Edition 2](https://www.google.com/glass/tech-specs/) - A hands-free device for smarter and faster hands-on work
+* [WaveOp]()
 
 #### DIY
 
@@ -202,6 +203,10 @@ Solution-oriented links. The same company may have more than one solution.
 * [CM&D](https://chocolatemilkdonuts.com/) - Offers you XR experience development service with the latest tech
 * [Saritasa](https://www.saritasa.com/) - AR/VR, and IoT technology solutions
 * [Softengi](https://softengi.com/services/extended-reality/) - Provides XR development services
+
+#### Custom Hardware Development Service Providers
+
+* [WaveOptics](https://enhancedworld.com/about/) - Provides affordable manufacturing service
 
 ### ABOUT
 
