@@ -123,6 +123,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [VR Vision Group](https://vrvisiongroup.com/virtual-reality-training/) - Offers VR Training App Development Service
 * [Taqtile](https://taqtile.com/) - Provides toolset to get step-by-step guidance from your experts anywhere, anytime
 * [Halldale](https://www.halldale.com/) - Training and simulation company
+* [Vuforia-Studio](https://www.ptc.com/en/products/vuforia/vuforia-studio) - Transforms your existing CAD and IoT data into detailed AR experiences
 
 #### Remote Assistant
 
@@ -181,6 +182,12 @@ Solution-oriented links. The same company may have more than one solution.
 #### Analytics
 
 * [Cognitive3D](https://cognitive3d.com/) - Translate Insights from VR/AR Into Real World Results
+
+#### Object Tracking & Detection
+
+* [VisionLib](https://visionlib.com/) - Enabling to detect and track physical 3D objects at industrial scale
+* [Vuforia](https://www.ptc.com/en/products/vuforia) - A comprehensive, scalable enterprise AR platform
+* [Wikitude](https://www.wikitude.com/) - Has been empowering businesses with innovative AR technology since 2008
 
 #### Remote Rendering
 
