@@ -51,6 +51,7 @@
 * [Oculus Go](https://www.oculus.com/go/) - First Standalone Oculus VR Headset
 * [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
 * [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of HTC Vive
+* [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
 
 #### AR Headsets & Glasses
 
@@ -61,7 +62,6 @@
 * [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
 * [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
 * [Google Glass Enterprise Edition 2](https://www.google.com/glass/tech-specs/) - A hands-free device for smarter and faster hands-on work
-* [WaveOp]()
 
 #### DIY
 
