@@ -184,8 +184,9 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Cognitive3D](https://cognitive3d.com/) - Translate Insights from VR/AR Into Real World Results
 
-#### Object Tracking & Detection
+#### Tracking & Detection
 
+* [OptiTrack](https://optitrack.com/applications/virtual-reality/) - World’s most accurate and easy to use wide area VR trackers
 * [VisionLib](https://visionlib.com/) - Enabling to detect and track physical 3D objects at industrial scale
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - A comprehensive, scalable enterprise AR platform
 * [Wikitude](https://www.wikitude.com/) - Has been empowering businesses with innovative AR technology since 2008
