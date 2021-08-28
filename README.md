@@ -63,6 +63,7 @@
 * [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
 * [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
 * [Google Glass Enterprise Edition 2](https://www.google.com/glass/tech-specs/) - A hands-free device for smarter and faster hands-on work
+* [Lenova ThinkReality A3 Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) - Lenovo’s versatile smart glasses for the enterprise
 
 #### AR + VR Headsets
 
