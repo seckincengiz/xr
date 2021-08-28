@@ -64,6 +64,10 @@
 * [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
 * [Google Glass Enterprise Edition 2](https://www.google.com/glass/tech-specs/) - A hands-free device for smarter and faster hands-on work
 
+#### AR + VR Headsets
+
+* [Lynx-r](https://lynx-r.com/) - It is the first All-in-One Mixed Reality headset
+
 #### DIY
 
 * [Relativty](https://www.relativty.com/) - Open source VR hardware
