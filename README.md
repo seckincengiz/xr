@@ -177,7 +177,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [AnimVR](https://nvrmind.io/#features) - 3D production with a powerful timeline, virtual cameras, audio recording, fading & editing
 * [Tvori](https://tvori.co/) - Prototype XR apps & games
 * [Maquette](https://www.maquette.ms/) - Maquette makes spatial prototyping easy, quick, and immersive
-
+* [PiXYZ Review](https://www.pixyz-software.com/review/) - Allows you to import a wide range of CAD model formats in a VR environment 
 #### Wearables
 
 * [Manus VR](https://www.manus-vr.com/) - VR Gloves
