@@ -186,6 +186,11 @@ Solution-oriented links. The same company may have more than one solution.
 * [BHaptics](https://www.bhaptics.com/tactsuit/tactsuit-x40) - Haptic vest that packs 40 individually controllable vibro-tactile motors
 * [Full Body VR](https://sandboxvr.com/losangeles/) - Full Body VR Gaming Experience
 
+#### Treadmills
+
+* [Omni One](https://www.virtuix.com/) - Move freely and at full speed in 360° without getting hurt
+* [Kat VR](https://www.kat-vr.com/products/kat-walk-c) - World’s first personal VR Omni-Directional Treadmill
+
 #### Essential
 
 * [Mojo](https://www.mojo.vision/) - World's only contact lens that elevates your vision
