@@ -132,7 +132,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Halldale](https://www.halldale.com/) - Training and simulation company
 * [Vuforia-Studio](https://www.ptc.com/en/products/vuforia/vuforia-studio) - Transforms your existing CAD and IoT data into detailed AR experiences
 * [Wonda VR](https://www.wondavr.com/) - Immersive storytelling platform
-* [Labster](https://www.labster.com/) - Allow students to complete laboratory experiments online and explore abstract concepts and complex theories
+* [Labster](https://www.labster.com/) - Allow students to complete laboratory experiments online and explore abstract concepts & scenarios
 
 #### Remote Assistant
 
