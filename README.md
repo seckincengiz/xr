@@ -118,7 +118,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Training & Simulation
 
-* [Virtalis](https://www.virtalis.com/) - Put your digital assets in the hands of your entire organisation
+* [Virtalis](https://www.virtalis.com/) - Put your digital assets in the hands of your entire organization
 * [Acadicus](https://acadicus.com/) - Provides a library of ready-to-use virtual simulation content for training and education
 * [EngageVR](https://engagevr.io/) - Ideal for collaboration, education, simulated training and virtual events
 * [Reflekt-One](https://www.re-flekt.com/reflekt-one) - Step-by-step instructions and digital training guides
@@ -132,6 +132,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Halldale](https://www.halldale.com/) - Training and simulation company
 * [Vuforia-Studio](https://www.ptc.com/en/products/vuforia/vuforia-studio) - Transforms your existing CAD and IoT data into detailed AR experiences
 * [Wonda VR](https://www.wondavr.com/) - Immersive storytelling platform
+* [Labster](https://www.labster.com/) - Allow students to complete laboratory experiments online and explore abstract concepts and complex theories
 
 #### Remote Assistant
 
