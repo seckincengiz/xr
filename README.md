@@ -18,6 +18,10 @@
 * [VR Focus](https://www.vrfocus.com/) - Immersive tech news, updates, interviews and more
 * [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
+* [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
+* [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - Gizmodo AR Tag
+* [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
+* [Medium/VR](https://medium.com/tag/augmented-reality) - Medium AR Tag
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
 * [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
@@ -27,6 +31,8 @@
 * [BBC/VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality) - BBC VR Tag
 * [VR/AR Association](https://www.thevrara.com/blog) - VR/AR Association Blog Page
 * [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - New Scientist VR Tag
+* [Independent/VR](https://www.independent.co.uk/topic/virtual-reality) - Independent VR Tag
+* [Entrepreneur/VR](https://www.entrepreneur.com/topic/virtual-reality) - Entrepreneur VR Tag
 
 #### Search & Browse Companies
 
