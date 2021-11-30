@@ -21,10 +21,12 @@
 * [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
 * [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - Gizmodo AR Tag
 * [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
-* [Medium/VR](https://medium.com/tag/augmented-reality) - Medium AR Tag
+* [Medium/AR](https://medium.com/tag/augmented-reality) - Medium AR Tag
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
 * [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
+* [DigitalTrends/VR](https://www.digitaltrends.com/?s=virtual+reality) - Digital Trends VR Tag
+* [DigitalTrends/AR](https://www.digitaltrends.com/?s=augmented+reality) - Digital Trends AR Tag
 * [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR category page
 * [ARPost](https://arpost.co/) - Publication dedicated to the consumer & enterprise
 * [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
