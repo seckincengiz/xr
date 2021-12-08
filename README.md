@@ -104,6 +104,7 @@
 * [Oculus SDK](https://developer.oculus.com/downloads/) - Samples, and asset packs are built to help you develop your VR app
 * [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - Vuforia is a comprehensive, scalable enterprise AR platform
+* [Lightship](https://lightship.dev/) - AR SDK that supports depth, physics, occlusions, and semantic segmentation
 * [VRTK](https://github.com/ExtendRealityLtd/VRTK) - Open Source Crossplatform VR Toolkit
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
 * [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
