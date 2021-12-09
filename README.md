@@ -155,6 +155,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Spatial](https://spatial.io/) - Popular cross-platform XR meeting app
 * [MeetinVR](https://www.meetinvr.com/) - Optimized for exceptional collaboration
 * [Connect2](https://www.connec2.nl/) - Virtual collaboration platform that allows you to have a lifelike social experience
+* [Horizon Workrooms](https://www.oculus.com/workrooms/) - VR space for teams to connect, collaborate and develop ideas, together
 * [Glue](https://glue.work/) - Glue is a virtual collaboration platform for teams
 * [Immersed](https://immersed.com/) - Spawn 5 virtual monitors in VR to optimize focus & productivity
 * [improov](http://www.improovr.com/home-v2/) - Collaborate in VR around your CAD model
