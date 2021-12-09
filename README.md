@@ -51,6 +51,7 @@
 
 #### VR Headsets
 
+* [Varjo Aero](https://varjo.com/products/aero/) - The lightest & brightest professional-grade headset ever made
 * [Varjo VR-3](https://varjo.com/products/vr-3/) - Highest resolution across the widest field of view
 * [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
 * [Oculus Quest 2](https://www.oculus.com/quest-2/) - Great Standalone VR Headset
