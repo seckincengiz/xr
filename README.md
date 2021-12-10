@@ -61,7 +61,7 @@
 * [Oculus Go](https://www.oculus.com/go/) - First Standalone Oculus VR Headset
 * [HTC Vive Focus 3](https://www.vive.com/us/product/vive-focus3/overview/) - Standalone VR Headset for professionals
 * [HTC Vive Focus Plus](https://business.vive.com/us/product/focus-plus/) - The all-in-one VR system designed for business
-* [HTC Vive Focus](https://business.vive.com/us/product/vive-focus/) - simple all-in-one solution for business
+* [HTC Vive Focus](https://business.vive.com/us/product/vive-focus/) - Simple all-in-one solution for business
 * [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
 * [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of HTC Vive
 * [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
