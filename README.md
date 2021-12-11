@@ -232,9 +232,10 @@ Solution-oriented links. The same company may have more than one solution.
 #### Custom Software Development Service Providers
 
 * [Nomtek](https://www.nomtek.com/xr-ar-development) - Nomtek is a world-class Magic Leap development partner
-* [Exyte](https://exyte.com/) - Hire experts and design professionals to design, develop, and deploy your projec
+* [Exyte](https://exyte.com/) - Hire experts and design professionals to design, develop, and deploy your project
 * [Elmparklabs](https://www.elmparklabs.com/services) - Offers you to plan and execute your XR strategy and applications
 * [Innovation Rock](https://innovation-rocks.com/) - Offers you to transform businesses through new realities
+* [WE/AR Studio](https://wear-studio.com/) - AR/VR solutions with business goals in mind
 * [Next / Now](https://nextnowagency.com/) - It is an award-winning digital experience agency
 * [Cemtrex Labs](https://cemtrexlabs.com/) - Offers you to transform your brand with a help of immersive technology
 * [Lucid Reality Labs](https://lucidrealitylabs.com/) - XR solutions from concept & design to development and support
