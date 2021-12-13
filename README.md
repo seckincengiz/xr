@@ -182,6 +182,10 @@ Solution-oriented links. The same company may have more than one solution.
 * [Oxford Medical Simulation](https://oxfordmedicalsimulation.com/) - Delivers award-winning virtual reality medical and nursing simulation
 * [Sixense Full-Presence System](https://www.sixense.com/solutions/healthcare/) - Provides medical training, treatments, and therapies
 
+#### Navigation
+
+* [Dent Reality](https://www.dentreality.com/) - The digital layer for the physical world
+
 #### Art & Design
 
 * [Gravity Sketch](https://www.gravitysketch.com/) - Intuitive 3D design platform for cross-disciplinary teams
