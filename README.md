@@ -40,8 +40,6 @@
 
 * [Crucnhbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them
 * [Clutch](https://clutch.co/developers/virtual-reality) - Helps you to find companies in XR domain
-* [AngelList/VR](https://angel.co/virtual-reality-3) - Angel List VR Startups
-* [AngelList/AR](https://angel.co/augmented-reality) - Angel List AR Startups
 * [Endole](https://endole.co.uk/) - Reports, Research, Sales & Marketing, Risk Management
 * [Business](https://www.business.com/) - Resources on finance, marketing, HR and more
 * [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
