@@ -152,6 +152,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Vuforia Chalk](https://www.ptc.com/en/products/vuforia/vuforia-chalk) - Remote Assistance Powered by Augmented Reality
 * [ScopeAR](https://www.scopear.com/solutions/ar-remote-assistance/) - Instant access to company experts and up-to-date instructions in one app
 * [Reflekt Remote](https://www.re-flekt.com/reflekt-remote) - Remote Work with AR and Live Video on mobile devices and wearables
+* [TeamViewer](https://www.teamviewer.com/en/augmented-reality/) - Collaborative peer-to-peer support that improves processes
 
 #### Meeting & Remote Work
 
