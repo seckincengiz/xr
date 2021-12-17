@@ -86,6 +86,7 @@
 * [CheApR](https://www.instructables.com/CheApR-Open-Source-Augmented-Reality-Smart-Glasses/) - Open source DIY AR glass
 * [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/) - AR glass hack
 * [$22 Virtual Reality Gloves](https://www.youtube.com/watch?v=nmP8iGaPbeI&ab_channel=LucasVRTech) - Making VR haptic gloves
+* [Triton Project](https://atlee19.github.io/TritonProject-Guide/) - It is a 3D printed headset that uses off the shelf hardware to achieve advanced augmented reality
 
 #### Stores
 
