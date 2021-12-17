@@ -218,6 +218,10 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Cognitive3D](https://cognitive3d.com/) - Translate Insights from VR/AR Into Real World Results
 
+#### Dashboards
+
+* [Manage XR](https://www.managexr.com/) - Take Control Of Your XR Headsets. Distribute apps, files, and firmware updates
+
 #### Tracking & Detection
 
 * [OptiTrack](https://optitrack.com/applications/virtual-reality/) - World’s most accurate and easy to use wide area VR trackers
