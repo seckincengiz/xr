@@ -87,6 +87,8 @@
 * [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/) - AR glass hack
 * [$22 Virtual Reality Gloves](https://www.youtube.com/watch?v=nmP8iGaPbeI&ab_channel=LucasVRTech) - Making VR haptic gloves
 * [Triton Project](https://atlee19.github.io/TritonProject-Guide/) - It is a 3D printed headset that uses off the shelf hardware to achieve advanced augmented reality
+* [Project North Start](https://github.com/leapmotion/ProjectNorthStar) - The open-source files comprising Leap Motion's Project North Star AR Headset
+* [Deck-X](https://github.com/CombineReality/Deck-X/) - open-source AR headset based on Leap Motion's Project North Star
 
 #### Stores
 
