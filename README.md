@@ -162,6 +162,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Spatial](https://spatial.io/) - Popular cross-platform XR meeting app
 * [MeetinVR](https://www.meetinvr.com/) - Optimized for exceptional collaboration
 * [Connect2](https://www.connec2.nl/) - Virtual collaboration platform that allows you to have a lifelike social experience
+* [BigScreen](https://www.bigscreenvr.com/) - You can hang out with friends, collaborate with coworkers
 * [Horizon Workrooms](https://www.oculus.com/workrooms/) - VR space for teams to connect, collaborate and develop ideas, together
 * [Glue](https://glue.work/) - Glue is a virtual collaboration platform for teams
 * [Immersed](https://immersed.com/) - Spawn 5 virtual monitors in VR to optimize focus & productivity
@@ -172,7 +173,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Social VR
 
-* [Altspace](https://altvr.com/) - Attend live shows, meetups, cool classes, and more with friendly people from around the world
+* [Altspace](https://altvr.com/) - Attend live shows, meetups, cool classes, and more with friendly people from around the world
 * [Rec Room](https://recroom.com/) - Party up with friends from all around the world to chat, hang out and play
 * [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hang out with friends in virtual reality
 * [Mozilla Hubs](https://hubs.mozilla.com/) - Share a virtual room with friends
@@ -221,9 +222,20 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Cognitive3D](https://cognitive3d.com/) - Translate Insights from VR/AR Into Real World Results
 
-#### Dashboards
+#### App Distribution
 
-* [Manage XR](https://www.managexr.com/) - Take Control Of Your XR Headsets. Distribute apps, files, and firmware updates
+* [ManageXR](https://www.managexr.com/) - Take Control Of Your XR Headsets. Distribute apps, files, and firmware updates
+* [ArborXR](https://arborxr.com/) - Manage AR & VR devices, remotely install apps, control the in-headset experience
+
+#### VR Desktop
+
+* [Big Screen](https://www.bigscreenvr.com/) - Your ultimate virtual reality hangout
+* [VR Desktop](https://www.vrdesktop.net/) - Watch movies, browse the web or play games on a giant virtual screen
+
+#### Download Apps & Games
+
+* [Steam](https://store.steampowered.com/vr/) - Steam VR Games & Apps
+* [SideQuest](https://sidequestvr.com/) - Expand the capability of your standalone VR headset
 
 #### Tracking & Detection
 
