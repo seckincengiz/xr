@@ -245,6 +245,11 @@ Solution-oriented links. The same company may have more than one solution.
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - A comprehensive, scalable enterprise AR platform
 * [Wikitude](https://www.wikitude.com/) - Has been empowering businesses with innovative AR technology since 2008
 
+#### Hand Tracking & Gesture Recognition
+
+* [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/) - World-class hand tracking for anyone
+* [Clair](https://clayair.io/) - Hand Tracking, Gesture Recognition and Touchless Interaction Solutions
+
 #### Remote Rendering
 
 * [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render HQ, interactive 3D content, and stream it to your devices in real-time
