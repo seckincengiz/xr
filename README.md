@@ -63,8 +63,10 @@
 * [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
 * [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of HTC Vive
 * [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
+* [HTC Vive Flow](https://www.vive.com/us/product/vive-flow/overview/) - The immersive VR glasses for on-the-go wellness
 * [arpara VR](https://www.arparaland.com/hmd) - Standalone 5K 120Hz VR HMD
-* [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
+
+
 
 #### AR Headsets & Glasses
 
