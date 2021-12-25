@@ -64,6 +64,7 @@
 * [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of HTC Vive
 * [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
 * [arpara VR](https://www.arparaland.com/hmd) - Standalone 5K 120Hz VR HMD
+* [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
 
 #### AR Headsets & Glasses
 
