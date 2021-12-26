@@ -153,15 +153,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Wonda VR](https://www.wondavr.com/) - Immersive storytelling platform
 * [Labster](https://www.labster.com/) - Allow students to complete laboratory experiments online and explore concepts & scenarios
 
-#### Remote Assistant
-
-* [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/) - Work together from anywhere
-* [Vuforia Chalk](https://www.ptc.com/en/products/vuforia/vuforia-chalk) - Remote Assistance Powered by Augmented Reality
-* [ScopeAR](https://www.scopear.com/solutions/ar-remote-assistance/) - Instant access to company experts and up-to-date instructions in one app
-* [Reflekt Remote](https://www.re-flekt.com/reflekt-remote) - Remote Work with AR and Live Video on mobile devices and wearables
-* [TeamViewer](https://www.teamviewer.com/en/augmented-reality/) - Collaborative peer-to-peer support that improves processes
-
-#### Meeting & Remote Work
+#### Remote Meeting, Work & Assistant
 
 * [Spatial](https://spatial.io/) - Popular cross-platform XR meeting app
 * [MeetinVR](https://www.meetinvr.com/) - Optimized for exceptional collaboration
@@ -174,6 +166,11 @@ Solution-oriented links. The same company may have more than one solution.
 * [MootUp](https://mootup.com/) - Accessible 3D Virtual and Hybrid Event Platform
 * [The Wild](https://thewild.com/) - Bring your work to life before it’s built
 * [Mozilla Hubs](https://hubs.mozilla.com/) - Share a virtual room with friends
+* [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/) - Work together from anywhere
+* [Vuforia Chalk](https://www.ptc.com/en/products/vuforia/vuforia-chalk) - Remote Assistance Powered by Augmented Reality
+* [ScopeAR](https://www.scopear.com/solutions/ar-remote-assistance/) - Instant access to company experts and up-to-date instructions in one app
+* [Reflekt Remote](https://www.re-flekt.com/reflekt-remote) - Remote Work with AR and Live Video on mobile devices and wearables
+* [TeamViewer](https://www.teamviewer.com/en/augmented-reality/) - Collaborative peer-to-peer support that improves processes
 
 #### Social VR
 
