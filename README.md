@@ -160,6 +160,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Connect2](https://www.connec2.nl/) - Virtual collaboration platform that allows you to have a lifelike social experience
 * [BigScreen](https://www.bigscreenvr.com/) - You can hang out with friends, collaborate with coworkers
 * [Horizon Workrooms](https://www.oculus.com/workrooms/) - VR space for teams to connect, collaborate and develop ideas, together
+* [Webex](https://www.webex.com/) - Calling, meetings, and messaging in the cloud for teams of all sizes
 * [Glue](https://glue.work/) - Glue is a virtual collaboration platform for teams
 * [Immersed](https://immersed.com/) - Spawn 5 virtual monitors in VR to optimize focus & productivity
 * [improov](http://www.improovr.com/home-v2/) - Collaborate in VR around your CAD model
