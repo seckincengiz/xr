@@ -279,6 +279,35 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [WaveOptics](https://enhancedworld.com/about/) - Provides affordable manufacturing service
 
+### ECOSYSTEM
+
+#### Game Engines
+
+* [Unity](https://blog.unity.com/topic/xr) - World’s best real-time development platform
+* [Unreal Engine](https://www.unrealengine.com/en-US/feed/all/ar+vr) - World's most open and advanced real-time 3D creation tool
+* [Godot](https://godotengine.org/news) - Completely free and open-source game engine
+#### Device Manufacturers
+
+* [Meta](https://about.facebook.com/meta) - Oculus
+* [HTC](https://www.htc.com/us/) - Vive
+* [Apple](https://www.apple.com/) - iPad, iPhone
+#### Embedded
+
+* [Qualcom](https://www.qualcomm.com/research/extended-reality) - Snapdragon
+* [Nvidia](https://blogs.nvidia.com/) - GPUs
+* [Western Digital](https://www.westerndigital.com/sandisk) - SSDs
+* [Samsung](https://www.samsung.com/) - SSDs
+#### Platform & Marketplace
+
+* [Valve](https://store.steampowered.com/) - Steam
+* [Apple](https://www.apple.com/app-store/) - App Store
+* [Google](https://play.google.com/) - Play Store
+
+#### Cloud
+
+* [AWS](https://aws.amazon.com/)
+* [Google Cloud](https://cloud.google.com/)
+
 ### ABOUT
 
 #### License
