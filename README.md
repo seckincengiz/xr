@@ -38,7 +38,7 @@
 
 #### Search & Browse Companies
 
-* [Crucnhbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them
+* [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them
 * [Clutch](https://clutch.co/developers/virtual-reality) - Helps you to find companies in XR domain
 * [Endole](https://endole.co.uk/) - Reports, Research, Sales & Marketing, Risk Management
 * [Business](https://www.business.com/) - Resources on finance, marketing, HR and more
