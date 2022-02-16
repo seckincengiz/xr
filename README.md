@@ -16,6 +16,8 @@
 * [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
 * [VR Focus](https://www.vrfocus.com/) - Immersive tech news, updates, interviews and more
+* [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
+* [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
 * [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
 * [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
