@@ -22,6 +22,8 @@
 * [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - Gizmodo AR Tag
 * [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
 * [Medium/AR](https://medium.com/tag/augmented-reality) - Medium AR Tag
+* [Mashable/VR](https://mashable.com/category/virtual-reality) - Mashable VR Category
+* [Mashable/AR](https://mashable.com/category/augmented-reality) - Mashable AR Category
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
 * [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
