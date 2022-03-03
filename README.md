@@ -18,6 +18,8 @@
 * [VR Focus](https://www.vrfocus.com/) - Immersive tech news, updates, interviews and more
 * [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
 * [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
+* [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
+* [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
 * [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
 * [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
