@@ -70,6 +70,8 @@
 * [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of HTC Vive
 * [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
 * [HTC Vive Flow](https://www.vive.com/us/product/vive-flow/overview/) - The immersive VR glasses for on-the-go wellness
+* [HP Reverb G2](https://www.hp.com/us-en/vr/reverb-g2-vr-headset.html) - Developed in collaboration with Valve and Microsoft
+* [PlayStation VR](https://www.playstation.com/en-us/ps-vr/?smcid=pdc%3Aen-us%3Asearch%3Aprimary%20nav%3Amsg-hardware%3Aps-vr) - PS VR headset
 * [arpara VR](https://www.arparaland.com/hmd) - Standalone 5K 120Hz VR HMD
 
 
