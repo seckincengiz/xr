@@ -73,8 +73,8 @@
 * [HP Reverb G2](https://www.hp.com/us-en/vr/reverb-g2-vr-headset.html) - Developed in collaboration with Valve and Microsoft
 * [PlayStation VR](https://www.playstation.com/en-us/ps-vr/?smcid=pdc%3Aen-us%3Asearch%3Aprimary%20nav%3Amsg-hardware%3Aps-vr) - PS VR headset
 * [arpara VR](https://www.arparaland.com/hmd) - Standalone 5K 120Hz VR HMD
-
-
+* [3Glasses X1 Suite](https://www.3glasses.com/en) - Consumer-Grade Ultrathin VR Glasses
+* [3Glasses Blubur S2](https://www.3glasses.com/en/product/productS2.html) - Windows MR HMD
 
 #### AR Headsets & Glasses
 
