@@ -51,6 +51,14 @@
 * [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
 * [The Manifest](https://themanifest.com/virtual-reality/companies) - Top 100 AR/VR Development Companies
 
+#### Youtube Channels
+
+* [AWE](https://www.youtube.com/user/AugmentedRealityOrg/videos) - Augmented World Expo is the world's largest AR & VR conference and expo
+* [UploadVR](https://www.youtube.com/c/Uploadvr) - VR news source bringing you reviews, gameplay, streams & more
+* [ThrillSeeker](https://www.youtube.com/c/ThrillSeekerVR/about) - Channel dedicated to spreading Virtual Reality and Augmented reality
+* [MRTV](https://www.youtube.com/c/mixedrealityTV/featured) - news, reviews and tutorials about AR, VR
+* [Tyriel Wood - VR Tech](https://www.youtube.com/c/Tyrielwood) - The Tech VR/AR YouTube Channel
+
 ### DEVICES
 
 #### VR Headsets
