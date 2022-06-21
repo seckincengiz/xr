@@ -89,6 +89,7 @@
 * [Varjo XR-3](https://varjo.com/products/xr-3/) - Highest performance XR for every workplace
 * [Microsoft HoloLens 2](https://www.microsoft.com/en-us/hololens) - Mixed reality device with apps and solutions that enhance collaboration
 * [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - A lightweight, wearable computer to enhance productivity
+* [Nimo](https://www.nimoplanet.com/) - Multi-screen computer fits in the pocket 
 * [Realwear](https://realwear.com/) - Voice Controlled Fully Rugged Headset
 * [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
 * [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
@@ -99,6 +100,12 @@
 #### AR + VR Headsets
 
 * [Lynx-r](https://lynx-r.com/) - It is the first All-in-One Mixed Reality headset
+
+#### Input Devices
+
+* [Ultraleap 3Di](https://www.ultraleap.com/product/ultraleap-3di/) - High-performance, ruggedized camera for public installations
+* [Stereo IR 170 Evaluation Kit](https://www.ultraleap.com/product/stereo-ir-170/) - A next-generation optical hand tracking module
+* [Leap Motion](https://www.ultraleap.com/product/leap-motion-controller/) - Optical hand tracking module that captures the movements of your hands
 
 #### DIY
 
@@ -221,6 +228,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Tvori](https://tvori.co/) - Prototype XR apps & games
 * [Maquette](https://www.maquette.ms/) - Maquette makes spatial prototyping easy, quick, and immersive
 * [PiXYZ Review](https://www.pixyz-software.com/review/) - Allows you to import a wide range of CAD model formats in a VR environment 
+
 #### Wearables
 
 * [Manus VR](https://www.manus-vr.com/) - VR Gloves
