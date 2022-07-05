@@ -211,6 +211,8 @@ Solution-oriented links. The same company may have more than one solution.
 * [Ghost Productions](https://ghostproductions.com/medical-vr-virtual-reality/) - Highly Functional Surgical Simulations in Virtual Reality
 * [Oxford Medical Simulation](https://oxfordmedicalsimulation.com/) - Delivers award-winning virtual reality medical and nursing simulation
 * [Sixense Full-Presence System](https://www.sixense.com/solutions/healthcare/) - Provides medical training, treatments, and therapies
+* [HoloHuman](https://www.gigxr.com/holohuman) - World’s first 3D human anatomy atlas that uses full-size
+* [HoloPatient](https://www.gigxr.com/holopatient) - Offers Standardized Practice With Life-Like Patients
 
 #### Navigation
 
