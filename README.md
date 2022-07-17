@@ -207,6 +207,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Medical
 
+* [Medicalholodeck](https://www.medicalholodeck.com/en/) -  is the platform for medical teamwork in virtual reality (VR)
 * [Surgical Theater](https://surgicaltheater.net/) - Seamlessly integrating patient-specific surgical planning and navigation
 * [Ghost Productions](https://ghostproductions.com/medical-vr-virtual-reality/) - Highly Functional Surgical Simulations in Virtual Reality
 * [Oxford Medical Simulation](https://oxfordmedicalsimulation.com/) - Delivers award-winning virtual reality medical and nursing simulation
