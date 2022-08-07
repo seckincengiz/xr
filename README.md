@@ -214,6 +214,9 @@ Solution-oriented links. The same company may have more than one solution.
 * [Sixense Full-Presence System](https://www.sixense.com/solutions/healthcare/) - Provides medical training, treatments, and therapies
 * [HoloHuman](https://www.gigxr.com/holohuman) - World’s first 3D human anatomy atlas that uses full-size
 * [HoloPatient](https://www.gigxr.com/holopatient) - Offers Standardized Practice With Life-Like Patients
+* [Osso VR](https://www.ossovr.com/) - Virtual Reality surgical training and assessment platform
+* [Precision OS Technology](https://www.precisionostech.com/) - Immersive experiences surgeons can see, hear and feel
+* [Simx VR EMS](https://www.simxvr.com/virtual-reality-simulation-for-ems/) - VR Training for First Responders
 
 #### Navigation
 
