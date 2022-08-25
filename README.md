@@ -162,6 +162,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Training & Simulation
 
+* [Microsoft Mesh](https://www.microsoft.com/en-us/mesh) - Enables presence and shared experiences from anywhere
 * [Virtalis](https://www.virtalis.com/) - Put your digital assets in the hands of your entire organization
 * [Acadicus](https://acadicus.com/) - Provides a library of ready-to-use virtual simulation content for training and education
 * [EngageVR](https://engagevr.io/) - Ideal for collaboration, education, simulated training and virtual events
@@ -182,6 +183,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Remote Meeting, Work & Assistant
 
+* [Microsoft Mesh](https://www.microsoft.com/en-us/mesh) - Enables presence and shared experiences from anywhere
 * [Spatial](https://spatial.io/) - Popular cross-platform XR meeting app
 * [MeetinVR](https://www.meetinvr.com/) - Optimized for exceptional collaboration
 * [Connect2](https://www.connec2.nl/) - Virtual collaboration platform that allows you to have a lifelike social experience
