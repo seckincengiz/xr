@@ -247,6 +247,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Sense Glove](https://www.senseglove.com/) - The New Sense for VR Training
 * [BHaptics](https://www.bhaptics.com/tactsuit/tactsuit-x40) - Haptic vest that packs 40 individually controllable vibro-tactile motors
 * [Full Body VR](https://sandboxvr.com/losangeles/) - Full Body VR Gaming Experience
+* [Surplex](https://comingsoon.higizmos.com/surplex) - Full Body VR Tracking Shoes
 
 #### Treadmills
 
