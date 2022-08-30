@@ -202,12 +202,13 @@ Solution-oriented links. The same company may have more than one solution.
 * [Reflekt Remote](https://www.re-flekt.com/reflekt-remote) - Remote Work with AR and Live Video on mobile devices and wearables
 * [TeamViewer](https://www.teamviewer.com/en/augmented-reality/) - Collaborative peer-to-peer support that improves processes
 
-#### Social VR
+#### Social, Events & Virtual Telepresence
 
 * [Altspace](https://altvr.com/) - Attend live shows, meetups, cool classes, and more with friendly people from around the world
 * [Rec Room](https://recroom.com/) - Party up with friends from all around the world to chat, hang out and play
 * [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hang out with friends in virtual reality
 * [Mozilla Hubs](https://hubs.mozilla.com/) - Share a virtual room with friends
+* [Inverse](https://about.inverse.app/) - Build a thriving community around your brand with your own immersive 3D Metaverse
 
 #### Medical
 
