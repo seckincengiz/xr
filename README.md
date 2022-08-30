@@ -204,6 +204,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Social, Events & Virtual Telepresence
 
+* [Touchcast](https://touchcast.com/) - MaaS Metaverse as a Service, Virtual event creation & MS Team Integration
 * [Altspace](https://altvr.com/) - Attend live shows, meetups, cool classes, and more with friendly people from around the world
 * [Rec Room](https://recroom.com/) - Party up with friends from all around the world to chat, hang out and play
 * [BigScreen](https://www.bigscreenvr.com/) - Watch movies and hang out with friends in virtual reality
