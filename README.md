@@ -59,6 +59,11 @@
 * [MRTV](https://www.youtube.com/c/mixedrealityTV/featured) - news, reviews and tutorials about AR, VR
 * [Tyriel Wood - VR Tech](https://www.youtube.com/c/Tyrielwood) - The Tech VR/AR YouTube Channel
 
+#### Communities
+
+* [VR/AR Association](https://www.thevrara.com/) - Designed to foster collaboration between solution providers and end-users
+* [XR Creators](https://discord.gg/trEsXRnsMD) - Active XR Community. Learning, Career, Networking, Development and more
+
 ### DEVICES
 
 #### VR Headsets
