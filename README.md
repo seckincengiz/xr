@@ -61,8 +61,11 @@
 
 #### Communities
 
+* [Unity](https://discord.gg/EXQyK5R3wJ) - Unity Discord Community Server
+* [Oculus Community](https://discord.gg/TfzPkzXssw) - Oculus Discord Community Server
+* [XR Creators](https://discord.gg/trEsXRnsMD) - Active XR Community Server. Learning, Career, Networking, Development and more
+* [Varjo Community](https://discord.gg/vH5GYF9Wgq) - Varjo Discord Community Server
 * [VR/AR Association](https://www.thevrara.com/) - Designed to foster collaboration between solution providers and end-users
-* [XR Creators](https://discord.gg/trEsXRnsMD) - Active XR Community. Learning, Career, Networking, Development and more
 
 ### DEVICES
 
