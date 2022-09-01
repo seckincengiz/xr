@@ -21,6 +21,9 @@
 * [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
 * [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
+* [MITTechnologyReview/VR](https://www.technologyreview.com/topic/humans-and-technology/vr/) - MIT Technology Review VR Category
+* [MITTechnologyReview/AR](https://www.technologyreview.com/topic/humans-and-technology/ar/) - MIT Technology Review AR Category
+* [MITTechnologyReview/BCI](https://www.technologyreview.com/topic/humans-and-technology/brain-computer-interface/) - MIT Technology Review BCI Category
 * [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
 * [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - Gizmodo AR Tag
 * [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
