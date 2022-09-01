@@ -1,6 +1,10 @@
-[<img src="xr-banner.png" width="100%">](#)
+![BANNER](files/banner.png)
 
-**Index:** [FUNDAMENTALS](https://github.com/seckincengiz/XR#fundamentals) - [DEVICES](https://github.com/seckincengiz/XR#devices) - [DEVELOPMENT](https://github.com/seckincengiz/XR#development) - [SOLUTIONS](https://github.com/seckincengiz/XR#solutions) - [ABOUT](https://github.com/seckincengiz/XR#about)
+> A curated list of XR fundamentals, news sources, devices, development & design resources, solutions & ecosystem. 
+
+XR stands for "Extended Reality," an umbrella term that covers all of the various immersive technologies that enhance our senses, including Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR).
+
+##### **Index:** [FUNDAMENTALS](https://github.com/seckincengiz/XR#fundamentals) - [NEWS SOURCES](https://github.com/seckincengiz/XR#news-sources) - [DEVICES](https://github.com/seckincengiz/XR#devices) - [DEVELOPMENT](https://github.com/seckincengiz/XR#development) - [SOLUTIONS](https://github.com/seckincengiz/XR#solutions) - [ECOSYSTEM](https://github.com/seckincengiz/XR#ecosystem)
 
 ### FUNDAMENTALS
 
@@ -10,7 +14,9 @@
 * [History of Virtual Reality](https://www.youtube.com/watch?v=43mA_ypfwKg&ab_channel=GameSpot) - From Original Retro to Oculus Rift
 * [How does VR actually work?](https://www.wareable.com/vr/how-does-vr-work-explained) - Here's how the virtual reality magic happens
 
-#### News Sources
+### NEWS SOURCES
+
+#### BLOGS
 
 * [VR Scout](https://vrscout.com/) - Latest XR news
 * [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
