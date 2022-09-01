@@ -15,7 +15,6 @@
 * [VR Scout](https://vrscout.com/) - Latest XR news
 * [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
-* [VR Focus](https://www.vrfocus.com/) - Immersive tech news, updates, interviews and more
 * [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
 * [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
 * [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
@@ -30,7 +29,8 @@
 * [Mashable/AR](https://mashable.com/category/augmented-reality) - Mashable AR Category
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
-* [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired XR category page
+* [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired VR category page
+* [Wired/AR](https://www.wired.com/tag/augmented-reality/) - Wired AR category page
 * [DigitalTrends/VR](https://www.digitaltrends.com/?s=virtual+reality) - Digital Trends VR Tag
 * [DigitalTrends/AR](https://www.digitaltrends.com/?s=augmented+reality) - Digital Trends AR Tag
 * [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR category page
