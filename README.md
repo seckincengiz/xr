@@ -31,12 +31,15 @@
 * [CNET/AR](https://www.cnet.com/tags/augmented-reality/) - CNET AR Category
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
-* [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired VR category page
-* [Wired/AR](https://www.wired.com/tag/augmented-reality/) - Wired AR category page
+* [Wired/VR](https://www.wired.com/tag/augmented-reality/) - Wired VR Category page
+* [Wired/AR](https://www.wired.com/tag/augmented-reality/) - Wired AR Category page
 * [DigitalTrends/VR](https://www.digitaltrends.com/?s=virtual+reality) - Digital Trends VR Tag
 * [DigitalTrends/AR](https://www.digitaltrends.com/?s=augmented+reality) - Digital Trends AR Tag
-* [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR category page
-* [ARPost](https://arpost.co/) - Publication dedicated to the consumer & enterprise
+* [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR Category
+* [Slasgear/VR](https://www.slashgear.com/category/vr) - Slashgear VR Category
+* [Slasgear/AR](https://www.slashgear.com/category/ar) - Slashgear AR Category
+* [ARPost/VR](https://arpost.co/category/virtual-reality/) - ARPost VR Category
+* [ARPost/AR](https://arpost.co/category/augmented-reality/) - ARPost AR Category
 * [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
 * [BBC/VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality) - BBC VR Tag
 * [VR/AR Association](https://www.thevrara.com/blog) - VR/AR Association Blog Page
