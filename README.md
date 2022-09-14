@@ -1,6 +1,6 @@
 ![BANNER](files/banner.png)
 
-> A curated list of XR fundamentals, news sources, devices, development & design resources, solutions & ecosystem. 
+> A curated list of XR fundamentals, news sources, devices, development & design resources, solutions & ecosystem.
 
 XR stands for "Extended Reality," an umbrella term that covers all of the various immersive technologies that enhance our senses, including Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR).
 
@@ -16,7 +16,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 ### NEWS SOURCES
 
-#### BLOGS
+#### Blogs
 
 * [VR Scout](https://vrscout.com/) - Latest XR news
 * [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
@@ -161,6 +161,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - Vuforia is a comprehensive, scalable enterprise AR platform
 * [Lightship](https://lightship.dev/) - AR SDK that supports depth, physics, occlusions, and semantic segmentation
+* [AUKI](https://www.aukilabs.com/) - Peer-to-peer positioning framework
 * [VRTK](https://github.com/ExtendRealityLtd/VRTK) - Open Source Crossplatform VR Toolkit
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
 * [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
@@ -300,12 +301,14 @@ Solution-oriented links. The same company may have more than one solution.
 * [Steam](https://store.steampowered.com/vr/) - Steam VR Games & Apps
 * [SideQuest](https://sidequestvr.com/) - Expand the capability of your standalone VR headset
 
-#### Tracking & Detection
+#### Tracking, Detection & Positioning
 
 * [OptiTrack](https://optitrack.com/applications/virtual-reality/) - World’s most accurate and easy to use wide area VR trackers
+* [AUKI](https://www.aukilabs.com/) - Peer-to-peer positioning framework
 * [VisionLib](https://visionlib.com/) - Enabling to detect and track physical 3D objects at industrial scale
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - A comprehensive, scalable enterprise AR platform
 * [Wikitude](https://www.wikitude.com/) - Has been empowering businesses with innovative AR technology since 2008
+
 
 #### Hand Tracking & Gesture Recognition
 
