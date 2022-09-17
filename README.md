@@ -166,6 +166,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
 * [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
 * [Microsoft MR Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity) - Accelerate cross-platform MR app development in Unity
+* [Ultimate XR Unity](https://github.com/VRMADA/ultimatexr-unity) -  Free, open source framework that facilitates the creation of VR applications
 
 #### Web
 
