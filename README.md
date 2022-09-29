@@ -101,6 +101,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
 * [HTC Vice Flow Business](https://business.vive.com/us/product/vive-flow/) - The immersive VR glasses for business
 * [HTC Vive Flow](https://www.vive.com/us/product/vive-flow/overview/) - The immersive VR glasses for on-the-go wellness
+* [ThinkReality VRX](https://www.lenovo.com/us/en/thinkrealityvrx) -  The immersive, lightweight, slim profile six-degrees-of-freedom (6DoF) VR device
 * [HP Reverb G2](https://www.hp.com/us-en/vr/reverb-g2-vr-headset.html) - Developed in collaboration with Valve and Microsoft
 * [PlayStation VR](https://www.playstation.com/en-us/ps-vr/?smcid=pdc%3Aen-us%3Asearch%3Aprimary%20nav%3Amsg-hardware%3Aps-vr) - PS VR headset
 * [arpara VR](https://www.arparaland.com/hmd) - Standalone 5K 120Hz VR HMD
@@ -320,7 +321,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/) - World-class hand tracking for anyone
 * [Clair](https://clayair.io/) - Hand Tracking, Gesture Recognition and Touchless Interaction Solutions
 
-#### Remote Rendering
+#### Cloud XR & Remote Rendering
 
 * [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render HQ, interactive 3D content, and stream it to your devices in real-time
 * [NVidia Cloud XR](https://www.nvidia.com/en-us/design-visualization/solutions/cloud-xr/) - Streaming for VR and AR
