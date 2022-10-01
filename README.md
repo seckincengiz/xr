@@ -176,6 +176,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 #### Web
 
 * [SparkAR](https://sparkar.facebook.com/ar-studio/) - Let's you create interactive AR experiences, with or without code
+* [Niantic 8thwall](https://www.8thwall.com/discover) - Web-based augmented reality, enables augmented reality (AR) to work within a browser
 * [aframe](https://aframe.io/) - Web framework for building virtual reality experiences
 * [Metavrse](https://metavrse.com/) - It is a web platform that makes it easy to Create, Curate & Consume interactive 3D Experiences
 * [Exokit](https://exokit.org/) - Tools for virtual worlds in the browser
