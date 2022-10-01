@@ -222,6 +222,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Webex](https://www.webex.com/) - Calling, meetings, and messaging in the cloud for teams of all sizes
 * [Glue](https://glue.work/) - Glue is a virtual collaboration platform for teams
 * [Immersed](https://immersed.com/) - Spawn 5 virtual monitors in VR to optimize focus & productivity
+* [Dreamos](https://dreamos.com/) - Useful collaboration in virtual reality
 * [improov](http://www.improovr.com/home-v2/) - Collaborate in VR around your CAD model
 * [MootUp](https://mootup.com/) - Accessible 3D Virtual and Hybrid Event Platform
 * [The Wild](https://thewild.com/) - Bring your work to life before it’s built
