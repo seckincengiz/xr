@@ -130,6 +130,10 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Looking Glass Factory](https://lookingglassfactory.com/) - The world’s first group-viewable 3D holographic displays
 
+#### Attachments
+
+* [Nofio](https://nofio.co/) - The lowest latency wireless video on the market
+
 #### Input Devices
 
 * [Ultraleap 3Di](https://www.ultraleap.com/product/ultraleap-3di/) - High-performance, ruggedized camera for public installations
