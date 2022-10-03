@@ -134,6 +134,10 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Nofio](https://nofio.co/) - The lowest latency wireless video on the market
 
+#### Accessories
+
+* [hig-m4](https://www.higvr.com/products/hig-m4) - HIG-M4 is a simulation gun stock designed for VR platform shooting games
+
 #### Input Devices
 
 * [Ultraleap 3Di](https://www.ultraleap.com/product/ultraleap-3di/) - High-performance, ruggedized camera for public installations
