@@ -134,15 +134,34 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Nofio](https://nofio.co/) - The lowest latency wireless video on the market
 
+#### Trackers
+
+* [Vive Wrist Trackers](https://business.vive.com/eu/product/vive-wrist-tracker/) - Lightweight and versatile VR tracker is designed to work with VIVE Focus 3
+* [Vive Facial Tracker](https://www.vive.com/eu/accessory/facial-tracker/) - Capture true-to-life facial expressions and mouth movement with precision
+* [Ultraleap 3Di](https://www.ultraleap.com/product/ultraleap-3di/) - High-performance, ruggedized camera for public installations
+* [OptiTrack](https://optitrack.com/applications/virtual-reality/) - World’s most accurate and easy to use wide area VR trackers
+* [Stereo IR 170 Evaluation Kit](https://www.ultraleap.com/product/stereo-ir-170/) - A next-generation optical hand tracking module
+* [Leap Motion](https://www.ultraleap.com/product/leap-motion-controller/) - Optical hand tracking module that captures the movements of your hands
+* [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/) - World-class hand tracking for anyone
+* [Clair](https://clayair.io/) - Hand Tracking, Gesture Recognition and Touchless Interaction Solutions
+
 #### Accessories
 
 * [hig-m4](https://www.higvr.com/products/hig-m4) - HIG-M4 is a simulation gun stock designed for VR platform shooting games
+* [Kiwidesign Face Cushion](https://www.kiwidesign.com/products/facial-interface) - Facial Interface Compatible with Quest 2
+* [VR Cable Pulley](https://www.kiwidesign.com/products/vr-cable-management) - Silent VR Cable Management Pulley System
+#### Wearables
 
-#### Input Devices
+* [Manus VR](https://www.manus-vr.com/) - VR Gloves
+* [Sense Glove](https://www.senseglove.com/) - The New Sense for VR Training
+* [BHaptics](https://www.bhaptics.com/tactsuit/tactsuit-x40) - Haptic vest that packs 40 individually controllable vibro-tactile motors
+* [Full Body VR](https://sandboxvr.com/losangeles/) - Full Body VR Gaming Experience
+* [Surplex](https://comingsoon.higizmos.com/surplex) - Full Body VR Tracking Shoes
 
-* [Ultraleap 3Di](https://www.ultraleap.com/product/ultraleap-3di/) - High-performance, ruggedized camera for public installations
-* [Stereo IR 170 Evaluation Kit](https://www.ultraleap.com/product/stereo-ir-170/) - A next-generation optical hand tracking module
-* [Leap Motion](https://www.ultraleap.com/product/leap-motion-controller/) - Optical hand tracking module that captures the movements of your hands
+#### Treadmills
+
+* [Omni One](https://www.virtuix.com/) - Move freely and at full speed in 360° without getting hurt
+* [Kat VR](https://www.kat-vr.com/products/kat-walk-c) - World’s first personal VR Omni-Directional Treadmill
 
 #### DIY
 
@@ -282,19 +301,6 @@ Solution-oriented links. The same company may have more than one solution.
 * [Maquette](https://www.maquette.ms/) - Maquette makes spatial prototyping easy, quick, and immersive
 * [PiXYZ Review](https://www.pixyz-software.com/review/) - Allows you to import a wide range of CAD model formats in a VR environment 
 
-#### Wearables
-
-* [Manus VR](https://www.manus-vr.com/) - VR Gloves
-* [Sense Glove](https://www.senseglove.com/) - The New Sense for VR Training
-* [BHaptics](https://www.bhaptics.com/tactsuit/tactsuit-x40) - Haptic vest that packs 40 individually controllable vibro-tactile motors
-* [Full Body VR](https://sandboxvr.com/losangeles/) - Full Body VR Gaming Experience
-* [Surplex](https://comingsoon.higizmos.com/surplex) - Full Body VR Tracking Shoes
-
-#### Treadmills
-
-* [Omni One](https://www.virtuix.com/) - Move freely and at full speed in 360° without getting hurt
-* [Kat VR](https://www.kat-vr.com/products/kat-walk-c) - World’s first personal VR Omni-Directional Treadmill
-
 #### Essential
 
 * [Mojo](https://www.mojo.vision/) - World's only contact lens that elevates your vision
@@ -325,12 +331,6 @@ Solution-oriented links. The same company may have more than one solution.
 * [VisionLib](https://visionlib.com/) - Enabling to detect and track physical 3D objects at industrial scale
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - A comprehensive, scalable enterprise AR platform
 * [Wikitude](https://www.wikitude.com/) - Has been empowering businesses with innovative AR technology since 2008
-
-
-#### Hand Tracking & Gesture Recognition
-
-* [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/) - World-class hand tracking for anyone
-* [Clair](https://clayair.io/) - Hand Tracking, Gesture Recognition and Touchless Interaction Solutions
 
 #### Cloud XR & Remote Rendering
 
