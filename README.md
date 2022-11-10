@@ -88,6 +88,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Varjo Aero](https://varjo.com/products/aero/) - The lightest & brightest professional-grade headset ever made
 * [Varjo VR-3](https://varjo.com/products/vr-3/) - Highest resolution across the widest field of view
 * [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
+* [Oculus Quest Pro](https://www.meta.com/quest/quest-pro/) - Most advanced Meta headset
 * [Oculus Quest 2](https://www.oculus.com/quest-2/) - Great Standalone VR Headset
 * [Oculus Quest](https://www.oculus.com/quest/) - Great Standalone VR Headset
 * [Oculus Rift S](https://www.oculus.com/rift-s/) - Great PC Powered VR Headset
