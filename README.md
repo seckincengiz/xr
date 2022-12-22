@@ -151,6 +151,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [hig-m4](https://www.higvr.com/products/hig-m4) - HIG-M4 is a simulation gun stock designed for VR platform shooting games
 * [Kiwidesign Face Cushion](https://www.kiwidesign.com/products/facial-interface) - Facial Interface Compatible with Quest 2
 * [VR Cable Pulley](https://www.kiwidesign.com/products/vr-cable-management) - Silent VR Cable Management Pulley System
+
 #### Wearables
 
 * [Manus VR](https://www.manus-vr.com/) - VR Gloves
@@ -161,6 +162,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Treadmills
 
+* [Kat Walk VR C2](https://www.kat-vr.com/products/kat-walk-c2) - KAT Walk C 2 is a 2ND-Generation Personal VR Treadmill
 * [Omni One](https://www.virtuix.com/) - Move freely and at full speed in 360° without getting hurt
 * [Kat VR](https://www.kat-vr.com/products/kat-walk-c) - World’s first personal VR Omni-Directional Treadmill
 
