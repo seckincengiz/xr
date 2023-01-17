@@ -346,6 +346,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Nomtek](https://www.nomtek.com/xr-ar-development) - Nomtek is a world-class Magic Leap development partner
 * [Exyte](https://exyte.com/) - Hire experts and design professionals to design, develop, and deploy your project
+* [Khora](https://khora.com/) - Cutting edge VR and AR experiences within multiple industries
 * [Elmparklabs](https://www.elmparklabs.com/services) - Offers you to plan and execute your XR strategy and applications
 * [Innovation Rock](https://innovation-rocks.com/) - Offers you to transform businesses through new realities
 * [WE/AR Studio](https://wear-studio.com/) - AR/VR solutions with business goals in mind
