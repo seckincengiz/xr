@@ -60,6 +60,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them
 * [Clutch](https://clutch.co/developers/virtual-reality) - Helps you to find companies in XR domain
+* [VR Compare](https://vr-compare.com/) - View summaries of 229 virtual & augmented reality headsets
 * [Endole](https://endole.co.uk/) - Reports, Research, Sales & Marketing, Risk Management
 * [Business](https://www.business.com/) - Resources on finance, marketing, HR and more
 * [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
