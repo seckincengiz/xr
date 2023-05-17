@@ -85,43 +85,80 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### VR Headsets
 
+**2023**
+* [PlayStation VR2](https://www.playstation.com/en-us/ps-vr2/) - stunning 4K HDR visuals, genre-defining games, and unique sensations
+
+**2022**
+* [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) - Most advanced Meta headset
+* [HTC Vive Flow](https://www.vive.com/us/product/vive-flow/overview/) - The immersive VR glasses for on-the-go wellness
+* [HTC Vive Flow Business](https://business.vive.com/us/product/vive-flow/) - The immersive VR glasses for business
+* [ThinkReality VRX](https://www.lenovo.com/us/en/thinkrealityvrx) -  The immersive, lightweight, slim profile six-degrees-of-freedom (6DoF) VR device
+* [Pico 4](https://www.picoxr.com/tr/products/pico4) - Standalone VR Headset
+* [arpara VR](https://www.arparaland.com/hmd) - Standalone 5K 120Hz VR HMD
+
+**2021**
 * [Varjo Aero](https://varjo.com/products/aero/) - The lightest & brightest professional-grade headset ever made
 * [Varjo VR-3](https://varjo.com/products/vr-3/) - Highest resolution across the widest field of view
-* [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
-* [Oculus Quest Pro](https://www.meta.com/quest/quest-pro/) - Most advanced Meta headset
+* [HTC Vive Focus 3](https://www.vive.com/eu/product/vive-focus3/overview/) - Simple all-in-one solution for business
+* [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
+
+**2020**
 * [Oculus Quest 2](https://www.oculus.com/quest-2/) - Great Standalone VR Headset
+* [HP Reverb G2](https://www.hp.com/us-en/vr/reverb-g2-vr-headset.html) - Developed in collaboration with Valve and Microsoft
+
+**2019**
 * [Oculus Quest](https://www.oculus.com/quest/) - Great Standalone VR Headset
 * [Oculus Rift S](https://www.oculus.com/rift-s/) - Great PC Powered VR Headset
-* [Oculus Rift](https://www.oculus.com/rift/) - First Oculus VR Headset
-* [Oculus Go](https://www.oculus.com/go/) - First Standalone Oculus VR Headset
-* [HTC Vive Focus 3](https://www.vive.com/us/product/vive-focus3/overview/) - Standalone VR Headset for professionals
-* [HTC Vive Focus Plus](https://business.vive.com/us/product/focus-plus/) - The all-in-one VR system designed for business
-* [HTC Vive Focus](https://business.vive.com/us/product/vive-focus/) - Simple all-in-one solution for business
-* [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
+* [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
+* [Pimax 8K](https://pimax.com/product/vision-8k-x/) - two 4K displays, one for each eye, with a field of view of 200 degrees
+
+**2018**
 * [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of HTC Vive
-* [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
-* [HTC Vice Flow Business](https://business.vive.com/us/product/vive-flow/) - The immersive VR glasses for business
-* [HTC Vive Flow](https://www.vive.com/us/product/vive-flow/overview/) - The immersive VR glasses for on-the-go wellness
-* [Pico 4](https://www.picoxr.com/tr/products/pico4) - Standalone VR Headset
-* [ThinkReality VRX](https://www.lenovo.com/us/en/thinkrealityvrx) -  The immersive, lightweight, slim profile six-degrees-of-freedom (6DoF) VR device
-* [HP Reverb G2](https://www.hp.com/us-en/vr/reverb-g2-vr-headset.html) - Developed in collaboration with Valve and Microsoft
+* [Oculus Go](https://www.oculus.com/go/) - First Standalone Oculus VR Headset
+* [HTC Vive Focus](https://business.vive.com/us/product/vive-focus/) - Simple all-in-one solution for business
+* [HTC Vive Focus Plus](https://business.vive.com/us/product/focus-plus/) - The all-in-one VR system designed for business
+
+**2017**
+* [Pico Neo CV](https://www.picoxr.com/global) - Snapdragon 820 based VR Headset
+
+**2016**
+* [Oculus Rift](https://www.oculus.com/rift/) - First Oculus VR Headset
+* [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
 * [PlayStation VR](https://www.playstation.com/en-us/ps-vr/?smcid=pdc%3Aen-us%3Asearch%3Aprimary%20nav%3Amsg-hardware%3Aps-vr) - PS VR headset
-* [arpara VR](https://www.arparaland.com/hmd) - Standalone 5K 120Hz VR HMD
-* [3Glasses X1 Suite](https://www.3glasses.com/en) - Consumer-Grade Ultrathin VR Glasses
-* [3Glasses Blubur S2](https://www.3glasses.com/en/product/productS2.html) - Windows MR HMD
 
 #### AR Headsets & Glasses
 
-* [Varjo XR-3](https://varjo.com/products/xr-3/) - Highest performance XR for every workplace
-* [Microsoft HoloLens 2](https://www.microsoft.com/en-us/hololens) - Mixed reality device with apps and solutions that enhance collaboration
-* [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - A lightweight, wearable computer to enhance productivity
 * [Nimo](https://www.nimoplanet.com/) - Multi-screen computer fits in the pocket 
-* [Realwear](https://realwear.com/) - Voice Controlled Fully Rugged Headset
-* [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
-* [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
-* [Google Glass Enterprise Edition 2](https://www.google.com/glass/tech-specs/) - A hands-free device for smarter and faster hands-on work
+
+**2023**
+* [Immo Air 2](https://inmoglass.com/pages/inmo-ar) - The World's First Wireless Portable AR Glasses
+* [Realwear Navigator 520](https://www.realwear.com/hyperdisplay/) - Business focus standalone AR Glass
+
+**2022**
+* [Magic Leap 2](https://www.magicleap.com/magic-leap-2) - Standalone AR Headset
+
+**2021**
 * [Lenova ThinkReality A3 Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) - Lenovo’s versatile smart glasses for the enterprise
+* [Varjo XR-3](https://varjo.com/products/xr-3/) - Highest performance XR for every workplace
+
+**2020**
+* [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
+* [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
 * [nreal](https://developer.nreal.ai/dev-kit) - Mixed Reality Dev Kit
+
+**2019**
+* [Microsoft HoloLens 2](https://www.microsoft.com/en-us/hololens) - Mixed reality device with apps and solutions that enhance collaboration
+* [Google Glass Enterprise Edition 2](https://www.google.com/glass/tech-specs/) - A hands-free device for smarter and faster hands-on work
+
+**2018**
+* [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - A lightweight, wearable computer to enhance productivity
+
+**2017**
+* [Realwear](https://realwear.com/) - Voice Controlled Fully Rugged Headset
+
+**2013**
+* [Google Glass Explorer Edition](https://www.google.com/glass/start/) - First Google Glass
+
 
 #### AR + VR Headsets
 
