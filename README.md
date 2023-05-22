@@ -72,6 +72,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [UploadVR](https://www.youtube.com/c/Uploadvr) - VR news source bringing you reviews, gameplay, streams & more
 * [ThrillSeeker](https://www.youtube.com/c/ThrillSeekerVR/about) - Channel dedicated to spreading Virtual Reality and Augmented reality
 * [Virtual Reality Oasis](https://www.youtube.com/@VirtualRealityOasis) - Channel dedicated to share VR content
+* [Cas and Chary VR](https://www.youtube.com/@CasandChary) - a couple passionate about VR, AR, and beyond
 * [MRTV](https://www.youtube.com/c/mixedrealityTV/featured) - news, reviews and tutorials about AR, VR
 * [Tyriel Wood - VR Tech](https://www.youtube.com/c/Tyrielwood) - The Tech VR/AR YouTube Channel
 
