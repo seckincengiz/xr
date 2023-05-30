@@ -201,6 +201,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [BHaptics](https://www.bhaptics.com/tactsuit/tactsuit-x40) - Haptic vest that packs 40 individually controllable vibro-tactile motors
 * [Full Body VR](https://sandboxvr.com/losangeles/) - Full Body VR Gaming Experience
 * [Surplex](https://comingsoon.higizmos.com/surplex) - Full Body VR Tracking Shoes
+* [Nova 2](https://www.senseglove.com/nova-2/) - Enables users to perceive a sensation of virtual reality objects in the palm of their hand
 
 #### Treadmills
 
