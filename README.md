@@ -203,6 +203,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Treadmills
 
+* [Virtuix](https://www.virtuix.com/) - Experience full freedom of movement in virtual reality
 * [Kat Walk VR C2](https://www.kat-vr.com/products/kat-walk-c2) - KAT Walk C 2 is a 2ND-Generation Personal VR Treadmill
 * [Omni One](https://www.virtuix.com/) - Move freely and at full speed in 360° without getting hurt
 * [Kat VR](https://www.kat-vr.com/products/kat-walk-c) - World’s first personal VR Omni-Directional Treadmill
