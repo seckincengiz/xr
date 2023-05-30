@@ -169,6 +169,10 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Lynx-r](https://lynx-r.com/) - It is the first All-in-One Mixed Reality headset
 
+#### AR Laptops
+
+* [Spacetop](https://www.sightful.com/experience/) - The world's first AR Laptop
+
 #### Displays
 
 * [Looking Glass Factory](https://lookingglassfactory.com/) - The world’s first group-viewable 3D holographic displays
