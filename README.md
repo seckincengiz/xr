@@ -137,6 +137,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Nimo](https://www.nimoplanet.com/) - Multi-screen computer fits in the pocket 
 
 **2023**
+* [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - seamlessly blends digital content with your physical space
 * [Immo Air 2](https://inmoglass.com/pages/inmo-ar) - The World's First Wireless Portable AR Glasses
 * [Realwear Navigator 520](https://www.realwear.com/hyperdisplay/) - Business focus standalone AR Glass
 
