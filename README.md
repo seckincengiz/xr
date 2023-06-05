@@ -75,6 +75,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Cas and Chary VR](https://www.youtube.com/@CasandChary) - a couple passionate about VR, AR, and beyond
 * [MRTV](https://www.youtube.com/c/mixedrealityTV/featured) - news, reviews and tutorials about AR, VR
 * [Tyriel Wood - VR Tech](https://www.youtube.com/c/Tyrielwood) - The Tech VR/AR YouTube Channel
+* [Nathie](https://www.youtube.com/nathie) - Channel is about VR, haptic suits and gaming in general
 
 #### Communities
 
