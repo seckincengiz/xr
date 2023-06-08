@@ -426,6 +426,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Meta](https://about.facebook.com/meta) - Oculus
 * [HTC](https://www.htc.com/us/) - Vive
 * [Apple](https://www.apple.com/) - iPad, iPhone
+* [Mira](https://www.mirareality.com/) - AR headset manufacturer
 
 #### Display Manufacturers
 
