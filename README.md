@@ -140,6 +140,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - seamlessly blends digital content with your physical space
 * [Immo Air 2](https://inmoglass.com/pages/inmo-ar) - The World's First Wireless Portable AR Glasses
 * [Realwear Navigator 520](https://www.realwear.com/hyperdisplay/) - Business focus standalone AR Glass
+* [Rokid Max](https://global.rokid.com/pages/rokid-max) - Provide a portable entertainment experience
 
 **2022**
 * [Magic Leap 2](https://www.magicleap.com/magic-leap-2) - Standalone AR Headset
