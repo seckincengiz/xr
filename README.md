@@ -93,6 +93,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [PlayStation VR2](https://www.playstation.com/en-us/ps-vr2/) - stunning 4K HDR visuals, genre-defining games, and unique sensations
 * [Bigscreen VR](https://www.bigscreenvr.com/) - The world's smallest VR headset
 * [Pimax Reality 12K QLED](https://pimax.com/pimax-12k/) - Bringing higher resolution and larger field of view
+* [Meta Quest 3](https://www.meta.com/de/en/quest/quest-3/) - Twice the GPU processing power compared to Quest 2
 
 **2022**
 * [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) - Most advanced Meta headset
