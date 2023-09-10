@@ -242,6 +242,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 #### SDKs
 
 * [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.5/manual/index.html) - a high-level, component-based, interaction system for creating XR experiences
+* [Apple Vision Pro SDK](https://developer.apple.com/visionos/) - Build an entirely new universe of apps and games for Apple Vision Pro
 * [AR Kit](https://developer.apple.com/augmented-reality/arkit/) - Apple AR SDK
 * [Apple Reality Kit](https://developer.apple.com/documentation/realitykit) - Simulate and render 3D content for use in your augmented reality apps
 * [AR Core](https://developers.google.com/ar) - Android AR SDK
