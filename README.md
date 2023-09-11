@@ -296,6 +296,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Labster](https://www.labster.com/) - Allow students to complete laboratory experiments online and explore concepts & scenarios
 * [Avantis Education](https://www.avantiseducation.com/) - Bringing VR and AR to schools
 * [Ludus VR Training](https://ludusglobal.com/en/training) - Ludus is the ultimate platform for safety training
+* [Collective Training System](https://www.kratosdefense.com/systems-and-platforms/training-systems/simulation-systems/air/collective-training-systems) - Reconfigurable, Virtual Collective Training System (RVCTS)
 
 #### Remote Meeting, Work & Assistant
 
