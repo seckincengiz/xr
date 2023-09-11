@@ -84,6 +84,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [XR Creators](https://discord.gg/trEsXRnsMD) - Active XR Community Server. Learning, Career, Networking, Development and more
 * [Varjo Community](https://discord.gg/vH5GYF9Wgq) - Varjo Discord Community Server
 * [VR/AR Association](https://www.thevrara.com/) - Designed to foster collaboration between solution providers and end-users
+* [Smart Glasses Community](https://smartglasses.community/) - Smart glasses resources and community for users, devs, and industry
 
 ### DEVICES
 
