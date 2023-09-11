@@ -228,6 +228,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Triton Project](https://atlee19.github.io/TritonProject-Guide/) - It is a 3D printed headset that uses off the shelf hardware to achieve advanced augmented reality
 * [Project North Start](https://github.com/leapmotion/ProjectNorthStar) - The open-source files comprising Leap Motion's Project North Star AR Headset
 * [Deck-X](https://github.com/CombineReality/Deck-X/) - open-source AR headset based on Leap Motion's Project North Star
+* [Open Source Glasses](https://github.com/TeamOpenSmartGlasses/OpenSourceSmartGlasses) - Open Source smart glasses
 
 #### Stores
 
