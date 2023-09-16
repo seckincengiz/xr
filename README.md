@@ -55,7 +55,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [MITTechnologyReview/VR](https://www.technologyreview.com/topic/humans-and-technology/vr/) - MIT Technology Review VR Category
 * [MITTechnologyReview/AR](https://www.technologyreview.com/topic/humans-and-technology/ar/) - MIT Technology Review AR Category
 * [MITTechnologyReview/BCI](https://www.technologyreview.com/topic/humans-and-technology/brain-computer-interface/) - MIT Technology Review BCI Category
-* [XRealityZone](https://medium.com/@xreality.zone) - Articles and Newsletter for Creators(Designers/Developers and Productors)
+* [XRealityZone](https://medium.com/@xreality.zone) - Articles and Newsletters for Creators(Designers/Developers and Productors)
 
 #### Search & Browse Companies
 
