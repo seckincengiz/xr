@@ -159,6 +159,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 **2022**
 * [Magic Leap 2](https://www.magicleap.com/magic-leap-2) - Standalone AR Headset
+* [Solomon META-aivi](https://www.solomon-3d.com/products/meta_aivi/) - Portable AI Vision System
 
 **2021**
 * [Lenova ThinkReality A3 Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) - Lenovo’s versatile smart glasses for the enterprise
