@@ -204,6 +204,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Kiwidesign Face Cushion](https://www.kiwidesign.com/products/facial-interface) - Facial Interface Compatible with Quest 2
 * [VR Cable Pulley](https://www.kiwidesign.com/products/vr-cable-management) - Silent VR Cable Management Pulley System
 * [Golf VR Game Handle](https://tinyurl.com/bdey3eyy) - Compatible With Oculus Quest 2 Controller
+* [Dual Extension Game Grips](https://tinyurl.com/mtuwm3ex) - Long Arms Dual Extension Game Grips
 
 #### Wearables
 
