@@ -241,6 +241,15 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 ### DEVELOPMENT
 
+#### 3D Engines
+
+* [Unity](https://blog.unity.com/topic/xr) - World’s best real-time development platform
+* [Unreal Engine](https://www.unrealengine.com/en-US/feed/all/ar+vr) - World's most open and advanced real-time 3D creation tool
+* [Godot](https://godotengine.org/news) - Completely free and open-source game engine
+* [Flax Engine](https://flaxengine.com/) - Open source .Net Game Engine
+* [A-Frame](https://aframe.io/) - A web framework for building 3D/AR/VR experiences
+* [Babylonjs](https://www.babylonjs.com/) - Powerful, beautiful, simple, and open web rendering engine
+
 #### SDKs
 
 * [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.5/manual/index.html) - a high-level, component-based, interaction system for creating XR experiences
@@ -266,6 +275,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [SparkAR](https://sparkar.facebook.com/ar-studio/) - Let's you create interactive AR experiences, with or without code
 * [Niantic 8thwall](https://www.8thwall.com/discover) - Web-based augmented reality, enables augmented reality (AR) to work within a browser
 * [aframe](https://aframe.io/) - Web framework for building virtual reality experiences
+* [Babylonjs](https://www.babylonjs.com/) - Powerful, beautiful, simple, and open web rendering engine
 * [Metavrse](https://metavrse.com/) - It is a web platform that makes it easy to Create, Curate & Consume interactive 3D Experiences
 * [Exokit](https://exokit.org/) - Tools for virtual worlds in the browser
 * [AWS Sumerian](https://aws.amazon.com/sumerian/) - Easily create and run browser-based 3D, AR, and VR applications
@@ -423,11 +433,11 @@ Solution-oriented links. The same company may have more than one solution.
 
 ### ECOSYSTEM
 
-#### Game Engines
+#### Software Companies
 
-* [Unity](https://blog.unity.com/topic/xr) - World’s best real-time development platform
-* [Unreal Engine](https://www.unrealengine.com/en-US/feed/all/ar+vr) - World's most open and advanced real-time 3D creation tool
-* [Godot](https://godotengine.org/news) - Completely free and open-source game engine
+* [Unity](https://unity.com/) - Unity Engine
+* [Epic Games](https://store.epicgames.com/en-US/) - Unreal Engine
+* [Godot Organization](https://godotengine.org/) - Most popular free & open source game engine
 
 #### Device Manufacturers
 
