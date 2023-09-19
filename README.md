@@ -91,7 +91,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [AWE](https://www.awexr.com/) - AWE Augmented World Expo is the leading event series for XR professionals
 * [VR World Congress](http://vrworldcongress.com/) - This event brings together various stakeholders in the VR industry
 * [SXSW](https://www.sxsw.com/) - South by Southwest not exclusively focused on XR, dedicated to interactive technologies
-* [VRLA]() - VRLA (Virtual Reality Los Angeles) It's one of the largest VR expos
 * [Global XR Conference](https://globalxrconference.com/) - The largest global community event about XR and the Metaverse
 * [SIGGRAPH](https://www.siggraph.org/) - Computer graphics conference
 * [UNITE by Unity](https://reg.unite2023ams.com/flow/unity/unite23ams/landing/page/Home) - An event series hosted by Unity Technologies
