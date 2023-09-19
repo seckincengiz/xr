@@ -94,7 +94,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [VRLA]() - VRLA (Virtual Reality Los Angeles) It's one of the largest VR expos
 * [Global XR Conference](https://globalxrconference.com/) - The largest global community event about XR and the Metaverse
 * [SIGGRAPH](https://www.siggraph.org/) - Computer graphics conference
-* [UNITE by Unity](https://reg.unite2023ams.com/flow/unity/unite23ams/landing/page/Home) - 
+* [UNITE by Unity](https://reg.unite2023ams.com/flow/unity/unite23ams/landing/page/Home) - An event series hosted by Unity Technologies
 * [XRDC Conf](https://gdconf.com/) - Extended Reality Developers Conference tailored for developers in the XR space
 
 ### DEVICES
