@@ -95,6 +95,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [SIGGRAPH](https://www.siggraph.org/) - Computer graphics conference
 * [UNITE by Unity](https://reg.unite2023ams.com/flow/unity/unite23ams/landing/page/Home) - An event series hosted by Unity Technologies
 * [XRDC Conf](https://gdconf.com/) - Extended Reality Developers Conference tailored for developers in the XR space
+* [Immersive Tech Week](https://www.immersivetechweek.co/) - VR, AR, XR, AI, the metaverse, Web4, haptics and more
 
 ### DEVICES
 
