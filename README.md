@@ -203,6 +203,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [hig-m4](https://www.higvr.com/products/hig-m4) - HIG-M4 is a simulation gun stock designed for VR platform shooting games
 * [Kiwidesign Face Cushion](https://www.kiwidesign.com/products/facial-interface) - Facial Interface Compatible with Quest 2
 * [VR Cable Pulley](https://www.kiwidesign.com/products/vr-cable-management) - Silent VR Cable Management Pulley System
+* [Golf VR Game Handle](https://tinyurl.com/bdey3eyy) - Compatible With Oculus Quest 2 Controller
 
 #### Wearables
 
@@ -238,6 +239,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Amazon/VR](https://www.amazon.com/vr-headset/s?k=vr+headset) - Amazon VR Headsets
 * [AmazonBest/VR](https://www.amazon.com/Best-Sellers-Electronics-Wearable-Tech-Virtual-Reality-Gear/zgbs/electronics/14775003011) - Amazon Best Sellers VR
 * [Oculus Store](https://www.oculus.com/compare/) - Oculus VR Headsets
+* [YogesVR](https://yogesvr.com/) - VR accessory store 
 
 ### DEVELOPMENT
 
