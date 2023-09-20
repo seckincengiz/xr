@@ -266,6 +266,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Flax Engine](https://flaxengine.com/) - Open source .Net Game Engine
 * [A-Frame](https://aframe.io/) - A web framework for building 3D/AR/VR experiences
 * [Babylonjs](https://www.babylonjs.com/) - Powerful, beautiful, simple, and open web rendering engine
+* [Bezel](https://bezel.it/) - Create 3D prototypes, 3D animations, design for AR & VR, all within one platform
 
 #### SDKs
 
