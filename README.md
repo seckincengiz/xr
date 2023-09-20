@@ -108,6 +108,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Pimax Reality 12K QLED](https://pimax.com/pimax-12k/) - Bringing higher resolution and larger field of view
 * [Meta Quest 3](https://www.meta.com/de/en/quest/quest-3/) - Twice the GPU processing power compared to Quest 2
 * [HTC Vive XR Elite VR](https://www.vive.com/us/product/vive-xr-elite/overview/) - Most awarded VR headset of CES and MWC 2023
+* [Pico 4 Enterprice](https://www.picoxr.com/global/products/pico4e) - Qualcom Snapdragon XR2 chip powered VR Headset
 
 **2022**
 * [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) - Most advanced Meta headset
@@ -270,6 +271,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.5/manual/index.html) - a high-level, component-based, interaction system for creating XR experiences
 * [Apple Vision Pro SDK](https://developer.apple.com/visionos/) - Build an entirely new universe of apps and games for Apple Vision Pro
+* [Snapchat Lens Studio](https://ar.snap.com/lens-studio) - Develop AR experiences for hundreds of millions of Snapchatters
 * [AR Kit](https://developer.apple.com/augmented-reality/arkit/) - Apple AR SDK
 * [Apple Reality Kit](https://developer.apple.com/documentation/realitykit) - Simulate and render 3D content for use in your augmented reality apps
 * [AR Core](https://developers.google.com/ar) - Android AR SDK
@@ -454,35 +456,64 @@ Solution-oriented links. The same company may have more than one solution.
 * [Unity](https://unity.com/) - Unity Engine
 * [Epic Games](https://store.epicgames.com/en-US/) - Unreal Engine
 * [Godot Organization](https://godotengine.org/) - Most popular free & open source game engine
+* [Adobe](https://www.adobe.com/) - Adobe is steadily making its mark in the AR domain
+* [Apple](https://developer.apple.com/augmented-reality/) - AR Kit SDK
+* [Google](https://developers.google.com/ar) - Google AR Core
+* [Microsoft](https://github.com/MixedRealityToolkit/) - MRTK
+* [Crytek](https://www.crytek.com/) - Crysis game engine by Crytek that also supports VR development
+* [PTC](https://www.ptc.com/en) - Kwnown for its products in the CAD & PLM sectors
+* [Autodesk](https://www.autodesk.com/) - Provides 3D Solutions for XR Domain
+* [Maxon](https://www.maxon.net/en/cinema-4d) - Provides 3D Solutions for XR Domain
+* [Blender](https://www.blender.org/) - Free and Open Source 3D Modelling Tool
+* [Niantic](https://nianticlabs.com/?hl=en) - Location-based augmented reality AR games
 
-#### Device Manufacturers
-
-* [Meta](https://about.facebook.com/meta) - Oculus
-* [HTC](https://www.htc.com/us/) - Vive
-* [Apple](https://www.apple.com/) - iPad, iPhone
-* [Mira](https://www.mirareality.com/) - AR headset manufacturer
-
-#### Display Manufacturers
-
-* [Emagin](https://www.emagin.com/) - The leading US producer of OLED Microdisplays
-* [Kopin](https://www.kopin.com/) - Microdisplay Solutions For Wearables
-#### Embedded
+#### OEM
 
 * [Qualcom](https://www.qualcomm.com/research/extended-reality) - Snapdragon
 * [Nvidia](https://blogs.nvidia.com/) - GPUs
+* [Meta](https://about.facebook.com/meta) - Oculus
+* [HTC](https://www.htc.com/us/) - HTC Vive
+* [Microsoft](https://www.microsoft.com/) - Hololens
+* [Sony](https://www.sony.com/en/) - PlayStation VR
+* [Apple](https://www.apple.com/) - iPad, iPhone
+* [Varjo](https://varjo.com/) - Makes the highest-immersion virtual and mixed reality products
+* [Valve](https://www.valvesoftware.com/en/) - Valve Index
+* [Mira](https://www.mirareality.com/) - AR headset manufacturer
+* [Google](https://google.com) - Google Glass
+* [Samsung](https://www.samsung.com/us) - HMD Odyssey
+* [NReal](https://www.xreal.com) - A company that makes augmented reality (AR) glasses
+* [Pico Interactive](https://www.picoxr.com/global) - A company that develops and manufactures virtual reality (VR) headsets
+* [Vuzix](https://www.vuzix.com/) - Provides innovative optical products to defense, security, and enterprise
+* [Emagin](https://www.emagin.com/) - The leading US producer of OLED Microdisplays
+* [Kopin](https://www.kopin.com/) - Microdisplay Solutions For Wearables
+* [Wave Optics](https://waveoptics.ar/) - Design and develop optical engines for augmented reality smartglasses and headsets
+* [Rokid](https://rokid.ai/) - A manufacturer of AR glasses
+* [Digilens](https://www.digilens.com/) - Next-generation mobile computing devices
+* [Kopin](https://www.kopin.com/) - Microdisplay Solutions For Wearables
 * [Western Digital](https://www.westerndigital.com/sandisk) - SSDs
-* [Samsung](https://www.samsung.com/) - SSDs
+* [UltraLeap](https://www.ultraleap.com/) - Known for: Advanced hand tracking and haptic technology for XR
+
 
 #### Platform & Marketplace
 
-* [Valve](https://store.steampowered.com/) - Steam
-* [Apple](https://www.apple.com/app-store/) - App Store
-* [Google](https://play.google.com/) - Play Store
+* [Steam Store](https://store.steampowered.com/) - A digital distribution platform developed by Valve Corporation
+* [Apple App Store](https://www.apple.com/app-store/) - A digital distribution platform for mobile apps on Apple's ecosystem
+* [Google Play Store](https://play.google.com/) - XR Applications, Videos
+* [Meta Store](https://www.meta.com/experiences/) - Games, Apps & Experiences for META Headset
+* [Viveport](https://www.viveport.com/) - HTC's platform and store for VR content, supporting devices like the HTC Vive
+* [Playstation Store](https://store.playstation.com/en-us/pages/latest) -  Offers VR titles specifically tailored for the PS VR headset
+* [Magic Leap World](https://world.magicleap.com/en-us) - The official content platform for Magic Leap, an AR headset
+* [Snap Lense Studio](https://ar.snap.com/lens-studio) - Platform where creators can develop and share AR experiences
 
 #### Cloud
 
-* [AWS](https://aws.amazon.com/)
-* [Google Cloud](https://cloud.google.com/)
+* [NVidia Cloud XR]() - Stream XR content from servers to client devices over networks
+* [Microsoft Azure]() - Provides various services and solutions that cater to XR domain
+* [Google Cloud](https://cloud.google.com/) - Cloud computing services provided by Google
+* [Spatial](https://www.spatial.io/) - Technology company specializing in collaborative virtual workspaces
+* [Tencent Cloud](https://www.tencentcloud.com/) - Build, deploy, and scale XR solutions
+* [Agora](https://www.agora.io/en/) - Voice call, video call, live interactive broadcasting, and real-time messaging
+* [AWS](https://aws.amazon.com/blogs/aws/category/ar-vr/amazon-sumerian/) - AWS XR Services
 
 ### ABOUT
 
