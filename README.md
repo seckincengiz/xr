@@ -110,6 +110,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 **Upcoming**
 * [Valve Deckard(speculation)](https://youtube.com/shorts/G9xPYlzVl1c?si=Qtzb2aZ9M707sJbh) - New Valve VR Headset
 * [Butterscotch Varifocal](https://www.uploadvr.com/meta-butterscotch-varifocal-prototype-retinal-hands-on/) - Meta's Retinal Resolution Varifocal Prototype Headset
+* [Simula One](https://simulavr.com/) - Standalone VR headset that runs on a Linux-based os called SimulaOSVR Computer
 
 **2023**
 * [PlayStation VR2](https://www.playstation.com/en-us/ps-vr2/) - stunning 4K HDR visuals, genre-defining games, and unique sensations
