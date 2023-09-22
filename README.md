@@ -105,7 +105,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 ### DEVICES
 
-#### VR Headsets
+### VR Headsets
 
 **Upcoming**
 * [Valve Deckard(speculation)](https://youtube.com/shorts/G9xPYlzVl1c?si=Qtzb2aZ9M707sJbh) - New Valve VR Headset
@@ -157,8 +157,9 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
 * [PlayStation VR](https://www.playstation.com/en-us/ps-vr/?smcid=pdc%3Aen-us%3Asearch%3Aprimary%20nav%3Amsg-hardware%3Aps-vr) - PS VR headset
 
-#### AR Headsets & Glasses
+### AR Headsets & Glasses
 
+**Upcoming**
 * [Nimo](https://www.nimoplanet.com/) - Multi-screen computer fits in the pocket 
 
 **2023**
