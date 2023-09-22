@@ -193,6 +193,9 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 **2017**
 * [Realwear](https://realwear.com/) - Voice Controlled Fully Rugged Headset
 
+**2014**
+* [Fove VR](https://fove-inc.com/) - FOVE is a virtual reality (VR) headset that uses eye tracking technology
+
 **2013**
 * [Google Glass Explorer Edition](https://www.google.com/glass/start/) - First Google Glass
 
@@ -258,6 +261,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Project North Start](https://github.com/leapmotion/ProjectNorthStar) - The open-source files comprising Leap Motion's Project North Star AR Headset
 * [Deck-X](https://github.com/CombineReality/Deck-X/) - open-source AR headset based on Leap Motion's Project North Star
 * [Open Source Glasses](https://github.com/TeamOpenSmartGlasses/OpenSourceSmartGlasses) - Open Source smart glasses
+* [OSVR](https://osvr.github.io/) - An open-source software platform for virtual and augmented reality
 
 #### Stores
 
