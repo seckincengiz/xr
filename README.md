@@ -118,6 +118,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Meta Quest 3](https://www.meta.com/de/en/quest/quest-3/) - Twice the GPU processing power compared to Quest 2
 * [HTC Vive XR Elite VR](https://www.vive.com/us/product/vive-xr-elite/overview/) - Most awarded VR headset of CES and MWC 2023
 * [Pico 4 Enterprice](https://www.picoxr.com/global/products/pico4e) - Qualcom Snapdragon XR2 chip powered VR Headset
+* [Bigscreen Beyond](https://www.bigscreenvr.com/) - The world's smallest VR headset
 
 **2022**
 * [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) - Most advanced Meta headset
