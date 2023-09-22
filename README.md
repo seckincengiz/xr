@@ -23,6 +23,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
 * [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
 * [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
+* [Mixed/VR](https://mixed-news.com/en/virtual-reality-news/) - MixedNews VR Category 
+* [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - MixedNews AR Category
 * [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
 * [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
 * [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
@@ -104,6 +106,10 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 ### DEVICES
 
 #### VR Headsets
+
+**Upcoming**
+* [Valve Deckard(speculation)](https://youtube.com/shorts/G9xPYlzVl1c?si=Qtzb2aZ9M707sJbh) - New Valve VR Headset
+* []() -
 
 **2023**
 * [PlayStation VR2](https://www.playstation.com/en-us/ps-vr2/) - stunning 4K HDR visuals, genre-defining games, and unique sensations
