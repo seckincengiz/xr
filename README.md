@@ -215,7 +215,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Ray-Ban Stories](https://www.ray-ban.com/usa/ray-ban-stories) - Capture, share and listen
 * [Amazon Echo Frames](https://www.amazon.com/b?node=116898096011&tag=theverge02-20&ascsubtag=___vg__p_23646533__t_w__r_https://www.google.com/__d_D) - Capture, share and listen
-* [Spectacles 3](hhttps://www.spectacles.com/shop/spectacles-3) - Capture your world in 3D. Relive it with your 3D Viewer
+* [Spectacles 3](https://www.spectacles.com/shop/spectacles-3) - Capture your world in 3D. Relive it with your 3D Viewer
 
 #### AR Laptops
 
