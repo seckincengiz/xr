@@ -27,6 +27,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - MixedNews AR Category
 * [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
 * [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
+* [XRDailyNews/VR](https://xrdailynews.com/en/virtual-reality-vr/) - XR Daily News VR Category
+* [XRDailyNews/AR](https://xrdailynews.com/en/augmented-reality-ar/) - XR Daily News AR Category
 * [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
 * [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
@@ -169,6 +171,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Immo Air 2](https://inmoglass.com/pages/inmo-ar) - The World's First Wireless Portable AR Glasses
 * [Realwear Navigator 520](https://www.realwear.com/hyperdisplay/) - Business focus standalone AR Glass
 * [Rokid Max](https://global.rokid.com/pages/rokid-max) - Provide a portable entertainment experience
+* [XReal Air](https://www.xreal.com/air/) - Smart Glasses with Massive 201" Micro-OLED Virtual Theater
 
 **2022**
 * [Magic Leap 2](https://www.magicleap.com/magic-leap-2) - Standalone AR Headset
@@ -181,7 +184,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 **2020**
 * [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
 * [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
-* [nreal](https://developer.nreal.ai/dev-kit) - Mixed Reality Dev Kit
 
 **2019**
 * [Microsoft HoloLens 2](https://www.microsoft.com/en-us/hololens) - Mixed reality device with apps and solutions that enhance collaboration
@@ -203,6 +205,10 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 #### AR + VR Headsets
 
 * [Lynx-r](https://lynx-r.com/) - It is the first All-in-One Mixed Reality headset
+
+#### Smart Glasses
+
+* [Viture XR Glass](https://www.viture.com/dashboard?scene=store) - 
 
 #### AR Laptops
 
@@ -304,6 +310,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html) - Official Unity Solution for XR Interaction
 * [Microsoft MR Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity) - Accelerate cross-platform MR app development in Unity
 * [Ultimate XR Unity](https://github.com/VRMADA/ultimatexr-unity) -  Free, open source framework that facilitates the creation of VR applications
+* [XReal NRSDK](https://developer.xreal.com/) - Framework to create augmented reality experiences for AR glasses on Android
 
 #### Web
 
@@ -409,6 +416,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Essential
 
+* [Ray-Ban Stories](https://www.ray-ban.com/usa/ray-ban-stories) - Have a camera and audio features and can take photos and videos
 * [Mojo](https://www.mojo.vision/) - World's only contact lens that elevates your vision
 
 #### Analytics
@@ -532,6 +540,10 @@ Solution-oriented links. The same company may have more than one solution.
 * [Tencent Cloud](https://www.tencentcloud.com/) - Build, deploy, and scale XR solutions
 * [Agora](https://www.agora.io/en/) - Voice call, video call, live interactive broadcasting, and real-time messaging
 * [AWS](https://aws.amazon.com/blogs/aws/category/ar-vr/amazon-sumerian/) - AWS XR Services
+
+#### Brands
+
+* [Ray-Bans](https://www.ray-ban.com/usa) - RayBan Stories
 
 ### ABOUT
 
