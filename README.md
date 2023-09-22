@@ -127,6 +127,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [ThinkReality VRX](https://www.lenovo.com/us/en/thinkrealityvrx) -  The immersive, lightweight, slim profile six-degrees-of-freedom (6DoF) VR device
 * [Pico 4](https://www.picoxr.com/tr/products/pico4) - Standalone VR Headset
 * [arpara VR](https://www.arparaland.com/hmd) - Standalone 5K 120Hz VR HMD
+* [MeganeX](https://en.shiftall.net/products/meganex) - Ultra-lightweight and ultra-compact VR headset compatible with SteamVR
 
 **2021**
 * [Varjo Aero](https://varjo.com/products/aero/) - The lightest & brightest professional-grade headset ever made
@@ -504,6 +505,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Kopin](https://www.kopin.com/) - Microdisplay Solutions For Wearables
 * [Western Digital](https://www.westerndigital.com/sandisk) - SSDs
 * [UltraLeap](https://www.ultraleap.com/) - Known for: Advanced hand tracking and haptic technology for XR
+* [Shiftall](https://en.shiftall.net/) - A Panasonic company that makes virtual reality (VR) equipment
 
 
 #### Platform & Marketplace
