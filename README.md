@@ -172,14 +172,18 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Realwear Navigator 520](https://www.realwear.com/hyperdisplay/) - Business focus standalone AR Glass
 * [Rokid Max](https://global.rokid.com/pages/rokid-max) - Provide a portable entertainment experience
 * [XReal Air](https://www.xreal.com/air/) - Smart Glasses with Massive 201" Micro-OLED Virtual Theater
+* [Viture XR Glass](https://www.viture.com/dashboard?scene=store) - 120inch screen in front of your eyes
+* [RealWear Navigator 520](https://www.realwear.com/hyperdisplay/) - It is lightweight and comfortable, and is secure for enterprise use
 
 **2022**
 * [Magic Leap 2](https://www.magicleap.com/magic-leap-2) - Standalone AR Headset
 * [Solomon META-aivi](https://www.solomon-3d.com/products/meta_aivi/) - Portable AI Vision System
+* [Moverio BT-45C](https://epson.com/For-Work/Wearables/Smart-Glasses/Moverio-BT-45C-AR-Smart-Glasses/p/V11H970020) - Ideal for mission-critical tasks troubleshooting, maintenance, inspection and training
 
 **2021**
 * [Lenova ThinkReality A3 Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) - Lenovo’s versatile smart glasses for the enterprise
 * [Varjo XR-3](https://varjo.com/products/xr-3/) - Highest performance XR for every workplace
+* [Moverio BT-40](https://epson.com/For-Work/Wearables/Smart-Glasses/Moverio-BT-40-Smart-Glasses-with-USB-Type-C-Connectivity-/p/V11H969020) - Epson's Personal Smart Glasses with USB Type-C Connectivity
 
 **2020**
 * [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
@@ -206,9 +210,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Lynx-r](https://lynx-r.com/) - It is the first All-in-One Mixed Reality headset
 
-#### Smart Glasses
 
-* [Viture XR Glass](https://www.viture.com/dashboard?scene=store) - 
+
 
 #### AR Laptops
 
