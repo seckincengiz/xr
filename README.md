@@ -1,6 +1,6 @@
 ![BANNER](files/banner.png)
 
-> A curated list of XR fundamentals, news sources, devices, development & design resources, solutions & ecosystem.
+> A curated list of XR (AR, VR Mixed Reality) fundamentals, news sources, devices, development & design resources, solutions & ecosystem.
 
 XR stands for "Extended Reality," an umbrella term that covers all of the various immersive technologies that enhance our senses, including Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR).
 
