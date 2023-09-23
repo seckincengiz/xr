@@ -105,6 +105,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [XRDC Conf](https://gdconf.com/) - Extended Reality Developers Conference tailored for developers in the XR space
 * [Immersive Tech Week](https://www.immersivetechweek.co/) - VR, AR, XR, AI, the metaverse, Web4, haptics and more
 * [CES](https://www.ces.tech/) - Is the most powerful tech event in the world
+* [Augmented Enterprise Summit](https://augmentedenterprisesummit.com/) - A conference that focuses on the business and industrial applications of XR
 
 ### DEVICES
 
@@ -314,6 +315,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - Vuforia is a comprehensive, scalable enterprise AR platform
 * [Lightship](https://lightship.dev/) - AR SDK that supports depth, physics, occlusions, and semantic segmentation
+* [Poplar Studio](https://poplar.studio/) - Create and deploy 3D and AR experiences for e-commerce and marketing
 * [AUKI](https://www.aukilabs.com/) - Peer-to-peer positioning framework
 * [VRTK](https://github.com/ExtendRealityLtd/VRTK) - Open Source Crossplatform VR Toolkit
 * [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) - Premium Unity Asset for VR Interactions
@@ -501,6 +503,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Maxon](https://www.maxon.net/en/cinema-4d) - Provides 3D Solutions for XR Domain
 * [Blender](https://www.blender.org/) - Free and Open Source 3D Modelling Tool
 * [Niantic](https://nianticlabs.com/?hl=en) - Location-based augmented reality AR games
+* [Poplar Studio](https://poplar.studio/) - Create and deploy 3D and AR experiences for e-commerce and marketing
 
 #### OEM
 
@@ -513,6 +516,8 @@ Solution-oriented links. The same company may have more than one solution.
 * [Apple](https://www.apple.com/) - iPad, iPhone
 * [Varjo](https://varjo.com/) - Makes the highest-immersion virtual and mixed reality products
 * [Valve](https://www.valvesoftware.com/en/) - Valve Index
+* [HP](https://www.hp.com/) - Hewlett-Packard Development Company
+* [Lenovo](https://www.lenovo.com) - Thinkreality series
 * [Mira](https://www.mirareality.com/) - AR headset manufacturer
 * [Google](https://google.com) - Google Glass
 * [Samsung](https://www.samsung.com/us) - HMD Odyssey
@@ -528,6 +533,8 @@ Solution-oriented links. The same company may have more than one solution.
 * [Western Digital](https://www.westerndigital.com/sandisk) - SSDs
 * [UltraLeap](https://www.ultraleap.com/) - Known for: Advanced hand tracking and haptic technology for XR
 * [Shiftall](https://en.shiftall.net/) - A Panasonic company that makes virtual reality (VR) equipment
+* [eSight](https://www.esighteyewear.com/) - Develops wearable medical devices to improve vision for people
+* [Lynx](https://www.lynx-r.com/) - Lynx R1
 
 
 #### Platform & Marketplace
