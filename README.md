@@ -167,6 +167,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 **Upcoming**
 * [Nimo](https://www.nimoplanet.com/) - Multi-screen computer fits in the pocket
 * [Spectacles](https://www.spectacles.com/new-spectacles/) - Next generation AR Spectacles
+* [Visor](https://www.visor.com/) - Spatial computing designed for work
 
 **2023**
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - seamlessly blends digital content with your physical space
