@@ -469,6 +469,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Digital Agencies
 
+* [Dreamspace](https://www.dreamspace.co/) - Transforming market insights to brand impact
 * [Nomtek](https://www.nomtek.com/xr-ar-development) - Nomtek is a world-class Magic Leap development partner
 * [Exyte](https://exyte.com/) - Hire experts and design professionals to design, develop, and deploy your project
 * [Khora](https://khora.com/) - Cutting edge VR and AR experiences within multiple industries
