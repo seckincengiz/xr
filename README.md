@@ -27,6 +27,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - MixedNews AR Category
 * [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
 * [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
+* [XRMust](https://www.xrmust.com/) - XR Magazine
 * [ARInsider](https://arinsider.co/frontpage/) - AR VR News
 * [XRDailyNews/VR](https://xrdailynews.com/en/virtual-reality-vr/) - XR Daily News VR Category
 * [XRDailyNews/AR](https://xrdailynews.com/en/augmented-reality-ar/) - XR Daily News AR Category
