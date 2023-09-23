@@ -18,7 +18,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Blogs
 
-* [VR Scout](https://vrscout.com/) - Latest XR news
 * [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
 * [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
@@ -31,6 +30,9 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [ARInsider](https://arinsider.co/frontpage/) - AR VR News
 * [XRDailyNews/VR](https://xrdailynews.com/en/virtual-reality-vr/) - XR Daily News VR Category
 * [XRDailyNews/AR](https://xrdailynews.com/en/augmented-reality-ar/) - XR Daily News AR Category
+* [XRToday](https://www.xrtoday.com/virtual-reality/) - XRToday VR Category
+* [XRToday](https://www.xrtoday.com/augmented-reality/) - XRToday AR Category
+* [VR Scout](https://vrscout.com/) - Latest XR news
 * [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
 * [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
