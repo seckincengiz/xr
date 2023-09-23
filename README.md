@@ -58,6 +58,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - New Scientist VR Tag
 * [Independent/VR](https://www.independent.co.uk/topic/virtual-reality) - Independent VR Tag
 * [Entrepreneur/VR](https://www.entrepreneur.com/topic/virtual-reality) - Entrepreneur VR Tag
+* [EquelEntry/XR](https://equalentry.com/category/ar-vr-xr/) - Accessibility focused XR Blog
 * [MITTechnologyReview/VR](https://www.technologyreview.com/topic/humans-and-technology/vr/) - MIT Technology Review VR Category
 * [MITTechnologyReview/AR](https://www.technologyreview.com/topic/humans-and-technology/ar/) - MIT Technology Review AR Category
 * [MITTechnologyReview/BCI](https://www.technologyreview.com/topic/humans-and-technology/brain-computer-interface/) - MIT Technology Review BCI Category
