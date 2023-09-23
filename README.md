@@ -467,7 +467,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Innoactive](https://www.innoactive.io/cloud-xr-rendering-streaming) - Cloud XR Solution
 * [Theorem AR Remote Rendering](https://www.theorem.com/theorem-xr/microsoft-azure-remote-rendering) - Microsoft Azure Remote Rendering ARR for HoloLens 2
 
-#### Custom Software Development Service Providers
+#### Digital Agencies
 
 * [Nomtek](https://www.nomtek.com/xr-ar-development) - Nomtek is a world-class Magic Leap development partner
 * [Exyte](https://exyte.com/) - Hire experts and design professionals to design, develop, and deploy your project
@@ -483,6 +483,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [CM&D](https://chocolatemilkdonuts.com/) - Offers you XR experience development service with the latest tech
 * [Saritasa](https://www.saritasa.com/) - AR/VR, and IoT technology solutions
 * [Softengi](https://softengi.com/services/extended-reality/) - Provides XR development services
+* [Insightful 3D](https://www.insightful3d.com/) - Creates XR experiences & digital contents for brands
 
 #### Custom Hardware Development Service Providers
 
