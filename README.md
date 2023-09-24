@@ -239,6 +239,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Trackers
 
+* [Self-Tracking Tracker](https://www.youtube.com/watch?v=9nMBmQtE-DA&ab_channel=HTCVIVE) - Get ready for the launch of self-tracking tracker later this year! 
 * [Vive Wrist Trackers](https://business.vive.com/eu/product/vive-wrist-tracker/) - Lightweight and versatile VR tracker is designed to work with VIVE Focus 3
 * [Vive Facial Tracker](https://www.vive.com/eu/accessory/facial-tracker/) - Capture true-to-life facial expressions and mouth movement with precision
 * [Ultraleap 3Di](https://www.ultraleap.com/product/ultraleap-3di/) - High-performance, ruggedized camera for public installations
