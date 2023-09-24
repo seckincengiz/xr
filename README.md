@@ -178,7 +178,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 **2023**
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - seamlessly blends digital content with your physical space
 * [Immo Air 2](https://inmoglass.com/pages/inmo-ar) - The World's First Wireless Portable AR Glasses
-* [Realwear Navigator 520](https://www.realwear.com/hyperdisplay/) - Business focus standalone AR Glass
 * [Rokid Max](https://global.rokid.com/pages/rokid-max) - Provide a portable entertainment experience
 * [XReal Air](https://www.xreal.com/air/) - Smart Glasses with Massive 201" Micro-OLED Virtual Theater
 * [Viture XR Glass](https://www.viture.com/dashboard?scene=store) - 120inch screen in front of your eyes
