@@ -319,6 +319,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [AR Foundation](https://github.com/Unity-Technologies/arfoundation-samples) - Example content for Unity projects based on AR Foundation
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - Most popular VR SDK
 * [Oculus SDK](https://developer.oculus.com/downloads/) - Samples, and asset packs are built to help you develop your VR app
+* [Unity MoveFast](https://github.com/oculus-samples/Unity-MoveFast) - Interaction SDK for fast-action fitness types of apps
 * [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - Vuforia is a comprehensive, scalable enterprise AR platform
 * [Lightship](https://lightship.dev/) - AR SDK that supports depth, physics, occlusions, and semantic segmentation
