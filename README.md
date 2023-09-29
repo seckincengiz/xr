@@ -267,6 +267,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Full Body VR](https://sandboxvr.com/losangeles/) - Full Body VR Gaming Experience
 * [Surplex](https://comingsoon.higizmos.com/surplex) - Full Body VR Tracking Shoes
 * [Nova 2](https://www.senseglove.com/nova-2/) - Enables users to perceive a sensation of virtual reality objects in the palm of their hand
+* [Bifrost Pulse](https://www.indiegogo.com/projects/bifrost-pulse#/) - The glove that lets you feel virtual reality like never before
 
 #### Treadmills
 
