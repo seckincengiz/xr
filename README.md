@@ -19,48 +19,48 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 #### Blogs
 
 * [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
+* [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
+* [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
 * [Upload VR](https://uploadvr.com/) - Another good XR news source
-* [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
-* [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
-* [Mixed/VR](https://mixed-news.com/en/virtual-reality-news/) - MixedNews VR Category 
-* [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - MixedNews AR Category
-* [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
-* [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
-* [XRMust](https://www.xrmust.com/) - XR Magazine
 * [ARInsider](https://arinsider.co/frontpage/) - AR VR News
 * [XRDailyNews/VR](https://xrdailynews.com/en/virtual-reality-vr/) - XR Daily News VR Category
 * [XRDailyNews/AR](https://xrdailynews.com/en/augmented-reality-ar/) - XR Daily News AR Category
-* [XRToday](https://www.xrtoday.com/virtual-reality/) - XRToday VR Category
-* [XRToday](https://www.xrtoday.com/augmented-reality/) - XRToday AR Category
-* [VR Scout](https://vrscout.com/) - Latest XR news
-* [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
-* [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
-* [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
-* [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - Gizmodo AR Tag
-* [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
-* [Medium/AR](https://medium.com/tag/augmented-reality) - Medium AR Tag
-* [Mashable/VR](https://mashable.com/category/virtual-reality) - Mashable VR Category
-* [Mashable/AR](https://mashable.com/category/augmented-reality) - Mashable AR Category
-* [CNET/VR](https://www.cnet.com/tags/virtual-reality/) - CNET VR Category
-* [CNET/AR](https://www.cnet.com/tags/augmented-reality/) - CNET AR Category
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
+* [Mashable/VR](https://mashable.com/category/virtual-reality) - Mashable VR Category
+* [Mashable/AR](https://mashable.com/category/augmented-reality) - Mashable AR Category
+* [ARPost/VR](https://arpost.co/category/virtual-reality/) - ARPost VR Category
+* [ARPost/AR](https://arpost.co/category/augmented-reality/) - ARPost AR Category
+* [Slasgear/VR](https://www.slashgear.com/category/vr) - Slashgear VR Category
+* [Slasgear/AR](https://www.slashgear.com/category/ar) - Slashgear AR Category
+* [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
+* [Medium/AR](https://medium.com/tag/augmented-reality) - Medium AR Tag
+* [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
+* [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
+* [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
+* [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
+* [CNET/VR](https://www.cnet.com/tags/virtual-reality/) - CNET VR Category
+* [CNET/AR](https://www.cnet.com/tags/augmented-reality/) - CNET AR Category
+* [XRMust](https://www.xrmust.com/) - XR Magazine
+* [XRToday](https://www.xrtoday.com/virtual-reality/) - XRToday VR Category
+* [XRToday](https://www.xrtoday.com/augmented-reality/) - XRToday AR Category
+* [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
+* [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - Gizmodo AR Tag
 * [Wired/VR](https://www.wired.com/search/?q=virtual+reality&sort=score+desc) - Wired VR Category
 * [Wired/AR](https://www.wired.com/search/?q=augmented+reality&sort=score+desc) - Wired AR Category
 * [DigitalTrends/VR](https://www.digitaltrends.com/?s=virtual+reality) - Digital Trends VR Tag
 * [DigitalTrends/AR](https://www.digitaltrends.com/?s=augmented+reality) - Digital Trends AR Tag
 * [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR Category
-* [Slasgear/VR](https://www.slashgear.com/category/vr) - Slashgear VR Category
-* [Slasgear/AR](https://www.slashgear.com/category/ar) - Slashgear AR Category
-* [ARPost/VR](https://arpost.co/category/virtual-reality/) - ARPost VR Category
-* [ARPost/AR](https://arpost.co/category/augmented-reality/) - ARPost AR Category
 * [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
 * [BBC/VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality) - BBC VR Tag
 * [VR/AR Association](https://www.thevrara.com/blog) - VR/AR Association Blog Page
 * [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - New Scientist VR Tag
 * [Independent/VR](https://www.independent.co.uk/topic/virtual-reality) - Independent VR Tag
+* [Independent/AR](https://www.independent.co.uk/topic/augmented-reality) - Independent AR Tag
 * [Entrepreneur/VR](https://www.entrepreneur.com/topic/virtual-reality) - Entrepreneur VR Tag
 * [EquelEntry/XR](https://equalentry.com/category/ar-vr-xr/) - Accessibility focused XR Blog
+* [Mixed/VR](https://mixed-news.com/en/virtual-reality-news/) - MixedNews VR Category 
+* [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - MixedNews AR Category
 
 #### Search & Browse Companies
 
