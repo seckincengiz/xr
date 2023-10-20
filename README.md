@@ -29,16 +29,16 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
 * [Mashable/VR](https://mashable.com/category/virtual-reality) - Mashable VR Category
 * [Mashable/AR](https://mashable.com/category/augmented-reality) - Mashable AR Category
-* [ARPost/VR](https://arpost.co/category/virtual-reality/) - ARPost VR Category
-* [ARPost/AR](https://arpost.co/category/augmented-reality/) - ARPost AR Category
 * [Slasgear/VR](https://www.slashgear.com/category/vr) - Slashgear VR Category
 * [Slasgear/AR](https://www.slashgear.com/category/ar) - Slashgear AR Category
+* [ARPost/VR](https://arpost.co/category/virtual-reality/) - ARPost VR Category
+* [ARPost/AR](https://arpost.co/category/augmented-reality/) - ARPost AR Category
 * [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
 * [Medium/AR](https://medium.com/tag/augmented-reality) - Medium AR Tag
-* [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
-* [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
 * [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
 * [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
+* [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - New Scientist VR Tag
+* [NewScientist/AR](https://www.newscientist.com/article-topic/augmented-reality/) - New Scientist AR Tag
 * [CNET/VR](https://www.cnet.com/tags/virtual-reality/) - CNET VR Category
 * [CNET/AR](https://www.cnet.com/tags/augmented-reality/) - CNET AR Category
 * [XRMust](https://www.xrmust.com/) - XR Magazine
@@ -54,11 +54,12 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
 * [BBC/VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality) - BBC VR Tag
 * [VR/AR Association](https://www.thevrara.com/blog) - VR/AR Association Blog Page
-* [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - New Scientist VR Tag
 * [Independent/VR](https://www.independent.co.uk/topic/virtual-reality) - Independent VR Tag
 * [Independent/AR](https://www.independent.co.uk/topic/augmented-reality) - Independent AR Tag
 * [Entrepreneur/VR](https://www.entrepreneur.com/topic/virtual-reality) - Entrepreneur VR Tag
 * [EquelEntry/XR](https://equalentry.com/category/ar-vr-xr/) - Accessibility focused XR Blog
+* [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
+* [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
 * [Mixed/VR](https://mixed-news.com/en/virtual-reality-news/) - MixedNews VR Category 
 * [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - MixedNews AR Category
 
