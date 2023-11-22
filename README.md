@@ -60,6 +60,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
 * [Mixed/VR](https://mixed-news.com/en/virtual-reality-news/) - MixedNews VR Category 
 * [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - MixedNews AR Category
+* [XR World Weekly](https://xreality.zone/en/) - Newsletter of XR by XReality.Zone
+
 
 #### Search & Browse Companies
 
