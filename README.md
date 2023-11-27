@@ -309,6 +309,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [A-Frame](https://aframe.io/) - A web framework for building 3D/AR/VR experiences
 * [Babylonjs](https://www.babylonjs.com/) - Powerful, beautiful, simple, and open web rendering engine
 * [Bezel](https://bezel.it/) - Create 3D prototypes, 3D animations, design for AR & VR, all within one platform
+* [XR#](https://xrsharp.io/) - A 3D engine to create VR/AR/MR/3D apps using .NET, C#, and XAML, powered by WebXR
 
 #### SDKs
 
