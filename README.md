@@ -284,6 +284,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Immersive AR on a budget](https://hackaday.com/2019/02/18/immersive-augmented-reality-on-a-budget/) - AR glass hack
 * [$22 Virtual Reality Gloves](https://www.youtube.com/watch?v=nmP8iGaPbeI&ab_channel=LucasVRTech) - Making VR haptic gloves
 * [Triton Project](https://atlee19.github.io/TritonProject-Guide/) - It is a 3D printed headset that uses off the shelf hardware to achieve advanced augmented reality
+* [Wisor](https://wisorxr.com) - Open-Source Wireless XR Headset
 * [Project North Start](https://github.com/leapmotion/ProjectNorthStar) - The open-source files comprising Leap Motion's Project North Star AR Headset
 * [Deck-X](https://github.com/CombineReality/Deck-X/) - open-source AR headset based on Leap Motion's Project North Star
 * [Open Source Glasses](https://github.com/TeamOpenSmartGlasses/OpenSourceSmartGlasses) - Open Source smart glasses
@@ -309,6 +310,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [A-Frame](https://aframe.io/) - A web framework for building 3D/AR/VR experiences
 * [Babylonjs](https://www.babylonjs.com/) - Powerful, beautiful, simple, and open web rendering engine
 * [Bezel](https://bezel.it/) - Create 3D prototypes, 3D animations, design for AR & VR, all within one platform
+* [XR#](https://xrsharp.io/) - A 3D engine to create VR/AR/MR/3D apps using .NET, C#, and XAML, powered by WebXR
 
 #### SDKs
 
@@ -413,6 +415,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Ghost Productions](https://ghostproductions.com/medical-vr-virtual-reality/) - Highly Functional Surgical Simulations in Virtual Reality
 * [Oxford Medical Simulation](https://oxfordmedicalsimulation.com/) - Delivers award-winning virtual reality medical and nursing simulation
 * [Sixense Full-Presence System](https://www.sixense.com/solutions/healthcare/) - Provides medical training, treatments, and therapies
+* [OramaVR](https://oramavr.com/) - Helps you to create medical VR training simulations with the help of MAGES SDK toolsets
 * [HoloHuman](https://www.gigxr.com/holohuman) - World’s first 3D human anatomy atlas that uses full-size
 * [HoloPatient](https://www.gigxr.com/holopatient) - Offers Standardized Practice With Life-Like Patients
 * [Osso VR](https://www.ossovr.com/) - Virtual Reality surgical training and assessment platform
