@@ -119,6 +119,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Butterscotch Varifocal](https://www.uploadvr.com/meta-butterscotch-varifocal-prototype-retinal-hands-on/) - Meta's Retinal Resolution Varifocal Prototype Headset
 * [Simula One](https://simulavr.com/) - Standalone VR headset that runs on a Linux-based os called SimulaOSVR Computer
 * [Somnium VR1](https://www.somniumspace.com/) - Next Generation Clarity and FOV in VR & MR
+* [Samsung XR Headset](https://www.uploadvr.com/samsungs-google-powered-headset-could-launch-later-next-year/) - Samsung's XR Headset Is Set To Launch In Late 2024
 
 **2023**
 * [PlayStation VR2](https://www.playstation.com/en-us/ps-vr2/) - stunning 4K HDR visuals, genre-defining games, and unique sensations
