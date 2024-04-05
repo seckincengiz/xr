@@ -120,6 +120,11 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Simula One](https://simulavr.com/) - Standalone VR headset that runs on a Linux-based os called SimulaOSVR Computer
 * [Somnium VR1](https://www.somniumspace.com/) - Next Generation Clarity and FOV in VR & MR
 * [Samsung XR Headset](https://www.uploadvr.com/samsungs-google-powered-headset-could-launch-later-next-year/) - Samsung's XR Headset Is Set To Launch In Late 2024
+* [Visor](https://www.visor.com/) - The world’s smallest 4K headset
+* [Sony MR Headset](https://www.youtube.com/watch?v=tpHrMBiQUCA&ab_channel=CNET) - Sony's CES Event: Everything Revealed in 4 Minutes
+
+**2024**
+* [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - Seamlessly blends digital content with your physical space
 
 **2023**
 * [PlayStation VR2](https://www.playstation.com/en-us/ps-vr2/) - stunning 4K HDR visuals, genre-defining games, and unique sensations
