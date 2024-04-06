@@ -584,7 +584,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Unity Asset Store](https://assetstore.unity.com/) - Provides assets for creating AR/VR content
 * [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/store) - Offers resources for developing in Unreal Engine
 * [Sketchfab](https://sketchfab.com) - Platform for publishing and finding 3D models, often used in AR/VR
-* [CGTrader](Marketplace for 3D models, usable in AR/VR projects) - Marketplace for 3D models, usable in AR/VR projects
+* [CGTrader](https://www.cgtrader.com/) - Marketplace for 3D models, usable in AR/VR projects
 * [TurboSquid](https://www.turbosquid.com/) - Offers 3D models for AR/VR and other applications
 * [WebVR Directory](https://webvr.directory/) - A collection of web-based VR experiences
 
