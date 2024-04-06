@@ -597,6 +597,16 @@ Solution-oriented links. The same company may have more than one solution.
 * [Tencent Cloud](https://www.tencentcloud.com/) - Build, deploy, and scale XR solutions
 * [Agora](https://www.agora.io/en/) - Voice call, video call, live interactive broadcasting, and real-time messaging
 * [AWS](https://aws.amazon.com/blogs/aws/category/ar-vr/amazon-sumerian/) - AWS XR Services
+* [Tencent Cloud](https://www.tencentcloud.com/) - Offers solutions for AR/VR content creation and distribution
+* [IBM Cloud](https://www.ibm.com/cloud) - Provides cloud services that can be leveraged for AR/VR applications
+* [Oracle Cloud](https://www.oracle.com/cloud/) - Supports high-performance computing needs for AR/VR content development
+* [Cloud Flare](https://www.cloudflare.com/) - Enhances AR/VR experiences through improved web delivery speeds
+* [Fastly](https://www.fastly.com/) - CDN services that support the high bandwidth needs of AR/VR content
+* [Akamai Technologies](https://www.akamai.com/) - Provides CDN and cloud services that improve AR/VR delivery
+* [DigitalOcean](https://www.digitalocean.com/) - Cloud infrastructure that can host and support AR/VR applications
+* [Scaleway](https://www.scaleway.com/en/) - Cloud services provider with options beneficial for AR/VR developers
+* [Render](https://render.com/) - Cloud service platform that supports AR/VR application hosting and development
+* [Linode](https://www.linode.com/) - Offers cloud computing resources for hosting AR/VR content
 
 #### Brands
 
