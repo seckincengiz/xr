@@ -504,6 +504,9 @@ Solution-oriented links. The same company may have more than one solution.
 * [Saritasa](https://www.saritasa.com/) - AR/VR, and IoT technology solutions
 * [Softengi](https://softengi.com/services/extended-reality/) - Provides XR development services
 * [Insightful 3D](https://www.insightful3d.com/) - Creates XR experiences & digital contents for brands
+* [WorldViz](https://www.worldviz.com/) - Provides guidance, leadership, and talent to those using the dynamic VR Tech
+* [Skywell](https://skywell.software/) - An AR/VR & 3D development company
+* [Zappar Creative Studio](https://www.zappar.com/creative-studio/) - Creative studio, powered by a one-of-a kind XR ecosystem
 
 #### Custom Hardware Development Service Providers
 
@@ -515,6 +518,10 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Unity](https://unity.com/) - Unity Engine
 * [Epic Games](https://store.epicgames.com/en-US/) - Unreal Engine
+* [Meta Quest](https://www.meta.com/quest/) - Offers SDKs, integrated with its hardware
+* [Valve Corporation](https://www.valvesoftware.com/en/) - Known for SteamVR, a platform for VR content
+* [NVidia](https://developer.nvidia.com/vrworks) - Develops Omnivers and VRWorks, a suite of tools and APIs for VR
+* [Qualcom Spaces](https://spaces.qualcomm.com/) - Snapdragon XR SDKs for AR/VR applications
 * [Godot Organization](https://godotengine.org/) - Most popular free & open source game engine
 * [Adobe](https://www.adobe.com/) - Adobe is steadily making its mark in the AR domain
 * [Apple](https://developer.apple.com/augmented-reality/) - AR Kit SDK
@@ -527,6 +534,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Blender](https://www.blender.org/) - Free and Open Source 3D Modelling Tool
 * [Niantic](https://nianticlabs.com/?hl=en) - Location-based augmented reality AR games
 * [Poplar Studio](https://poplar.studio/) - Create and deploy 3D and AR experiences for e-commerce and marketing
+* [Snap Inc.](https://developers.snap.com/) - Offers AR features within Snapchat with Lens Studio for AR content creation
 
 #### OEM
 
@@ -541,6 +549,8 @@ Solution-oriented links. The same company may have more than one solution.
 * [Valve](https://www.valvesoftware.com/en/) - Valve Index
 * [HP](https://www.hp.com/) - Hewlett-Packard Development Company
 * [Lenovo](https://www.lenovo.com) - Thinkreality series
+* [LG](https://www.lg.com/) - Works on VR headsets and AR applications
+* [Acer](https://www.acer.com/us-en) - Part of the Windows Mixed Reality ecosystem with its own headset
 * [Mira](https://www.mirareality.com/) - AR headset manufacturer
 * [Google](https://google.com) - Google Glass
 * [Samsung](https://www.samsung.com/us) - HMD Odyssey
@@ -558,6 +568,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Shiftall](https://en.shiftall.net/) - A Panasonic company that makes virtual reality (VR) equipment
 * [eSight](https://www.esighteyewear.com/) - Develops wearable medical devices to improve vision for people
 * [Lynx](https://www.lynx-r.com/) - Lynx R1
+* [DPVR](https://www.dpvr.com/en/) - Cutting edge VR device design and manufacturing
 
 
 #### Platform & Marketplace
@@ -570,11 +581,17 @@ Solution-oriented links. The same company may have more than one solution.
 * [Playstation Store](https://store.playstation.com/en-us/pages/latest) -  Offers VR titles specifically tailored for the PS VR headset
 * [Magic Leap World](https://world.magicleap.com/en-us) - The official content platform for Magic Leap, an AR headset
 * [Snap Lense Studio](https://ar.snap.com/lens-studio) - Platform where creators can develop and share AR experiences
+* [Unity Asset Store](https://assetstore.unity.com/) - Provides assets for creating AR/VR content
+* [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/store) - Offers resources for developing in Unreal Engine
+* [Sketchfab](https://sketchfab.com) - Platform for publishing and finding 3D models, often used in AR/VR
+* [CGTrader](Marketplace for 3D models, usable in AR/VR projects) - Marketplace for 3D models, usable in AR/VR projects
+* [TurboSquid](https://www.turbosquid.com/) - Offers 3D models for AR/VR and other applications
+* [WebVR Directory](https://webvr.directory/) - A collection of web-based VR experiences
 
 #### Cloud
 
-* [NVidia Cloud XR]() - Stream XR content from servers to client devices over networks
-* [Microsoft Azure]() - Provides various services and solutions that cater to XR domain
+* [NVidia Cloud XR](https://www.nvidia.com/en-us/design-visualization/solutions/cloud-xr/) - Stream XR content from servers to client devices over networks
+* [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/mixed-reality) - Provides various services and solutions that cater to XR domain
 * [Google Cloud](https://cloud.google.com/) - Cloud computing services provided by Google
 * [Spatial](https://www.spatial.io/) - Technology company specializing in collaborative virtual workspaces
 * [Tencent Cloud](https://www.tencentcloud.com/) - Build, deploy, and scale XR solutions
