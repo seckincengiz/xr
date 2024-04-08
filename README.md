@@ -33,6 +33,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [ARPost/AR](https://arpost.co/category/augmented-reality/) - ARPost AR Category
 * [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
 * [Medium/AR](https://medium.com/tag/augmented-reality) - Medium AR Tag
+* [Immersivewire](https://www.immersivewire.com/) - Provides analyses and insights about the next generation of the internet
+* [Lowpass](https://www.lowpass.cc/) - A newsletter about the future of entertainment and the next big hardware platforms
 * [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
 * [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
 * [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - New Scientist VR Tag
@@ -46,6 +48,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - Gizmodo AR Tag
 * [Wired/VR](https://www.wired.com/search/?q=virtual+reality&sort=score+desc) - Wired VR Category
 * [Wired/AR](https://www.wired.com/search/?q=augmented+reality&sort=score+desc) - Wired AR Category
+* [Skarredghost](https://skarredghost.com/) - A personal blog about XR
 * [DigitalTrends/VR](https://www.digitaltrends.com/?s=virtual+reality) - Digital Trends VR Tag
 * [DigitalTrends/AR](https://www.digitaltrends.com/?s=augmented+reality) - Digital Trends AR Tag
 * [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR Category
