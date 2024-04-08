@@ -18,53 +18,51 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Blogs
 
-* [RoadtoVR](https://www.roadtovr.com/) - Good XR feed
-* [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Techcrunch VR Tag
-* [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Techcrunch AR Tag
-* [Upload VR](https://uploadvr.com/) - Another good XR news source
-* [ARInsider](https://arinsider.co/frontpage/) - AR VR News
-* [Reddit/VR](https://www.reddit.com/r/virtualreality/) - A place to discuss any and all things VR
-* [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - World's largest online community dedicated to AR
-* [Mashable/VR](https://mashable.com/category/virtual-reality) - Mashable VR Category
-* [Mashable/AR](https://mashable.com/category/augmented-reality) - Mashable AR Category
-* [Slasgear/VR](https://www.slashgear.com/category/vr) - Slashgear VR Category
-* [Slasgear/AR](https://www.slashgear.com/category/ar) - Slashgear AR Category
-* [ARPost/VR](https://arpost.co/category/virtual-reality/) - ARPost VR Category
-* [ARPost/AR](https://arpost.co/category/augmented-reality/) - ARPost AR Category
-* [Medium/VR](https://medium.com/tag/virtual-reality) - Medium VR Tag
-* [Medium/AR](https://medium.com/tag/augmented-reality) - Medium AR Tag
-* [Immersivewire](https://www.immersivewire.com/) - Provides analyses and insights about the next generation of the internet
-* [Lowpass](https://www.lowpass.cc/) - A newsletter about the future of entertainment and the next big hardware platforms
-* [80lv/vr](https://80.lv/articles/vr/) - 80 Level VR Tags
-* [80lv/ar](https://80.lv/articles/ar/) - 80 Level AR Tags
-* [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - New Scientist VR Tag
-* [NewScientist/AR](https://www.newscientist.com/article-topic/augmented-reality/) - New Scientist AR Tag
-* [CNET/VR](https://www.cnet.com/tags/virtual-reality/) - CNET VR Category
-* [CNET/AR](https://www.cnet.com/tags/augmented-reality/) - CNET AR Category
-* [XRMust](https://www.xrmust.com/) - XR Magazine
-* [XRToday](https://www.xrtoday.com/virtual-reality/) - XRToday VR Category
-* [XRToday](https://www.xrtoday.com/augmented-reality/) - XRToday AR Category
-* [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Gizmodo VR Tag
-* [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - Gizmodo AR Tag
-* [Wired/VR](https://www.wired.com/search/?q=virtual+reality&sort=score+desc) - Wired VR Category
-* [Wired/AR](https://www.wired.com/search/?q=augmented+reality&sort=score+desc) - Wired AR Category
-* [Skarredghost](https://skarredghost.com/) - A personal blog about XR
-* [DigitalTrends/VR](https://www.digitaltrends.com/?s=virtual+reality) - Digital Trends VR Tag
-* [DigitalTrends/AR](https://www.digitaltrends.com/?s=augmented+reality) - Digital Trends AR Tag
-* [Venturebeat](https://venturebeat.com/category/arvr/) - Venturebeat ARVR Category
-* [Voice of VR](https://voicesofvr.com/) - Podcast interviews featuring the pioneering artists
-* [BBC/VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality) - BBC VR Tag
-* [VR/AR Association](https://www.thevrara.com/blog) - VR/AR Association Blog Page
-* [Independent/VR](https://www.independent.co.uk/topic/virtual-reality) - Independent VR Tag
-* [Independent/AR](https://www.independent.co.uk/topic/augmented-reality) - Independent AR Tag
-* [Entrepreneur/VR](https://www.entrepreneur.com/topic/virtual-reality) - Entrepreneur VR Tag
-* [EquelEntry/XR](https://equalentry.com/category/ar-vr-xr/) - Accessibility focused XR Blog
-* [Verge/VR](https://www.theverge.com/vr-virtual-reality) - The Verge VR Category
-* [Verge/AR](https://www.theverge.com/augmented-reality) - The Verge AR Category
-* [Mixed/VR](https://mixed-news.com/en/virtual-reality-news/) - MixedNews VR Category 
-* [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - MixedNews AR Category
-* [XR World Weekly](https://xreality.zone/en/) - Newsletter of XR by XReality.Zone
-
+* [RoadtoVR](https://www.roadtovr.com/) - Premier source for XR news and reviews
+* [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Cutting-edge VR technology news
+* [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Latest in AR innovations and startups
+* [Upload VR](https://uploadvr.com/) - Comprehensive XR news, with reviews and insights
+* [ARInsider](https://arinsider.co/frontpage/) - Analysis and trends in AR and VR spaces
+* [Reddit/VR](https://www.reddit.com/r/virtualreality/) - Community forum for VR enthusiasts and developers
+* [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - Global AR community for news, discussions, and insights
+* [Mashable/VR](https://mashable.com/category/virtual-reality) - Top source for VR trends, gadgets, and experiences
+* [Mashable/AR](https://mashable.com/category/augmented-reality) - Leading coverage of AR technology and applications
+* [Slasgear/VR](https://www.slashgear.com/category/vr) -  In-depth VR articles and the latest hardware reviews
+* [Slasgear/AR](https://www.slashgear.com/category/ar) - AR news, reviews, and future tech discussions
+* [ARPost/VR](https://arpost.co/category/virtual-reality/) - Diverse VR content including news, reviews, and guides
+* [ARPost/AR](https://arpost.co/category/augmented-reality/) - Insights and updates on AR technology and use cases
+* [Medium/VR](https://medium.com/tag/virtual-reality) - Varied perspectives on VR trends and innovations
+* [Medium/AR](https://medium.com/tag/augmented-reality) - Thought leadership and stories in AR space
+* [Immersivewire](https://www.immersivewire.com/) -  Analyses and insights on immersive technologies
+* [Lowpass](https://www.lowpass.cc/) -  Analyses and insights on immersive technologies
+* [80lv/vr](https://80.lv/articles/vr/) - VR in gaming, art, and design with a creative angle
+* [80lv/ar](https://80.lv/articles/ar/) - Showcasing AR’s impact on art, design, and gaming
+* [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - Science-focused VR developments and research
+* [NewScientist/AR](https://www.newscientist.com/article-topic/augmented-reality/) - AR advancements through a scientific lens
+* [CNET/VR](https://www.cnet.com/tags/virtual-reality/) - Consumer VR news, product reviews, and guides
+* [CNET/AR](https://www.cnet.com/tags/augmented-reality/) - AR tech updates, reviews, and consumer advice
+* [XRMust](https://www.xrmust.com/) - International XR events, news, and film reviews
+* [XRToday](https://www.xrtoday.com/virtual-reality/) - VR industry news, trends, and analysis
+* [XRToday](https://www.xrtoday.com/augmented-reality/) - AR industry news, trends, and analysis
+* [Gizmodo/VR](https://gizmodo.com/tag/virtual-reality) - Latest VR gadgets, games, and tech culture
+* [Gizmodo/AR](https://gizmodo.com/tag/augmented-reality) - AR technology updates, reviews, and culture
+* [Wired/VR](https://www.wired.com/search/?q=virtual+reality&sort=score+desc) - Exploring VR’s impact on culture, industry, and more
+* [Wired/AR](https://www.wired.com/search/?q=augmented+reality&sort=score+desc) - AR innovations reshaping technology and lifestyle
+* [Skarredghost](https://skarredghost.com/) - Personal insights on XR development and trends
+* [DigitalTrends/VR](https://www.digitaltrends.com/?s=virtual+reality) - Emerging VR tech and its influence on digital trends
+* [DigitalTrends/AR](https://www.digitaltrends.com/?s=augmented+reality) - AR technology shaping future digital landscapes
+* [Venturebeat](https://venturebeat.com/category/arvr/) - Deep dives into AR/VR industries and startup ecosystem
+* [Voice of VR](https://voicesofvr.com/) - Interviews with VR pioneers and artistic creators
+* [BBC/VR](https://www.bbc.com/news/topics/cywd23g0wzwt/virtual-reality) - VR storytelling and documentary projects by BBC
+* [VR/AR Association](https://www.thevrara.com/blog) - Advocacy, research, and promotion of VR/AR
+* [Independent/VR](https://www.independent.co.uk/topic/virtual-reality) - Independent takes on VR technology and experiences
+* [Independent/AR](https://www.independent.co.uk/topic/augmented-reality) - Perspectives on AR’s role in tech and society
+* [Entrepreneur/VR](https://www.entrepreneur.com/topic/virtual-reality) - VR innovations driving business and entrepreneurship
+* [EquelEntry/XR](https://equalentry.com/category/ar-vr-xr/) - Advocating accessibility in XR development
+* [Verge/VR](https://www.theverge.com/vr-virtual-reality) - Analytical and in-depth VR technology reviews
+* [Verge/AR](https://www.theverge.com/augmented-reality) - Comprehensive coverage of AR trends and gadgets
+* [Mixed/VR](https://mixed-news.com/en/virtual-reality-news/) - Compilation of VR news, updates, and industry insights
+* [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - Curated AR technology news and developments
 
 #### Search & Browse Companies
 
