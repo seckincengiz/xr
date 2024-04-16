@@ -541,37 +541,37 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### OEM
 
-* [Qualcom](https://www.qualcomm.com/research/extended-reality) - Snapdragon
-* [Nvidia](https://blogs.nvidia.com/) - GPUs
-* [Meta](https://about.facebook.com/meta) - Oculus
-* [HTC](https://www.htc.com/us/) - HTC Vive
-* [Microsoft](https://www.microsoft.com/) - Hololens
-* [Sony](https://www.sony.com/en/) - PlayStation VR
-* [Apple](https://www.apple.com/) - iPad, iPhone
-* [Varjo](https://varjo.com/) - Makes the highest-immersion virtual and mixed reality products
-* [Valve](https://www.valvesoftware.com/en/) - Valve Index
-* [HP](https://www.hp.com/) - Hewlett-Packard Development Company
-* [Lenovo](https://www.lenovo.com) - Thinkreality series
-* [LG](https://www.lg.com/) - Works on VR headsets and AR applications
-* [Acer](https://www.acer.com/us-en) - Part of the Windows Mixed Reality ecosystem with its own headset
-* [Mira](https://www.mirareality.com/) - AR headset manufacturer
-* [Google](https://google.com) - Google Glass
-* [Samsung](https://www.samsung.com/us) - HMD Odyssey
-* [XReal](https://www.xreal.com/) - Produces a wide selection of AR glasses and headsets
-* [NReal](https://www.xreal.com) - A company that makes augmented reality (AR) glasses
-* [Pico Interactive](https://www.picoxr.com/global) - A company that develops and manufactures virtual reality (VR) headsets
-* [Vuzix](https://www.vuzix.com/) - Provides innovative optical products to defense, security, and enterprise
-* [Emagin](https://www.emagin.com/) - The leading US producer of OLED Microdisplays
+* [Qualcom](https://www.qualcomm.com/research/extended-reality) - Develops Snapdragon processors that power advanced mobile XR experiences
+* [Nvidia](https://blogs.nvidia.com/) - Provides high-performance GPUs that are crucial for rendering complex XR environments
+* [Meta](https://about.facebook.com/meta) - Through Oculus, Meta pioneers in VR hardware and platform services
+* [HTC](https://www.htc.com/us/) - Offers the Vive series, a line of high-end VR headsets for immersive VR experiences
+* [Microsoft](https://www.microsoft.com/) - Leads in mixed reality with its Hololens headsets, blending real-world and digital content
+* [Sony](https://www.sony.com/en/) - Extends its gaming console capabilities into virtual reality with the PlayStation VR headset
+* [Apple](https://www.apple.com/) - Integrates AR technologies in its devices, enabling augmented reality applications directly through iOS
+* [Varjo](https://varjo.com/) - Specializes in creating ultra-high resolution VR and XR headsets for professional markets
+* [Valve](https://www.valvesoftware.com/en/) - Produces the Valve Index, a high-fidelity virtual reality headset for gaming and simulations
+* [HP](https://www.hp.com/) -  Involved in the development of VR technologies, including the HP Reverb VR headset
+* [Lenovo](https://www.lenovo.com) - Develops the ThinkReality series of AR and VR solutions geared towards enterprise applications
+* [LG](https://www.lg.com/) - Engages in developing VR headsets and AR applications, enhancing mobile and home entertainment technologies
+* [Acer](https://www.acer.com/us-en) - Participates in the Windows Mixed Reality platform with its own line of VR headsets
+* [Mira](https://www.mirareality.com/) - Manufactures AR headsets aimed at delivering immersive augmented reality experiences
+* [Google](https://google.com) - Innovated with Google Glass, an early entrant into the wearable AR technology space
+* [Samsung](https://www.samsung.com/us) - Offers the HMD Odyssey, a Windows Mixed Reality headset known for its high-resolution displays
+* [XReal](https://www.xreal.com/) - Designs a variety of AR glasses and headsets, catering to different user needs in the AR domain
+* [NReal](https://www.xreal.com) - Focuses on lightweight and stylish augmented reality glasses for consumer applications
+* [Pico Interactive](https://www.picoxr.com/global) - Specializes in creating virtual reality headsets and solutions for both consumers and businesses
+* [Vuzix](https://www.vuzix.com/) - Develops advanced optical products for AR experiences in defense, security, and enterprise sectors
+* [Emagin](https://www.emagin.com/) - A leading US manufacturer of OLED microdisplays used in various high-performance XR applications
+* [Kopin](https://www.kopin.com/) - Provides microdisplay solutions for wearable devices, enhancing visual experiences in XR
+* [Wave Optics](https://waveoptics.ar/) - Designs and develops optical engines for augmented reality devices, improving clarity and performance
+* [Rokid](https://rokid.ai/) - Develops AR glasses known for their advanced AI capabilities and sleek design
+* [Digilens](https://www.digilens.com/) - Focuses on creating holographic waveguide technology for next-generation mobile computing devices
 * [Kopin](https://www.kopin.com/) - Microdisplay Solutions For Wearables
-* [Wave Optics](https://waveoptics.ar/) - Design and develop optical engines for augmented reality smartglasses and headsets
-* [Rokid](https://rokid.ai/) - A manufacturer of AR glasses
-* [Digilens](https://www.digilens.com/) - Next-generation mobile computing devices
-* [Kopin](https://www.kopin.com/) - Microdisplay Solutions For Wearables
-* [Western Digital](https://www.westerndigital.com/sandisk) - SSDs
+* [Western Digital](https://www.westerndigital.com/sandisk) - Supplies SSD that enhance the performance of computing platforms in XR environments
 * [UltraLeap](https://www.ultraleap.com/) - Known for: Advanced hand tracking and haptic technology for XR
 * [Shiftall](https://en.shiftall.net/) - A Panasonic company that makes virtual reality (VR) equipment
 * [eSight](https://www.esighteyewear.com/) - Develops wearable medical devices to improve vision for people
-* [Lynx](https://www.lynx-r.com/) - Lynx R1
+* [Lynx](https://www.lynx-r.com/) - Lynx R1 a standalone MR headset designed for both consumer and business applications
 * [DPVR](https://www.dpvr.com/en/) - Cutting edge VR device design and manufacturing
 * [Goertek](https://www.goertek.com/en/index.html) - Producing various “optical solutions” for the XR landscape
 * [Lumus](https://lumusvision.com/products/) - Produces lightweight and ergonomic AR glasses and lenses
