@@ -557,6 +557,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Mira](https://www.mirareality.com/) - AR headset manufacturer
 * [Google](https://google.com) - Google Glass
 * [Samsung](https://www.samsung.com/us) - HMD Odyssey
+* [XReal](https://www.xreal.com/) - Produces a wide selection of AR glasses and headsets
 * [NReal](https://www.xreal.com) - A company that makes augmented reality (AR) glasses
 * [Pico Interactive](https://www.picoxr.com/global) - A company that develops and manufactures virtual reality (VR) headsets
 * [Vuzix](https://www.vuzix.com/) - Provides innovative optical products to defense, security, and enterprise
@@ -572,6 +573,10 @@ Solution-oriented links. The same company may have more than one solution.
 * [eSight](https://www.esighteyewear.com/) - Develops wearable medical devices to improve vision for people
 * [Lynx](https://www.lynx-r.com/) - Lynx R1
 * [DPVR](https://www.dpvr.com/en/) - Cutting edge VR device design and manufacturing
+* [Goertek](https://www.goertek.com/en/index.html) - Producing various “optical solutions” for the XR landscape
+* [Lumus](https://lumusvision.com/products/) - Produces lightweight and ergonomic AR glasses and lenses
+* [Third Eye](https://www.thirdeyegen.com/) - Produces both software solutions and hardware for the XR Domain
+* [Toshiba](https://www.toshiba.com/tai/) - Produces AR glasses for enterprise users
 
 
 #### Platform & Marketplace
