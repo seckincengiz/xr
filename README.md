@@ -552,7 +552,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Valve](https://www.valvesoftware.com/en/) - Produces the Valve Index, a high-fidelity virtual reality headset for gaming and simulations
 * [HP](https://www.hp.com/) -  Involved in the development of VR technologies, including the HP Reverb VR headset
 * [Lenovo](https://www.lenovo.com) - Develops the ThinkReality series of AR and VR solutions geared towards enterprise applications
-* [LG](https://www.lg.com/) - Engages in developing VR headsets and AR applications, enhancing mobile and home entertainment technologies
+* [LG](https://www.lg.com/) - Engages in developing VR headsets and AR applications
 * [Acer](https://www.acer.com/us-en) - Participates in the Windows Mixed Reality platform with its own line of VR headsets
 * [Mira](https://www.mirareality.com/) - Manufactures AR headsets aimed at delivering immersive augmented reality experiences
 * [Google](https://google.com) - Innovated with Google Glass, an early entrant into the wearable AR technology space
@@ -563,7 +563,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Vuzix](https://www.vuzix.com/) - Develops advanced optical products for AR experiences in defense, security, and enterprise sectors
 * [Emagin](https://www.emagin.com/) - A leading US manufacturer of OLED microdisplays used in various high-performance XR applications
 * [Kopin](https://www.kopin.com/) - Provides microdisplay solutions for wearable devices, enhancing visual experiences in XR
-* [Wave Optics](https://waveoptics.ar/) - Designs and develops optical engines for augmented reality devices, improving clarity and performance
+* [Wave Optics](https://waveoptics.ar/) - Designs and develops optical engines for AR devices, improving clarity and performance
 * [Rokid](https://rokid.ai/) - Develops AR glasses known for their advanced AI capabilities and sleek design
 * [Digilens](https://www.digilens.com/) - Focuses on creating holographic waveguide technology for next-generation mobile computing devices
 * [Kopin](https://www.kopin.com/) - Microdisplay Solutions For Wearables
