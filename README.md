@@ -23,6 +23,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Latest in AR innovations and startups
 * [Upload VR](https://uploadvr.com/) - Comprehensive XR news, with reviews and insights
 * [ARInsider](https://arinsider.co/frontpage/) - Analysis and trends in AR and VR spaces
+* [Auganix](https://www.auganix.org/) - An authoritative online source for the latest news, analysis, and reports on XR Industry
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - Community forum for VR enthusiasts and developers
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - Global AR community for news, discussions, and insights
 * [Mashable/VR](https://mashable.com/category/virtual-reality) - Top source for VR trends, gadgets, and experiences
@@ -73,6 +74,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Business](https://www.business.com/) - Resources on finance, marketing, HR and more
 * [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
 * [The Manifest](https://themanifest.com/virtual-reality/companies) - Top 100 AR/VR Development Companies
+* [Auganix HUD](https://www.auganix.org/hud/) - The Auganix HUD can be used to find detailed information on AR and VR companies
 
 #### Youtube Channels
 
