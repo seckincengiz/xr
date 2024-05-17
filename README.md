@@ -263,6 +263,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Accessories
 
+* [YogesVR](https://yogesvr.com/) - Accessories including power bank, wireless charger, oculus accessories
 * [hig-m4](https://www.higvr.com/products/hig-m4) - HIG-M4 is a simulation gun stock designed for VR platform shooting games
 * [Kiwidesign Face Cushion](https://www.kiwidesign.com/products/facial-interface) - Facial Interface Compatible with Quest 2
 * [VR Cable Pulley](https://www.kiwidesign.com/products/vr-cable-management) - Silent VR Cable Management Pulley System
