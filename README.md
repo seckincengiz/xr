@@ -580,6 +580,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Lumus](https://lumusvision.com/products/) - Produces lightweight and ergonomic AR glasses and lenses
 * [Third Eye](https://www.thirdeyegen.com/) - Produces both software solutions and hardware for the XR Domain
 * [Toshiba](https://www.toshiba.com/tai/) - Produces AR glasses for enterprise users
+* [Garmin](https://www.garmin.com/) - Designs and manufactures wearable technology across various sectors
 
 
 #### Platform & Marketplace
