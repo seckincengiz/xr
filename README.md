@@ -264,6 +264,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Accessories
 
+* [VIVE USB-C Dock](https://www.vive.com/us/accessory/vive-usb-c-dock-5-ports/) - Keep your standalone VR trackers ready for action with this 5-in-1 docking station
 * [YogesVR](https://yogesvr.com/) - Accessories including power bank, wireless charger, oculus accessories
 * [hig-m4](https://www.higvr.com/products/hig-m4) - HIG-M4 is a simulation gun stock designed for VR platform shooting games
 * [Kiwidesign Face Cushion](https://www.kiwidesign.com/products/facial-interface) - Facial Interface Compatible with Quest 2
