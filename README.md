@@ -189,6 +189,9 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Xiaomi Wireless AR](https://www.youtube.com/watch?v=_B5Zgyq4EfM&ab_channel=Xiaomi) - Xiaomi Wireless AR Glass Discovery Edition
 * [Sightful Spacetop](https://www.sightful.com/) - The AR laptop for work
 
+**2024**
+* [XRAI AR1](https://xrai.glass/ar-one/) - See the conversation Real-time subtitles in front of your eyes
+
 **2023**
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - seamlessly blends digital content with your physical space
 * [Immo Air 2](https://inmoglass.com/pages/inmo-ar) - The World's First Wireless Portable AR Glasses
