@@ -519,6 +519,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [WorldViz](https://www.worldviz.com/) - Provides guidance, leadership, and talent to those using the dynamic VR Tech
 * [Skywell](https://skywell.software/) - An AR/VR & 3D development company
 * [Zappar Creative Studio](https://www.zappar.com/creative-studio/) - Creative studio, powered by a one-of-a kind XR ecosystem
+* [SVAIY ART](https://svaiy.com/) - VR Game Development Company | 3D Services
 
 #### Custom Hardware Development Service Providers
 
