@@ -495,6 +495,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render HQ, interactive 3D content, and stream it to your devices in real-time
 * [NVidia Cloud XR](https://www.nvidia.com/en-us/design-visualization/solutions/cloud-xr/) - Streaming for VR and AR
+* [Vagon](https://vagon.io/users/cloud-gaming) - Next-Level Cloud Gaming 60FPS & 4K Streaming on Any Device
 * [Innoactive](https://www.innoactive.io/cloud-xr-rendering-streaming) - Cloud XR Solution
 * [Theorem AR Remote Rendering](https://www.theorem.com/theorem-xr/microsoft-azure-remote-rendering) - Microsoft Azure Remote Rendering ARR for HoloLens 2
 * [Hololight Stream](https://hololight.com/solutions/augmented-reality-vr-streaming-industrial-apps/) - Streaming SDK for XR Devices
