@@ -281,6 +281,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Wearables
 
+* [Haptx](https://haptx.com/) - Built with enterprise markets in mind to bring best-in-class realism to training
 * [Manus VR](https://www.manus-vr.com/) - VR Gloves
 * [Sense Glove](https://www.senseglove.com/) - The New Sense for VR Training
 * [BHaptics](https://www.bhaptics.com/tactsuit/tactsuit-x40) - Haptic vest that packs 40 individually controllable vibro-tactile motors
