@@ -378,6 +378,7 @@ Solution-oriented links. The same company may have more than one solution.
 #### Training & Simulation
 
 * [Zspace](https://zspace.com/) - Focusing on AR/VR solutions for education and enterprise
+* [Loft Dynamics](https://www.loftdynamics.com/) - Redefining flight training and simulation since 2016
 * [Microsoft Mesh](https://www.microsoft.com/en-us/mesh) - Enables presence and shared experiences from anywhere
 * [Virtalis](https://www.virtalis.com/) - Put your digital assets in the hands of your entire organization
 * [Acadicus](https://acadicus.com/) - Provides a library of ready-to-use virtual simulation content for training and education
