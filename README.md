@@ -380,6 +380,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [SynergyXR](https://synergyxr.com/) - Lets your experts build, manage, and scale immersive learning experiences
 * [Zspace](https://zspace.com/) - Focusing on AR/VR solutions for education and enterprise
 * [Engage](https://engagevr.io/) - Creative Augmented and Virtual Reality Solutions for Students
+* [Avantis](https://www.avantiseducation.com/) - Innovative solutions designed solely for education
 * [Loft Dynamics](https://www.loftdynamics.com/) - Redefining flight training and simulation since 2016
 * [Microsoft Mesh](https://www.microsoft.com/en-us/mesh) - Enables presence and shared experiences from anywhere
 * [Virtalis](https://www.virtalis.com/) - Put your digital assets in the hands of your entire organization
@@ -509,10 +510,12 @@ Solution-oriented links. The same company may have more than one solution.
 * [Hololight Stream](https://hololight.com/solutions/augmented-reality-vr-streaming-industrial-apps/) - Streaming SDK for XR Devices
 
 #### Digital Agencies
- 
+
+* [4Experience](https://4experience.co/) - AR/VR Development Company
 * [Dreamspace](https://www.dreamspace.co/) - Transforming market insights to brand impact
 * [Metavrse](https://metavrse.com/solutions/) - Metaverse creation for everyone
 * [Yordstudio](https://yordstudio.com/) - Award-winning studio led by a world-class XR Design and Development team
+* [Digitalnauts](https://www.digitalnauts.co.uk/) - Supporting and creating immersive experiences for deployment at scale
 * [Viroo](https://www.virtualwareco.com/viroo/) - VIROO makes VR accessible to organisations of all sizes and sectors
 * [Nomtek](https://www.nomtek.com/xr-ar-development) - Nomtek is a world-class Magic Leap development partner
 * [Exyte](https://exyte.com/) - Hire experts and design professionals to design, develop, and deploy your project
