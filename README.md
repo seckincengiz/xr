@@ -90,6 +90,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Virtual Chap](https://www.youtube.com/@VirtualChap2023) - Contents from VR to AR and everything in-between
 * [Eat Sleep VR](https://www.youtube.com/@EatSleepVR) -  Helps beginners get the most out of their headsets
 * [Beardo Benjo](https://www.youtube.com/@BeardoBenjo) - Weird, informative and fun VR content almost daily
+* [BMFVR](https://www.youtube.com/@BMFVR) - Focuses on VR game reviews, tutorials, and gameplay
+* [Dilmer Valecillos](https://www.youtube.com/@dilmerv) - Focuses on XR Development
 
 #### Communities
 
