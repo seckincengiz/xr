@@ -398,6 +398,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Avantis Education](https://www.avantiseducation.com/) - Bringing VR and AR to schools
 * [Ludus VR Training](https://ludusglobal.com/en/training) - Ludus is the ultimate platform for safety training
 * [Collective Training System](https://www.kratosdefense.com/systems-and-platforms/training-systems/simulation-systems/air/collective-training-systems) - Reconfigurable, Virtual Collective Training System (RVCTS)
+* [VictoryXR](https://www.victoryxr.com/) - Where Online Learning Meets Hands-on Learning
 
 #### Remote Meeting, Work & Assistant
 
