@@ -377,7 +377,9 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Training & Simulation
 
+* [SynergyXR](https://synergyxr.com/) - Lets your experts build, manage, and scale immersive learning experiences
 * [Zspace](https://zspace.com/) - Focusing on AR/VR solutions for education and enterprise
+* [Engage](https://engagevr.io/) - Creative Augmented and Virtual Reality Solutions for Students
 * [Loft Dynamics](https://www.loftdynamics.com/) - Redefining flight training and simulation since 2016
 * [Microsoft Mesh](https://www.microsoft.com/en-us/mesh) - Enables presence and shared experiences from anywhere
 * [Virtalis](https://www.virtalis.com/) - Put your digital assets in the hands of your entire organization
@@ -400,8 +402,10 @@ Solution-oriented links. The same company may have more than one solution.
 * [Collective Training System](https://www.kratosdefense.com/systems-and-platforms/training-systems/simulation-systems/air/collective-training-systems) - Reconfigurable, Virtual Collective Training System (RVCTS)
 * [VictoryXR](https://www.victoryxr.com/) - Where Online Learning Meets Hands-on Learning
 
-#### Remote Meeting, Work & Assistant
+#### Collaboration
 
+* [Cavrnus](https://www.cavrnus.com/) - Drag-and-drop Collaboration
+* [Virbela](https://www.virbela.com/) - Brings people together to work, learn, meet, and train
 * [Microsoft Mesh](https://www.microsoft.com/en-us/mesh) - Enables presence and shared experiences from anywhere
 * [Spatial](https://spatial.io/) - Popular cross-platform XR meeting app
 * [MeetinVR](https://www.meetinvr.com/) - Optimized for exceptional collaboration
@@ -505,8 +509,11 @@ Solution-oriented links. The same company may have more than one solution.
 * [Hololight Stream](https://hololight.com/solutions/augmented-reality-vr-streaming-industrial-apps/) - Streaming SDK for XR Devices
 
 #### Digital Agencies
-
+ 
 * [Dreamspace](https://www.dreamspace.co/) - Transforming market insights to brand impact
+* [Metavrse](https://metavrse.com/solutions/) - Metaverse creation for everyone
+* [Yordstudio](https://yordstudio.com/) - Award-winning studio led by a world-class XR Design and Development team
+* [Viroo](https://www.virtualwareco.com/viroo/) - VIROO makes VR accessible to organisations of all sizes and sectors
 * [Nomtek](https://www.nomtek.com/xr-ar-development) - Nomtek is a world-class Magic Leap development partner
 * [Exyte](https://exyte.com/) - Hire experts and design professionals to design, develop, and deploy your project
 * [Khora](https://khora.com/) - Cutting edge VR and AR experiences within multiple industries
