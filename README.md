@@ -185,6 +185,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 ### AR Headsets & Glasses
 
 **Upcoming**
+* [Orion](https://www.youtube.com/watch?v=2CJsnyS8u3c&t=1s&ab_channel=MetaQuest) - Orion, Explained
 * [Nimo](https://www.nimoplanet.com/) - Multi-screen computer fits in the pocket
 * [Spectacles](https://www.spectacles.com/new-spectacles/) - Next generation AR Spectacles
 * [Visor](https://www.visor.com/) - Spatial computing designed for work
