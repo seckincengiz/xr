@@ -13,6 +13,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [What is mixed reality?](https://www.youtube.com/watch?v=P_I873tL3jw&ab_channel=BernardMarr) - A Simple explanation for anyone
 * [History of Virtual Reality](https://www.youtube.com/watch?v=43mA_ypfwKg&ab_channel=GameSpot) - From Original Retro to Oculus Rift
 * [How does VR actually work?](https://www.wareable.com/vr/how-does-vr-work-explained) - Here's how the virtual reality magic happens
+* [How can I play PC games on VR](https://www.youtube.com/watch?v=4ccaX8Hr1JU&ab_channel=BeardoBenjo) -  Transform your favorite Unreal Engine games into 6DOF VR experiences
 
 ### NEWS SOURCES
 
