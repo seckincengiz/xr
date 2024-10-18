@@ -570,6 +570,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Niantic](https://nianticlabs.com/?hl=en) - Location-based augmented reality AR games
 * [Poplar Studio](https://poplar.studio/) - Create and deploy 3D and AR experiences for e-commerce and marketing
 * [Snap Inc.](https://developers.snap.com/) - Offers AR features within Snapchat with Lens Studio for AR content creation
+* [Infinite Reality](https://www.theinfinitereality.com/) - Offers immersive and interactive 3D technologies for global brands and audiences
 
 #### OEM
 
