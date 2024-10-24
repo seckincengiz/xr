@@ -614,12 +614,12 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Standards & Frameworks
 
-* [Khronos Group](https://www.khronos.org/) - Develops open standards for graphics, XR, parallel computing, including OpenXR, Vulkan, and WebGL
+* [Khronos Group](https://www.khronos.org/) - Develops open standards for graphics, including OpenXR, Vulkan, and WebGL
 * [OpenXR](https://www.khronos.org/openxr/) - Making XR applications portable across devices
 * [OpenGL](https://www.opengl.org/) - A cross-language, multi-platform API for rendering 2D and 3D vector graphics
 * [W3C Immersive Web Working Group](https://www.w3.org/immersive-web/) - Develops standards and APIs for VR and AR on the web, including WebXR
 * [glTF](https://www.khronos.org/gltf/) - A Khronos Group open standard for efficient transmission and loading of 3D models
-* [IEEE VR and AR Standards](https://standards.ieee.org/) - Various VR/AR-related standards, such as device interoperability and tracking systems
+* [IEEE VR and AR Standards](https://standards.ieee.org/) - XR-related standards, such as device interoperability and tracking systems
 * [X3D](https://www.web3d.org/) - An open standard for 3D content on the web, which supports real-time VR and AR experiences
 * [OpenCV](https://opencv.org/) - An open-source computer vision and machine learning software library
 
