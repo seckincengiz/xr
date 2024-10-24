@@ -19,12 +19,12 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Blogs
 
+* [Auganix](https://www.auganix.org/) - An authoritative online source for the latest news, analysis, and reports on XR Industry
 * [RoadtoVR](https://www.roadtovr.com/) - Premier source for XR news and reviews
 * [Techcrunch/VR](https://techcrunch.com/tag/virtual-reality/) - Cutting-edge VR technology news
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Latest in AR innovations and startups
 * [Upload VR](https://uploadvr.com/) - Comprehensive XR news, with reviews and insights
 * [ARInsider](https://arinsider.co/frontpage/) - Analysis and trends in AR and VR spaces
-* [Auganix](https://www.auganix.org/) - An authoritative online source for the latest news, analysis, and reports on XR Industry
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - Community forum for VR enthusiasts and developers
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - Global AR community for news, discussions, and insights
 * [Mashable/VR](https://mashable.com/category/virtual-reality) - Top source for VR trends, gadgets, and experiences
