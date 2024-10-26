@@ -196,6 +196,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Journey Lens](https://www.phantomtech.io/) - The world’s first smart glasses to improve your focus and wellbeing
 
 **2024**
+* [TCL Rayneo X2](https://www.rayneo.com/products/tcl-rayneo-x2) - First standalone AR Glass
 * [XRAI AR1](https://xrai.glass/ar-one/) - See the conversation Real-time subtitles in front of your eyes
 
 **2023**
