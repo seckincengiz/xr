@@ -385,6 +385,7 @@ Solution-oriented links. The same company may have more than one solution.
 #### Training & Simulation
 
 * [SynergyXR](https://synergyxr.com/) - Lets your experts build, manage, and scale immersive learning experiences
+* [Luminous XR FLOW](https://www.luminousxr.com/) - Embrace next-generation learning and development with VR training
 * [Zspace](https://zspace.com/) - Focusing on AR/VR solutions for education and enterprise
 * [Engage](https://engagevr.io/) - Creative Augmented and Virtual Reality Solutions for Students
 * [Avantis](https://www.avantiseducation.com/) - Innovative solutions designed solely for education
