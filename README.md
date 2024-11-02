@@ -508,6 +508,10 @@ Solution-oriented links. The same company may have more than one solution.
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - A comprehensive, scalable enterprise AR platform
 * [Wikitude](https://www.wikitude.com/) - Has been empowering businesses with innovative AR technology since 2008
 
+#### Testing
+
+* [gamedriver](https://gamedriver.io/) - Automated Playtesting for xR and Video Games
+
 #### Cloud XR, Remote Rendering & Streaming
 
 * [Azure Remote Rendering](https://azure.microsoft.com/en-us/services/remote-rendering/) - Render HQ, interactive 3D content, and stream it to your devices in real-time
