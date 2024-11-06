@@ -25,6 +25,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Techcrunch/AR](https://techcrunch.com/tag/augmented-reality/) - Latest in AR innovations and startups
 * [Upload VR](https://uploadvr.com/) - Comprehensive XR news, with reviews and insights
 * [XR Headlines](https://xrheadlines.com/) - Provides news on XR, VR, and AR technologies
+* [XR Update](https://xrupdate.com/) - A news site dedicated to covering the latest developments in XR
 * [ARInsider](https://arinsider.co/frontpage/) - Analysis and trends in AR and VR spaces
 * [Reddit/VR](https://www.reddit.com/r/virtualreality/) - Community forum for VR enthusiasts and developers
 * [Reddit/AR](https://www.reddit.com/r/augmentedreality/) - Global AR community for news, discussions, and insights
