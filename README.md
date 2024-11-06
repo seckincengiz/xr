@@ -137,6 +137,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 **2024**
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - Seamlessly blends digital content with your physical space
 * [Oculus Quest 3S](https://about.fb.com/news/2024/09/meta-quest-3s-our-most-affordable-mixed-reality-headset/) - Meta's most affordable MR headset
+* [Pico 4 Ultra](https://www.picoxr.com/global/products/pico4-ultra) - Designed for Comfort All Day Long
 * [Meganex](https://en.shiftall.net/products/meganex) - An ultra-lightweight 5.2K VR headset compatible with SteamVR
 
 **2023**
