@@ -452,6 +452,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Medical
 
+* [Fundamental Surgery](https://fundamentalsurgery.com/) - Leading VR training solutions to accelerate adoption and safe use of medical devices
 * [Medicalholodeck](https://www.medicalholodeck.com/en/) -  is the platform for medical teamwork in virtual reality (VR)
 * [Surgical Theater](https://surgicaltheater.net/) - Seamlessly integrating patient-specific surgical planning and navigation
 * [Ghost Productions](https://ghostproductions.com/medical-vr-virtual-reality/) - Highly Functional Surgical Simulations in Virtual Reality
