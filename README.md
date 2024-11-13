@@ -198,6 +198,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Sightful Spacetop](https://www.sightful.com/) - The AR laptop for work
 * [Journey Lens](https://www.phantomtech.io/) - The world’s first smart glasses to improve your focus and wellbeing
 * [Spacetop](https://www.sightful.com/) - The AR software engine for the AI PC
+* [Ocutrxtech OcuLenz](https://www.ocutrxtech.com/) - A revolutionary AR/XR headset for a range of uses
 
 **2024**
 * [TCL Rayneo X2](https://www.rayneo.com/products/tcl-rayneo-x2) - First standalone AR Glass
