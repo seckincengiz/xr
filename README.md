@@ -635,6 +635,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [X3D](https://www.web3d.org/) - An open standard for 3D content on the web, which supports real-time VR and AR experiences
 * [OpenCV](https://opencv.org/) - An open-source computer vision and machine learning software library
 * [VRM Consortium](https://vrm-consortium.org/en/) - Platform-independent file format designed for use with 3D characters and avatars
+* [Goertek](https://www.goertek.com/) - Key partner in standardizing XR device manufacturing through Qualcomm's XR Accelerator Program
 
 
 #### Platform & Marketplace
