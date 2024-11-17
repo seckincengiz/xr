@@ -43,8 +43,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [80lv/ar](https://80.lv/articles/ar/) - Showcasing AR’s impact on art, design, and gaming
 * [NewScientist/VR](https://www.newscientist.com/article-topic/virtual-reality/) - Science-focused VR developments and research
 * [NewScientist/AR](https://www.newscientist.com/article-topic/augmented-reality/) - AR advancements through a scientific lens
-* [CNET/VR](https://www.cnet.com/tags/virtual-reality/) - Consumer VR news, product reviews, and guides
-* [CNET/AR](https://www.cnet.com/tags/augmented-reality/) - AR tech updates, reviews, and consumer advice
 * [XRMust](https://www.xrmust.com/) - International XR events, news, and film reviews
 * [XRToday](https://www.xrtoday.com/virtual-reality/) - VR industry news, trends, and analysis
 * [XRToday](https://www.xrtoday.com/augmented-reality/) - AR industry news, trends, and analysis
