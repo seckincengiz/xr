@@ -67,6 +67,29 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Mixed/VR](https://mixed-news.com/en/virtual-reality-news/) - Compilation of VR news, updates, and industry insights
 * [Mixed/AR](https://mixed-news.com/en/augmented-reality-news/) - Curated AR technology news and developments
 
+#### YouTube Channels
+
+* [AWE](https://www.youtube.com/user/AugmentedRealityOrg/videos) - Augmented World Expo is the world's largest AR & VR conference and expo
+* [UploadVR](https://www.youtube.com/c/Uploadvr) - VR news source bringing you reviews, gameplay, streams & more
+* [ThrillSeeker](https://www.youtube.com/c/ThrillSeekerVR/about) - Channel dedicated to spreading Virtual Reality and Augmented reality
+* [Virtual Reality Oasis](https://www.youtube.com/@VirtualRealityOasis) - Channel dedicated to share VR content
+* [Cas and Chary VR](https://www.youtube.com/@CasandChary) - A couple passionate about VR, AR, and beyond
+* [MRTV](https://www.youtube.com/c/mixedrealityTV/featured) - News, reviews and tutorials about AR, VR
+* [Tyriel Wood - VR Tech](https://www.youtube.com/c/Tyrielwood) - The Tech VR/AR YouTube Channel
+* [Nathie](https://www.youtube.com/nathie) - Channel is about VR, haptic suits and gaming in general
+* [SadlyItsBradley](https://www.youtube.com/@SadlyItsBradley) - Showcases what he believe is the best in XR
+* [Virtual Chap](https://www.youtube.com/@VirtualChap2023) - Contents from VR to AR and everything in-between
+* [Eat Sleep VR](https://www.youtube.com/@EatSleepVR) -  Helps beginners get the most out of their headsets
+* [Beardo Benjo](https://www.youtube.com/@BeardoBenjo) - Weird, informative and fun VR content almost daily
+* [BMFVR](https://www.youtube.com/@BMFVR) - Focuses on VR game reviews, tutorials, and gameplay
+* [Dilmer Valecillos](https://www.youtube.com/@dilmerv) - Focuses on XR Development
+* [A Wolf in VR](https://www.youtube.com/@AWolfinVR) - Showcasing VR gameplay with commentary
+* [The Mysticle](https://www.youtube.com/@TheMysticle) - Covering the latest in VR technology, tutorials on VR setups
+* [Ben Plays VR](https://www.youtube.com/@BenPlaysVR) - Provides VR gameplay videos, reviews, and helpful tips
+* [Lipnox VR](https://www.youtube.com/@LipnoxVR) - Offers VR game reviews, gameplay videos
+* [PowerOnVR](https://www.youtube.com/@PowerOnVR) - Focuses on reviewing games and VR Hardware
+* [Rhys Da King VR](https://www.youtube.com/@RhysDaKingVR) - Focusing on VR contents
+
 #### Search & Browse Companies
 
 * [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them
@@ -77,23 +100,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [VR/AR Association](https://thedirectory.thevrara.com/) - The VR/AR Directory, 4500 vendors and brands registered
 * [The Manifest](https://themanifest.com/virtual-reality/companies) - Top 100 AR/VR Development Companies
 * [Auganix HUD](https://www.auganix.org/hud/) - The Auganix HUD can be used to find detailed information on AR and VR companies
-
-#### Youtube Channels
-
-* [AWE](https://www.youtube.com/user/AugmentedRealityOrg/videos) - Augmented World Expo is the world's largest AR & VR conference and expo
-* [UploadVR](https://www.youtube.com/c/Uploadvr) - VR news source bringing you reviews, gameplay, streams & more
-* [ThrillSeeker](https://www.youtube.com/c/ThrillSeekerVR/about) - Channel dedicated to spreading Virtual Reality and Augmented reality
-* [Virtual Reality Oasis](https://www.youtube.com/@VirtualRealityOasis) - Channel dedicated to share VR content
-* [Cas and Chary VR](https://www.youtube.com/@CasandChary) - a couple passionate about VR, AR, and beyond
-* [MRTV](https://www.youtube.com/c/mixedrealityTV/featured) - news, reviews and tutorials about AR, VR
-* [Tyriel Wood - VR Tech](https://www.youtube.com/c/Tyrielwood) - The Tech VR/AR YouTube Channel
-* [Nathie](https://www.youtube.com/nathie) - Channel is about VR, haptic suits and gaming in general
-* [SadlyItsBradley](https://www.youtube.com/@SadlyItsBradley) - Showcases what he believe is the best in XR
-* [Virtual Chap](https://www.youtube.com/@VirtualChap2023) - Contents from VR to AR and everything in-between
-* [Eat Sleep VR](https://www.youtube.com/@EatSleepVR) -  Helps beginners get the most out of their headsets
-* [Beardo Benjo](https://www.youtube.com/@BeardoBenjo) - Weird, informative and fun VR content almost daily
-* [BMFVR](https://www.youtube.com/@BMFVR) - Focuses on VR game reviews, tutorials, and gameplay
-* [Dilmer Valecillos](https://www.youtube.com/@dilmerv) - Focuses on XR Development
 
 #### Communities
 
