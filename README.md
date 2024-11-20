@@ -35,7 +35,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Slasgear/AR](https://www.slashgear.com/category/ar) - AR news, reviews, and future tech discussions
 * [ARPost/VR](https://arpost.co/category/virtual-reality/) - Diverse VR content including news, reviews, and guides
 * [ARPost/AR](https://arpost.co/category/augmented-reality/) - Insights and updates on AR technology and use cases
-* [WEF/XR](https://www.weforum.org/search/?query=AR%2CVR%2CXR) - Explore the impact of XR on global industries
+* [WEF/XR](https://www.weforum.org/search/?query=XR%20OR%20AR%20OR%20VR%20OR%20MR) - Explore the impact of XR on global industries
 * [Medium/VR](https://medium.com/tag/virtual-reality) - Varied perspectives on VR trends and innovations
 * [Medium/AR](https://medium.com/tag/augmented-reality) - Thought leadership and stories in AR space
 * [Immersivewire](https://www.immersivewire.com/) -  Analyses and insights on immersive technologies
