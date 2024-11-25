@@ -480,7 +480,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [ShapeXR](https://www.shapesxr.com/) - Spatial Design for Everyone
 * [Gravity Sketch](https://www.gravitysketch.com/) - A 3D design and prototyping tool for immersive experiences
 * [tvori](https://tvori.co/) - Create animated stories and prototype ideas in Virtual Reality
-* [Adobe Aero](https://www.adobe.com/products/aero.html) - Adobe Aero
+* [Adobe Aero](https://www.adobe.com/products/aero.html) - Adobe's tool for designing AR experiences
 
 #### Art & Design
 
