@@ -472,7 +472,15 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Navigation
 
-* [Dent Reality](https://www.dentreality.com/) - The digital layer for the physical world
+* [Dent Reality](https://www.dentreality.com/) - A collaborative XR design and prototyping tool for VR and AR experiences
+
+
+#### UI/UX Design
+
+* [ShapeXR](https://www.shapesxr.com/) - Spatial Design for Everyone
+* [Gravity Sketch](https://www.gravitysketch.com/) - A 3D design and prototyping tool for immersive experiences
+* [tvori](https://tvori.co/) - Create animated stories and prototype ideas in Virtual Reality
+* [Adobe Aero](https://www.adobe.com/products/aero.html) - Adobe Aero
 
 #### Art & Design
 
