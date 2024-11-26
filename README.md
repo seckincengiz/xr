@@ -362,11 +362,12 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [AR Core](https://developers.google.com/ar) - Android AR SDK
 * [AR Foundation](https://github.com/Unity-Technologies/arfoundation-samples) - Example content for Unity projects based on AR Foundation
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unity_plugin) - Most popular VR SDK
+* [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
 * [Meta XR All-in-One SDK](https://developers.meta.com/horizon/develop?redirect=all-platform) - Can access and handle input from a user’s head, hands, face, and voice
 * [Unity MoveFast](https://github.com/oculus-samples/Unity-MoveFast) - Interaction SDK for fast-action fitness types of apps
-* [OpenVR](https://github.com/ValveSoftware/openvr) - Open Source VR SDK
-* [Vuforia](https://www.ptc.com/en/products/vuforia) - Vuforia is a comprehensive, scalable enterprise AR platform
+* [Zappar](https://www.zappar.com/) - A platform that offers tools for augmented reality (AR) development
 * [Lightship](https://lightship.dev/) - AR SDK that supports depth, physics, occlusions, and semantic segmentation
+* [Vuforia](https://www.ptc.com/en/products/vuforia) - Vuforia is a comprehensive, scalable enterprise AR platform
 * [Poplar Studio](https://poplar.studio/) - Create and deploy 3D and AR experiences for e-commerce and marketing
 * [AUKI](https://www.aukilabs.com/) - Peer-to-peer positioning framework
 * [VRTK](https://github.com/ExtendRealityLtd/VRTK) - Open Source Crossplatform VR Toolkit
@@ -380,6 +381,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [SparkAR](https://sparkar.facebook.com/ar-studio/) - Let's you create interactive AR experiences, with or without code
 * [Niantic 8thwall](https://www.8thwall.com/discover) - Web-based augmented reality, enables augmented reality (AR) to work within a browser
+* [Zappar](https://www.zappar.com/) - A platform that offers tools for augmented reality (AR) development
 * [aframe](https://aframe.io/) - Web framework for building virtual reality experiences
 * [Babylonjs](https://www.babylonjs.com/) - Powerful, beautiful, simple, and open web rendering engine
 * [Metavrse](https://metavrse.com/) - It is a web platform that makes it easy to Create, Curate & Consume interactive 3D Experiences
