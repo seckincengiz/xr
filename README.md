@@ -209,6 +209,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [TCL Rayneo X2](https://www.rayneo.com/products/tcl-rayneo-x2) - First standalone AR Glass
 * [XRAI AR1](https://xrai.glass/ar-one/) - See the conversation Real-time subtitles in front of your eyes
 * [Nimo](https://www.nimoplanet.com/) - Multi-screen computer fits in the pocket
+* [Zapbox](https://www.zappar.com/zapbox/) - Unleash the power of Mixed Reality on your iPhone
 
 **2023**
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - seamlessly blends digital content with your physical space
