@@ -207,6 +207,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 **2024**
 * [TCL Rayneo X2](https://www.rayneo.com/products/tcl-rayneo-x2) - First standalone AR Glass
+* [Almer Arc 2](https://almer.com/almer-arc2/) - Best in class image quality
 * [XRAI AR1](https://xrai.glass/ar-one/) - See the conversation Real-time subtitles in front of your eyes
 * [Nimo](https://www.nimoplanet.com/) - Multi-screen computer fits in the pocket
 * [Zapbox](https://www.zappar.com/zapbox/) - Unleash the power of Mixed Reality on your iPhone
@@ -601,7 +602,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Snap Inc.](https://developers.snap.com/) - Offers AR features within Snapchat with Lens Studio for AR content creation
 * [Infinite Reality](https://www.theinfinitereality.com/) - Offers immersive and interactive 3D technologies for global brands and audiences
 
-#### OEM
+#### HARDWARE & OEM
 
 * [Qualcom](https://www.qualcomm.com/research/extended-reality) - Develops Snapdragon processors that power advanced mobile XR experiences
 * [Nvidia](https://blogs.nvidia.com/) - Provides high-performance GPUs that are crucial for rendering complex XR environments
@@ -612,6 +613,8 @@ Solution-oriented links. The same company may have more than one solution.
 * [Apple](https://www.apple.com/) - Integrates AR technologies in its devices, enabling augmented reality applications directly through iOS
 * [Varjo](https://varjo.com/) - Specializes in creating ultra-high resolution VR and XR headsets for professional markets
 * [Valve](https://www.valvesoftware.com/en/) - Produces the Valve Index, a high-fidelity virtual reality headset for gaming and simulations
+* [Realwear](https://www.realwear.com/) - The most powerful Smart Glasses for Frontline workers
+* [Almer](https://almer.com/) - Developing ultra-compact, user-friendly AR headsets tailored for industrial applications
 * [HP](https://www.hp.com/) -  Involved in the development of VR technologies, including the HP Reverb VR headset
 * [Lenovo](https://www.lenovo.com) - Develops the ThinkReality series of AR and VR solutions geared towards enterprise applications
 * [LG](https://www.lg.com/) - Engages in developing VR headsets and AR applications
