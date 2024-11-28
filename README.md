@@ -140,6 +140,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Pimax Crystal Super](https://pimax.com/) - 2880×2880 resolution QD-LCD wired PC VR headset
 
 **2024**
+* [Vive Focus Vision](https://www.vive.com/us/product/vive-focus-vision/overview/) - Amazing specs affordable price point
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - Seamlessly blends digital content with your physical space
 * [Oculus Quest 3S](https://about.fb.com/news/2024/09/meta-quest-3s-our-most-affordable-mixed-reality-headset/) - Meta's most affordable MR headset
 * [Pico 4 Ultra](https://www.picoxr.com/global/products/pico4-ultra) - Designed for Comfort All Day Long
