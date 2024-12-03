@@ -288,6 +288,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 #### Accessories
 
+* [Striker VR Mavrik](https://strikervr.com/products/mavrik) - Haptic gaming peripheral designed for the Meta Quest 3 & 3S
 * [Syntech XR Accessories](https://syntechhome.com/collections/oculus-accessories) - Ultimate Oculus & Meta Quest Accessories Collection
 * [VIVE USB-C Dock](https://www.vive.com/us/accessory/vive-usb-c-dock-5-ports/) - Keep your standalone VR trackers ready for action with this 5-in-1 docking station
 * [YogesVR](https://yogesvr.com/) - Accessories including power bank, wireless charger, oculus accessories
