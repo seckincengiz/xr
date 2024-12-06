@@ -207,6 +207,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Ocutrxtech OcuLenz](https://www.ocutrxtech.com/) - A revolutionary AR/XR headset for a range of uses
 
 **2024**
+* [XReal One](https://www.xreal.com/one/) - Experience 3DoF Like Never Before
 * [TCL Rayneo X2](https://www.rayneo.com/products/tcl-rayneo-x2) - First standalone AR Glass
 * [Almer Arc 2](https://almer.com/almer-arc2/) - Best in class image quality
 * [XRAI AR1](https://xrai.glass/ar-one/) - See the conversation Real-time subtitles in front of your eyes
