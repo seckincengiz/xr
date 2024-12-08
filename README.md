@@ -301,6 +301,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Quest 2 Elite Strap](https://www.meta.com/quest/accessories/quest-2-elite-strap/) - Increases balance and support with a twist of the fit wheel
 * [Esimen Hard Carrying Case](https://www.amazon.com/Esimen-Carrying-Compatible-Accessories-Storage/dp/B09JW18BMS?tag=cnet-buy-button-20&ascsubtag=5432fe740e8c454cbf27d29fa4c8e6f4%7C79c91938-3c76-419f-bb28-802e74013897%7Cdtp%7Ccn) - Esimen Hard Carrying Case for Oculus Quest 2
 * [VirtuClear Prescription Lenses](https://www.meta.com/quest/accessories/quest-2-virtuclear-lens-inserts/) - Custom prescription VR lenses are lightweight and easy to use
+* [Roto VR](https://www.rotovr.com/) - A motorized VR Chair that rotates 360°
 
 #### Wearables
 
