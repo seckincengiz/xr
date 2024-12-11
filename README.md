@@ -263,9 +263,10 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Amazon Echo Frames](https://www.amazon.com/b?node=116898096011&tag=theverge02-20&ascsubtag=___vg__p_23646533__t_w__r_https://www.google.com/__d_D) - Capture, share and listen
 * [Spectacles 3](https://www.spectacles.com/shop/spectacles-3) - Capture your world in 3D. Relive it with your 3D Viewer
 
-#### AR Laptops
+#### AR Powered
 
 * [Spacetop](https://www.sightful.com/experience/) - The world's first AR Laptop
+* [ENVISION Smart Binoculars](https://www.unistellar.com/envision-on-kickstarter/) - AR overlays guide and enhance your night sky and daylight vision
 
 #### Displays
 
