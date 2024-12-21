@@ -680,6 +680,10 @@ Solution-oriented links. The same company may have more than one solution.
 * [TurboSquid](https://www.turbosquid.com/) - Offers 3D models for AR/VR and other applications
 * [WebVR Directory](https://webvr.directory/) - A collection of web-based VR experiences
 
+#### Avatar Creation
+
+* [Coprosence](https://www.copresence.tech/) - Digital avatar generation software
+
 #### Cloud
 
 * [NVidia Cloud XR](https://www.nvidia.com/en-us/design-visualization/solutions/cloud-xr/) - Stream XR content from servers to client devices over networks
