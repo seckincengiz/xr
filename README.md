@@ -136,8 +136,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Samsung XR Headset](https://www.uploadvr.com/samsungs-google-powered-headset-could-launch-later-next-year/) - Samsung's XR Headset Is Set To Launch In Late 2024
 * [Visor](https://www.visor.com/) - The world’s smallest 4K headset
 * [Sony MR Headset](https://www.youtube.com/watch?v=tpHrMBiQUCA&ab_channel=CNET) - Sony's CES Event: Everything Revealed in 4 Minutes
-* [Pimax Crystal Light](https://pimax.com/) - 2880×2880 resolution QD-LCD wired PC VR headset
-* [Pimax Crystal Super](https://pimax.com/) - 2880×2880 resolution QD-LCD wired PC VR headset
 
 **2024**
 * [Vive Focus Vision](https://www.vive.com/us/product/vive-focus-vision/overview/) - Amazing specs affordable price point
@@ -145,6 +143,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Oculus Quest 3S](https://about.fb.com/news/2024/09/meta-quest-3s-our-most-affordable-mixed-reality-headset/) - Meta's most affordable MR headset
 * [Pico 4 Ultra](https://www.picoxr.com/global/products/pico4-ultra) - Designed for Comfort All Day Long
 * [Meganex](https://en.shiftall.net/products/meganex) - An ultra-lightweight 5.2K VR headset compatible with SteamVR
+* [Pimax Dream Air](https://pimax.com/products/pimax-dream-air) - World's smallest full-feature 8K resolution headset
+* [Pimax Crystal Light](https://pimax.com/products/pimax-crystal-light) - 2880×2880 resolution QD-LCD wired PC VR headset
 
 **2023**
 * [PlayStation VR2](https://www.playstation.com/en-us/ps-vr2/) - stunning 4K HDR visuals, genre-defining games, and unique sensations
