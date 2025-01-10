@@ -648,6 +648,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Third Eye](https://www.thirdeyegen.com/) - Produces both software solutions and hardware for the XR Domain
 * [Toshiba](https://www.toshiba.com/tai/) - Produces AR glasses for enterprise users
 * [Garmin](https://www.garmin.com/) - Designs and manufactures wearable technology across various sectors
+* [Optix](https://www.optix.cn/) - Next generation optical solutions for XR products
 
 #### Standards & Frameworks
 
