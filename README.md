@@ -136,6 +136,10 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Samsung XR Headset](https://www.uploadvr.com/samsungs-google-powered-headset-could-launch-later-next-year/) - Samsung's XR Headset Is Set To Launch In Late 2024
 * [Visor](https://www.visor.com/) - The world’s smallest 4K headset
 * [Sony MR Headset](https://www.youtube.com/watch?v=tpHrMBiQUCA&ab_channel=CNET) - Sony's CES Event: Everything Revealed in 4 Minutes
+* [DPVR P2 Vision](https://www.dpvr.com/en/) - VR Headset for precision, comfort, and versatility
+
+**2025**
+
 
 **2024**
 * [Vive Focus Vision](https://www.vive.com/us/product/vive-focus-vision/overview/) - Amazing specs affordable price point
@@ -197,6 +201,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 ### AR Headsets & Glasses
 
 **Upcoming**
+* [Apple Vision Pro 2](https://www.apple.com/) - M5 Powered new headset
 * [Orion](https://www.youtube.com/watch?v=2CJsnyS8u3c&t=1s&ab_channel=MetaQuest) - Orion, Explained
 * [Spectacles](https://www.spectacles.com/new-spectacles/) - Next generation AR Spectacles
 * [Visor](https://www.visor.com/) - Spatial computing designed for work
