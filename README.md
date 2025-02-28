@@ -559,6 +559,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Innoactive](https://www.innoactive.io/cloud-xr-rendering-streaming) - Cloud XR Solution
 * [Theorem AR Remote Rendering](https://www.theorem.com/theorem-xr/microsoft-azure-remote-rendering) - Microsoft Azure Remote Rendering ARR for HoloLens 2
 * [Hololight Stream](https://hololight.com/solutions/augmented-reality-vr-streaming-industrial-apps/) - Streaming SDK for XR Devices
+* [Cloudinary](https://cloudinary.com/products/3d) - Making immersive 3D easy and scalable for e-commerce
 
 #### Digital Agencies
 
