@@ -661,6 +661,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Toshiba](https://www.toshiba.com/tai/) - Produces AR glasses for enterprise users
 * [Garmin](https://www.garmin.com/) - Designs and manufactures wearable technology across various sectors
 * [Optix](https://www.optix.cn/) - Next generation optical solutions for XR products
+* [MicrooLed](https://microoled.net/) - Taking near-eye display designs to the next level
 
 #### Standards & Frameworks
 
