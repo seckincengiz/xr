@@ -140,6 +140,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 **2025**
 
+* [Meta Quest 3S Xbox Edition](https://www.meta.com/quest/quest-3s/buy-xbox-edition/?intern_source=blog&intern_content=quest-3s-xbox-edition-bundle) - No Xbox console required
+* [Pimax Dream Air](https://pimax.com/products/pimax-dream-air) - World's smallest full-feature 8K resolution headset
 
 **2024**
 * [Vive Focus Vision](https://www.vive.com/us/product/vive-focus-vision/overview/) - Amazing specs affordable price point
@@ -147,7 +149,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Oculus Quest 3S](https://about.fb.com/news/2024/09/meta-quest-3s-our-most-affordable-mixed-reality-headset/) - Meta's most affordable MR headset
 * [Pico 4 Ultra](https://www.picoxr.com/global/products/pico4-ultra) - Designed for Comfort All Day Long
 * [Meganex](https://en.shiftall.net/products/meganex) - An ultra-lightweight 5.2K VR headset compatible with SteamVR
-* [Pimax Dream Air](https://pimax.com/products/pimax-dream-air) - World's smallest full-feature 8K resolution headset
 * [Pimax Crystal Light](https://pimax.com/products/pimax-crystal-light) - 2880×2880 resolution QD-LCD wired PC VR headset
 
 **2023**
@@ -201,6 +202,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 ### AR Headsets & Glasses
 
 **Upcoming**
+* [Project Aura](https://www.xreal.com/aura) - Available 2026
 * [Apple Vision Pro 2](https://www.apple.com/) - M5 Powered new headset
 * [Orion](https://www.youtube.com/watch?v=2CJsnyS8u3c&t=1s&ab_channel=MetaQuest) - Orion, Explained
 * [Spectacles](https://www.spectacles.com/new-spectacles/) - Next generation AR Spectacles
@@ -214,7 +216,9 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 **2025**
 
+* [Project Aria](https://www.projectaria.com/glasses/) - The most advanced research glasses ever made
 * [Viture Pro](https://pro.viture.com/) - 120Hz Display AR Glass
+* [Rokid AR Spatial](https://global.rokid.com/pages/rokid-ar-spatial) - Multi-Task, Multi-APP Powerhouse
 
 **2024**
 * [XReal One](https://www.xreal.com/one/) - Experience 3DoF Like Never Before
@@ -495,7 +499,6 @@ Solution-oriented links. The same company may have more than one solution.
 
 * [Dent Reality](https://www.dentreality.com/) - A collaborative XR design and prototyping tool for VR and AR experiences
 
-
 #### UI/UX Design
 
 * [ShapeXR](https://www.shapesxr.com/) - Spatial Design for Everyone
@@ -544,6 +547,7 @@ Solution-oriented links. The same company may have more than one solution.
 #### Tracking, Detection & Positioning
 
 * [OptiTrack](https://optitrack.com/applications/virtual-reality/) - World’s most accurate and easy to use wide area VR trackers
+* [Doublepoint](https://www.doublepoint.com/) - specializes in gesture recognition and hand tracking technology
 * [AUKI](https://www.aukilabs.com/) - Peer-to-peer positioning framework
 * [VisionLib](https://visionlib.com/) - Enabling to detect and track physical 3D objects at industrial scale
 * [Vuforia](https://www.ptc.com/en/products/vuforia) - A comprehensive, scalable enterprise AR platform
@@ -676,7 +680,6 @@ Solution-oriented links. The same company may have more than one solution.
 * [OpenCV](https://opencv.org/) - An open-source computer vision and machine learning software library
 * [VRM Consortium](https://vrm-consortium.org/en/) - Platform-independent file format designed for use with 3D characters and avatars
 * [Goertek](https://www.goertek.com/) - Key partner in standardizing XR device manufacturing through Qualcomm's XR Accelerator Program
-
 
 #### Platform & Marketplace
 
