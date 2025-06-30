@@ -219,6 +219,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Project Aria](https://www.projectaria.com/glasses/) - The most advanced research glasses ever made
 * [Viture Pro](https://pro.viture.com/) - 120Hz Display AR Glass
 * [Rokid AR Spatial](https://global.rokid.com/pages/rokid-ar-spatial) - Multi-Task, Multi-APP Powerhouse
+* [ASUS AirVision M1](https://www.asus.com/displays-desktops/glasses/airvision/asus-airvision-m1/) - 100" Wearable Display with All-Day Comfort
 
 **2024**
 * [XReal One](https://www.xreal.com/one/) - Experience 3DoF Like Never Before
