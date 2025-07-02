@@ -445,6 +445,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Ludus VR Training](https://ludusglobal.com/en/training) - Ludus is the ultimate platform for safety training
 * [Collective Training System](https://www.kratosdefense.com/systems-and-platforms/training-systems/simulation-systems/air/collective-training-systems) - Reconfigurable, Virtual Collective Training System (RVCTS)
 * [VictoryXR](https://www.victoryxr.com/) - Where Online Learning Meets Hands-on Learning
+* [Treedis](https://www.treedis.com/) - immersive training, seamless knowledge transfer
 
 #### Collaboration
 
@@ -469,6 +470,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [ScopeAR](https://www.scopear.com/solutions/ar-remote-assistance/) - Instant access to company experts and up-to-date instructions in one app
 * [Reflekt Remote](https://www.re-flekt.com/reflekt-remote) - Remote Work with AR and Live Video on mobile devices and wearables
 * [TeamViewer](https://www.teamviewer.com/en/augmented-reality/) - Collaborative peer-to-peer support that improves processes
+* [Treedis](https://www.treedis.com/) - Empowering the future of workforce connectivity
 
 #### Social, Events & Virtual Telepresence
 
