@@ -445,7 +445,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Ludus VR Training](https://ludusglobal.com/en/training) - Ludus is the ultimate platform for safety training
 * [Collective Training System](https://www.kratosdefense.com/systems-and-platforms/training-systems/simulation-systems/air/collective-training-systems) - Reconfigurable, Virtual Collective Training System (RVCTS)
 * [VictoryXR](https://www.victoryxr.com/) - Where Online Learning Meets Hands-on Learning
-* [Treedis](https://www.treedis.com/) - immersive training, seamless knowledge transfer
+* [Treedis Flows](https://www.youtube.com/watch?v=Qqeycm5w51U&ab_channel=treedis) - immersive training, seamless knowledge transfer
 
 #### Collaboration
 
