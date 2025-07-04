@@ -213,6 +213,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Spacetop](https://www.sightful.com/) - The AR software engine for the AI PC
 * [Ocutrxtech OcuLenz](https://www.ocutrxtech.com/) - A revolutionary AR/XR headset for a range of uses
 * [RayNeo Air 3](https://www.rayneo.com/) - AI Powered Full Color AR Glass
+* [Oakley Meta HSTN](https://www.meta.com/ai-glasses/oakley-meta-hstn/?srsltid=AfmBOor6a3SP2EkLKTqt_my7BUFz8HDW6Xv-D_JvqIMlm9qTszxuXijJ) - Get hands-free access to answers, playlists and more
 
 **2025**
 
