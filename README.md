@@ -122,6 +122,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 ### VR Headsets
 
 **Upcoming**
+
 * [Valve Deckard(speculation)](https://youtube.com/shorts/G9xPYlzVl1c?si=Qtzb2aZ9M707sJbh) - New Valve VR Headset
 * [Butterscotch Varifocal](https://www.uploadvr.com/meta-butterscotch-varifocal-prototype-retinal-hands-on/) - Meta's Retinal Resolution Varifocal Prototype Headset
 * [Simula One](https://simulavr.com/) - Standalone VR headset that runs on a Linux-based os called SimulaOSVR Computer
@@ -137,6 +138,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Pimax Dream Air](https://pimax.com/products/pimax-dream-air) - World's smallest full-feature 8K resolution headset
 
 **2024**
+
 * [Vive Focus Vision](https://www.vive.com/us/product/vive-focus-vision/overview/) - Amazing specs affordable price point
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - Seamlessly blends digital content with your physical space
 * [Oculus Quest 3S](https://about.fb.com/news/2024/09/meta-quest-3s-our-most-affordable-mixed-reality-headset/) - Meta's most affordable MR headset
@@ -145,6 +147,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Pimax Crystal Light](https://pimax.com/products/pimax-crystal-light) - 2880×2880 resolution QD-LCD wired PC VR headset
 
 **2023**
+
 * [PlayStation VR2](https://www.playstation.com/en-us/ps-vr2/) - stunning 4K HDR visuals, genre-defining games, and unique sensations
 * [Pimax Reality 12K QLED](https://pimax.com/pimax-12k/) - Bringing higher resolution and larger field of view
 * [Meta Quest 3](https://www.meta.com/de/en/quest/quest-3/) - Twice the GPU processing power compared to Quest 2
@@ -154,6 +157,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Varjo XR-4](https://varjo.com/products/xr-4/) - It is great where highest-level visual fidelity and immersion are critical
 
 **2022**
+
 * [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) - Most advanced Meta headset
 * [HTC Vive Flow](https://www.vive.com/us/product/vive-flow/overview/) - The immersive VR glasses for on-the-go wellness
 * [HTC Vive Flow Business](https://business.vive.com/us/product/vive-flow/) - The immersive VR glasses for business
@@ -163,31 +167,37 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [MeganeX](https://en.shiftall.net/products/meganex) - Ultra-lightweight and ultra-compact VR headset compatible with SteamVR
 
 **2021**
+
 * [Varjo Aero](https://varjo.com/products/aero/) - The lightest & brightest professional-grade headset ever made
 * [Varjo VR-3](https://varjo.com/products/vr-3/) - Highest resolution across the widest field of view
 * [HTC Vive Focus 3](https://www.vive.com/eu/product/vive-focus3/overview/) - Simple all-in-one solution for business
 * [HTC Vive Pro 2](https://www.vive.com/eu/product/vive-pro2/overview/) - Pro 2 version of HTC Vive
 
 **2020**
+
 * [Oculus Quest 2](https://www.oculus.com/quest-2/) - Great Standalone VR Headset
 * [HP Reverb G2](https://www.hp.com/us-en/vr/reverb-g2-vr-headset.html) - Developed in collaboration with Valve and Microsoft
 
 **2019**
+
 * [Oculus Quest](https://www.oculus.com/quest/) - Great Standalone VR Headset
 * [Oculus Rift S](https://www.oculus.com/rift-s/) - Great PC Powered VR Headset
 * [Valve Index](https://store.steampowered.com/valveindex) - One of the best quality PC VR headset
 * [Pimax 8K](https://pimax.com/product/vision-8k-x/) - two 4K displays, one for each eye, with a field of view of 200 degrees
 
 **2018**
+
 * [HTC Vive Pro](https://www.vive.com/eu/product/vive-pro-full-kit/) - Pro version of HTC Vive
 * [Oculus Go](https://www.oculus.com/go/) - First Standalone Oculus VR Headset
 * [HTC Vive Focus](https://business.vive.com/us/product/vive-focus/) - Simple all-in-one solution for business
 * [HTC Vive Focus Plus](https://business.vive.com/us/product/focus-plus/) - The all-in-one VR system designed for business
 
 **2017**
+
 * [Pico Neo CV](https://www.picoxr.com/global) - Snapdragon 820 based VR Headset
 
 **2016**
+
 * [Oculus Rift](https://www.oculus.com/rift/) - First Oculus VR Headset
 * [HTC Vive](https://www.vive.com/eu/product/vive/) - First Vive Headset
 * [PlayStation VR](https://www.playstation.com/en-us/ps-vr/?smcid=pdc%3Aen-us%3Asearch%3Aprimary%20nav%3Amsg-hardware%3Aps-vr) - PS VR headset
@@ -195,6 +205,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 ### AR Headsets & Glasses
 
 **Upcoming**
+
 * [Project Aura](https://www.xreal.com/aura) - Available 2026
 * [Apple Vision Pro 2](https://www.apple.com/) - M5 Powered new headset
 * [Orion](https://www.youtube.com/watch?v=2CJsnyS8u3c&t=1s&ab_channel=MetaQuest) - Orion, Explained
@@ -216,6 +227,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [ASUS AirVision M1](https://www.asus.com/displays-desktops/glasses/airvision/asus-airvision-m1/) - 100" Wearable Display with All-Day Comfort
 
 **2024**
+
 * [XReal One](https://www.xreal.com/one/) - Experience 3DoF Like Never Before
 * [TCL Rayneo X2](https://www.rayneo.com/products/tcl-rayneo-x2) - First standalone AR Glass
 * [Almer Arc 2](https://almer.com/almer-arc2/) - Best in class image quality
@@ -224,6 +236,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Zapbox](https://www.zappar.com/zapbox/) - Unleash the power of Mixed Reality on your iPhone
 
 **2023**
+
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - seamlessly blends digital content with your physical space
 * [Immo Air 2](https://inmoglass.com/pages/inmo-ar) - The World's First Wireless Portable AR Glasses
 * [Rokid Max](https://global.rokid.com/pages/rokid-max) - Provide a portable entertainment experience
@@ -232,35 +245,42 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [RealWear Navigator 520](https://www.realwear.com/hyperdisplay/) - It is lightweight and comfortable, and is secure for enterprise use
 
 **2022**
+
 * [Magic Leap 2](https://www.magicleap.com/magic-leap-2) - Standalone AR Headset
 * [Solomon META-aivi](https://www.solomon-3d.com/products/meta_aivi/) - Portable AI Vision System
 * [Moverio BT-45C](https://epson.com/For-Work/Wearables/Smart-Glasses/Moverio-BT-45C-AR-Smart-Glasses/p/V11H970020) - Ideal for mission-critical tasks troubleshooting, maintenance, inspection and training
 
 **2021**
+
 * [Lenova ThinkReality A3 Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) - Lenovo’s versatile smart glasses for the enterprise
 * [Varjo XR-3](https://varjo.com/products/xr-3/) - Highest performance XR for every workplace
 * [Moverio BT-40](https://epson.com/For-Work/Wearables/Smart-Glasses/Moverio-BT-40-Smart-Glasses-with-USB-Type-C-Connectivity-/p/V11H969020) - Epson's Personal Smart Glasses with USB Type-C Connectivity
 
 **2020**
+
 * [Vuzix M400](https://www.vuzix.com/products/m4000-smart-glasses) - See-through Waveguide optics for a more natural viewing state
 * [Vuzix Blade](https://www.vuzix.com/products/blade-smart-glasses-upgraded) - Provides hands-free ar glasses to defense, security, enterprise and consumers
 
 **2019**
+
 * [Microsoft HoloLens 2](https://www.microsoft.com/en-us/hololens) - Mixed reality device with apps and solutions that enhance collaboration
 * [Google Glass Enterprise Edition 2](https://www.google.com/glass/tech-specs/) - A hands-free device for smarter and faster hands-on work
 
 **2018**
+
 * [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - A lightweight, wearable computer to enhance productivity
 
 **2017**
+
 * [Realwear](https://realwear.com/) - Voice Controlled Fully Rugged Headset
 
 **2014**
+
 * [Fove VR](https://fove-inc.com/) - FOVE is a virtual reality (VR) headset that uses eye tracking technology
 
 **2013**
-* [Google Glass Explorer Edition](https://www.google.com/glass/start/) - First Google Glass
 
+* [Google Glass Explorer Edition](https://www.google.com/glass/start/) - First Google Glass
 
 #### AR + VR Headsets
 
@@ -664,6 +684,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [Garmin](https://www.garmin.com/) - Designs and manufactures wearable technology across various sectors
 * [Optix](https://www.optix.cn/) - Next generation optical solutions for XR products
 * [MicrooLed](https://microoled.net/) - Taking near-eye display designs to the next level
+* [Swave](https://swave.io/) - Real holographic AR display provider
 
 #### Standards & Frameworks
 
