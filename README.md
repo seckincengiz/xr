@@ -497,6 +497,7 @@ Solution-oriented links. The same company may have more than one solution.
 
 #### Medical
 
+* [Sharecare You](https://store.steampowered.com/app/753200/Sharecare_YOU/) -  An immersive, photorealistic simulation of the human body
 * [XR Health](https://www.xr.health/) - Revolutionizing Therapy With AI-Powered Extended Reality
 * [Realized Care](https://www.realizedcare.com/) - Personalized support & digitally-powered care management platform
 * [Fundamental Surgery](https://fundamentalsurgery.com/) - Leading VR training solutions to accelerate adoption and safe use of medical devices
