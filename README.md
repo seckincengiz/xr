@@ -220,6 +220,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 **2025**
 
 * [Apple Vision Pro M5](https://www.apple.com/apple-vision-pro/) - A workspace with infinite space
+* [Samsung Galaxy XR](https://www.samsung.com/us/xr/galaxy-xr/galaxy-xr/) - Watch, work and play with AI at your side
 * [Viture Pro](https://pro.viture.com/) - 120Hz Display AR Glass
 * [XReal One Pro](https://us.shop.xreal.com/products/xreal-one-pro) - World's First AR Glasses Equipped With a Self-Developed Spatial Computing Chip
 * [Oakley Meta HSTN](https://www.meta.com/ai-glasses/oakley-meta-hstn/?srsltid=AfmBOor6a3SP2EkLKTqt_my7BUFz8HDW6Xv-D_JvqIMlm9qTszxuXijJ) - Get hands-free access to answers, playlists and more
