@@ -126,19 +126,20 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Valve Deckard(speculation)](https://youtube.com/shorts/G9xPYlzVl1c?si=Qtzb2aZ9M707sJbh) - New Valve VR Headset
 * [Butterscotch Varifocal](https://www.uploadvr.com/meta-butterscotch-varifocal-prototype-retinal-hands-on/) - Meta's Retinal Resolution Varifocal Prototype Headset
 * [Simula One](https://simulavr.com/) - Standalone VR headset that runs on a Linux-based os called SimulaOSVR Computer
-* [Somnium VR1](https://www.somniumspace.com/) - Next Generation Clarity and FOV in VR & MR
 * [Samsung XR Headset](https://www.uploadvr.com/samsungs-google-powered-headset-could-launch-later-next-year/) - Samsung's XR Headset Is Set To Launch In Late 2024
 * [Visor](https://www.visor.com/) - The world’s smallest 4K headset
 * [Sony MR Headset](https://www.youtube.com/watch?v=tpHrMBiQUCA&ab_channel=CNET) - Sony's CES Event: Everything Revealed in 4 Minutes
-* [DPVR P2 Vision](https://www.dpvr.com/en/) - VR Headset for precision, comfort, and versatility
 
 **2025**
 
 * [Meta Quest 3S Xbox Edition](https://www.meta.com/quest/quest-3s/buy-xbox-edition/?intern_source=blog&intern_content=quest-3s-xbox-edition-bundle) - No Xbox console required
 * [Pimax Dream Air](https://pimax.com/products/pimax-dream-air) - World's smallest full-feature 8K resolution headset
-
+* [DPVR P2 Vision](https://www.dpvr.com/en/) - VR Headset for precision, comfort, and versatility
+* [Somnium Space VR1](https://www.somniumspace.com/) - Next Generation Clarity and FOV in VR & MR
+  
 **2024**
 
+* [Meta Quest 3S](https://www.meta.com/quest/quest-3s/) - Price performance VR device
 * [Vive Focus Vision](https://www.vive.com/us/product/vive-focus-vision/overview/) - Amazing specs affordable price point
 * [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) - Seamlessly blends digital content with your physical space
 * [Oculus Quest 3S](https://about.fb.com/news/2024/09/meta-quest-3s-our-most-affordable-mixed-reality-headset/) - Meta's most affordable MR headset
@@ -207,7 +208,6 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 **Upcoming**
 
 * [Project Aura](https://www.xreal.com/aura) - Available 2026
-* [Apple Vision Pro 2](https://www.apple.com/) - M5 Powered new headset
 * [Orion](https://www.youtube.com/watch?v=2CJsnyS8u3c&t=1s&ab_channel=MetaQuest) - Orion, Explained
 * [Spectacles](https://www.spectacles.com/new-spectacles/) - Next generation AR Spectacles
 * [Visor](https://www.visor.com/) - Spatial computing designed for work
@@ -216,15 +216,17 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Journey Lens](https://www.phantomtech.io/) - The world’s first smart glasses to improve your focus and wellbeing
 * [Spacetop](https://www.sightful.com/) - The AR software engine for the AI PC
 * [Ocutrxtech OcuLenz](https://www.ocutrxtech.com/) - A revolutionary AR/XR headset for a range of uses
-* [RayNeo Air 3](https://www.rayneo.com/) - AI Powered Full Color AR Glass
-* [Oakley Meta HSTN](https://www.meta.com/ai-glasses/oakley-meta-hstn/?srsltid=AfmBOor6a3SP2EkLKTqt_my7BUFz8HDW6Xv-D_JvqIMlm9qTszxuXijJ) - Get hands-free access to answers, playlists and more
 
 **2025**
 
-* [Project Aria](https://www.projectaria.com/glasses/) - The most advanced research glasses ever made
+* [Apple Vision Pro M5](https://www.apple.com/apple-vision-pro/) - A workspace with infinite space
 * [Viture Pro](https://pro.viture.com/) - 120Hz Display AR Glass
+* [XReal One Pro](https://us.shop.xreal.com/products/xreal-one-pro) - World's First AR Glasses Equipped With a Self-Developed Spatial Computing Chip
+* [Oakley Meta HSTN](https://www.meta.com/ai-glasses/oakley-meta-hstn/?srsltid=AfmBOor6a3SP2EkLKTqt_my7BUFz8HDW6Xv-D_JvqIMlm9qTszxuXijJ) - Get hands-free access to answers, playlists and more
+* [Project Aria](https://www.projectaria.com/glasses/) - The most advanced research glasses ever made
 * [Rokid AR Spatial](https://global.rokid.com/pages/rokid-ar-spatial) - Multi-Task, Multi-APP Powerhouse
 * [ASUS AirVision M1](https://www.asus.com/displays-desktops/glasses/airvision/asus-airvision-m1/) - 100" Wearable Display with All-Day Comfort
+* [RayNeo Air 3](https://www.rayneo.com/) - AI Powered Full Color AR Glass
 
 **2024**
 
