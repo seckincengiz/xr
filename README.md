@@ -517,6 +517,10 @@ Solution-oriented links. The same company may have more than one solution.
 * [Precision OS Technology](https://www.precisionostech.com/) - Immersive experiences surgeons can see, hear and feel
 * [Simx VR EMS](https://www.simxvr.com/virtual-reality-simulation-for-ems/) - VR Training for First Responders
 
+#### Military
+
+* [Anduril Eagle Eye](https://www.anduril.com/hardware/eagleeye/) - Fight earlier, decide faster, and act with better information
+
 #### Navigation
 
 * [Dent Reality](https://www.dentreality.com/) - A collaborative XR design and prototyping tool for VR and AR experiences
