@@ -123,6 +123,8 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 **Upcoming**
 
+* [Tiramisu: Hyperrealistic VR](https://www.meta.com/blog/reality-labs-research-tiramisu-boba-3-siggraph-2025-ultrawide-fov-hyperrealistic-vr/?srsltid=AfmBOoqwhmM-ZbwrS7hjjtiv9_wdjYYJhk2Fnk_0spTK2hV7nZj_ymLn) - Prototype Meta VR Headset with hyper realistic image
+* [Boba3](https://www.meta.com/blog/reality-labs-research-tiramisu-boba-3-siggraph-2025-ultrawide-fov-hyperrealistic-vr/?srsltid=AfmBOoqwhmM-ZbwrS7hjjtiv9_wdjYYJhk2Fnk_0spTK2hV7nZj_ymLn) - Prototype Meta VR Headset with wide FOV
 * [Valve Deckard(speculation)](https://youtube.com/shorts/G9xPYlzVl1c?si=Qtzb2aZ9M707sJbh) - New Valve VR Headset
 * [Butterscotch Varifocal](https://www.uploadvr.com/meta-butterscotch-varifocal-prototype-retinal-hands-on/) - Meta's Retinal Resolution Varifocal Prototype Headset
 * [Simula One](https://simulavr.com/) - Standalone VR headset that runs on a Linux-based os called SimulaOSVR Computer
