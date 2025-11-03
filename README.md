@@ -523,6 +523,7 @@ Solution-oriented links. The same company may have more than one solution.
 #### Military
 
 * [Anduril Eagle Eye](https://www.anduril.com/hardware/eagleeye/) - Fight earlier, decide faster, and act with better information
+* [Kopin](https://www.kopin.com/markets-applications/training-simulation/) - AR/VR HMDs and military simulation equipment
 
 #### Navigation
 
