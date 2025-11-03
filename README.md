@@ -230,6 +230,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Rokid AR Spatial](https://global.rokid.com/pages/rokid-ar-spatial) - Multi-Task, Multi-APP Powerhouse
 * [ASUS AirVision M1](https://www.asus.com/displays-desktops/glasses/airvision/asus-airvision-m1/) - 100" Wearable Display with All-Day Comfort
 * [RayNeo Air 3](https://www.rayneo.com/) - AI Powered Full Color AR Glass
+* [Lenovo Legion Glasses Gen 2](https://www.lenovo.com/us/en/p/accessories-and-software/vr-headsets/vr-headsets_smart-glasses/gy21r10236) - Glass that connects easily to devices with USB-C video output
 
 **2024**
 
