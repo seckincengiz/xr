@@ -138,6 +138,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Pimax Dream Air](https://pimax.com/products/pimax-dream-air) - World's smallest full-feature 8K resolution headset
 * [DPVR P2 Vision](https://www.dpvr.com/en/) - VR Headset for precision, comfort, and versatility
 * [Somnium Space VR1](https://www.somniumspace.com/) - Next Generation Clarity and FOV in VR & MR
+* [𝗩𝗮𝗿𝗷𝗼 𝗫𝗥-𝟰](https://varjo.com/products/xr-4) - Best-in-class visual fidelity for virtual training environments
   
 **2024**
 
