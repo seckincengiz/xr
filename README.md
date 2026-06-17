@@ -303,6 +303,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 
 * [Spacetop](https://www.sightful.com/experience/) - The world's first AR Laptop
 * [ENVISION Smart Binoculars](https://www.unistellar.com/envision-on-kickstarter/) - AR overlays guide and enhance your night sky and daylight vision
+* [Netblitz](https://www.netblitz.app/) - Platform for creating and experiencing location-based immersive content through multimedia and AR interactions
 
 #### Displays
 
