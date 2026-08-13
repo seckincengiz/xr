@@ -474,19 +474,17 @@ Solution-oriented links. The same company may have more than one solution.
 * [Cavrnus](https://www.cavrnus.com/) - Drag-and-drop Collaboration
 * [Virbela](https://www.virbela.com/) - Brings people together to work, learn, meet, and train
 * [Microsoft Mesh](https://www.microsoft.com/en-us/mesh) - Enables presence and shared experiences from anywhere
-* [Spatial](https://spatial.io/) - Popular cross-platform XR meeting app
-* [MeetinVR](https://www.meetinvr.com/) - Optimized for exceptional collaboration
+* [Spatial](https://spatial.io/) - Cross-platform XR meeting app, now enterprise-focused
 * [Connect2](https://www.connec2.nl/) - Virtual collaboration platform that allows you to have a lifelike social experience
 * [BigScreen](https://www.bigscreenvr.com/) - You can hang out with friends, collaborate with coworkers
-* [Horizon Workrooms](https://www.oculus.com/workrooms/) - VR space for teams to connect, collaborate and develop ideas, together
 * [Webex](https://www.webex.com/) - Calling, meetings, and messaging in the cloud for teams of all sizes
 * [Glue](https://glue.work/) - Glue is a virtual collaboration platform for teams
+* [RAUM](https://www.raum.app/) - VR-first collaboration platform for enterprise meetings, workshops and training
 * [Immersed](https://immersed.com/) - Spawn 5 virtual monitors in VR to optimize focus & productivity
 * [Dreamos](https://dreamos.com/) - Useful collaboration in virtual reality
 * [improov](http://www.improovr.com/home-v2/) - Collaborate in VR around your CAD model
 * [MootUp](https://mootup.com/) - Accessible 3D Virtual and Hybrid Event Platform
 * [The Wild](https://thewild.com/) - Bring your work to life before it’s built
-* [Mozilla Hubs](https://hubs.mozilla.com/) - Share a virtual room with friends
 * [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/) - Work together from anywhere
 * [Vuforia Chalk](https://www.ptc.com/en/products/vuforia/vuforia-chalk) - Remote Assistance Powered by Augmented Reality
 * [ScopeAR](https://www.scopear.com/solutions/ar-remote-assistance/) - Instant access to company experts and up-to-date instructions in one app
@@ -739,7 +737,7 @@ Solution-oriented links. The same company may have more than one solution.
 * [NVidia Cloud XR](https://www.nvidia.com/en-us/design-visualization/solutions/cloud-xr/) - Stream XR content from servers to client devices over networks
 * [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/mixed-reality) - Provides various services and solutions that cater to XR domain
 * [Google Cloud](https://cloud.google.com/) - Cloud computing services provided by Google
-* [Spatial](https://www.spatial.io/) - Technology company specializing in collaborative virtual workspaces
+* [Spatial](https://www.spatial.io/) - Technology company specializing in tive virtual workspaces
 * [Tencent Cloud](https://www.tencentcloud.com/) - Build, deploy, and scale XR solutions
 * [Agora](https://www.agora.io/en/) - Voice call, video call, live interactive broadcasting, and real-time messaging
 * [AWS](https://aws.amazon.com/blogs/aws/category/ar-vr/amazon-sumerian/) - AWS XR Services
